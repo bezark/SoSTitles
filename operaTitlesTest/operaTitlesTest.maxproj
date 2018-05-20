@@ -1,26 +1,16 @@
 {
 	"name" : "operaTitlesTest",
 	"version" : 1,
-	"creationdate" : -688915909,
-	"modificationdate" : 3609324433,
-	"viewrect" : [ 748.0, 79.0, 300.0, 500.0 ],
+	"creationdate" : -688916030,
+	"modificationdate" : 3609678633,
+	"viewrect" : [ 22.0, 171.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"renderText.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"textureToPlane.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"textSender.maxpat" : 			{
+			"jit.gl.slab.gauss6x.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -36,6 +26,11 @@
 			}
 ,
 			"storageTest.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"LtoUmenu.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -73,10 +68,6 @@
 				"kind" : "object",
 				"local" : 1
 			}
-
-		}
-,
-		"other" : 		{
 
 		}
 

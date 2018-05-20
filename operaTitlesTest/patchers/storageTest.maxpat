@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 34.0, 79.0, 948.0, 787.0 ],
+		"rect" : [ 34.0, 79.0, 1316.0, 787.0 ],
 		"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"bglocked" : 0,
@@ -74,14 +74,13 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "bang" ],
 					"patching_rect" : [ 374.0, 592.0, 83.0, 22.0 ],
-					"presentation_rect" : [ 371.0, 594.0, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"embed" : 0,
 						"name" : "thefonts",
 						"parameter_enable" : 0,
 						"range" : 128,
 						"showeditor" : 0,
-						"size" : 7
+						"size" : 2
 					}
 ,
 					"showeditor" : 0,
@@ -190,36 +189,8 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 7,
-										"data" : [ 											{
-												"key" : 0,
-												"value" : [ ".Arabic UI Text Semibold" ]
-											}
-, 											{
-												"key" : 1,
-												"value" : [ "Helvetica Neue Condensed Bold" ]
-											}
-, 											{
-												"key" : 2,
-												"value" : [ "Helvetica Neue Thin" ]
-											}
-, 											{
-												"key" : 3,
-												"value" : [ "Hiragino Kaku Gothic ProN W3" ]
-											}
-, 											{
-												"key" : 4,
-												"value" : [ "Adobe Hebrew Bold" ]
-											}
-, 											{
-												"key" : 5,
-												"value" : [ ".Al Bayan PUA Plain" ]
-											}
-, 											{
-												"key" : 6,
-												"value" : [ "Rockwell" ]
-											}
- ]
+										"count" : 0,
+										"data" : [  ]
 									}
 ,
 									"id" : "obj-7",
@@ -228,7 +199,6 @@
 									"numoutlets" : 4,
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 332.0, 411.0, 88.0, 22.0 ],
-									"presentation_rect" : [ 210.0, 337.0, 0.0, 0.0 ],
 									"saved_object_attributes" : 									{
 										"embed" : 1
 									}
@@ -267,7 +237,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-1",
-									"items" : [ ".Arabic UI Text Semibold", ",", "Helvetica Neue Condensed Bold", ",", "Helvetica Neue Thin", ",", "Hiragino Kaku Gothic ProN W3", ",", "Adobe Hebrew Bold", ",", ".Al Bayan PUA Plain", ",", "Rockwell" ],
+									"items" : "<empty>",
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
@@ -309,36 +279,8 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 7,
-										"data" : [ 											{
-												"key" : 0,
-												"value" : [ ".Arabic UI Text Semibold" ]
-											}
-, 											{
-												"key" : 1,
-												"value" : [ "Helvetica Neue Condensed Bold" ]
-											}
-, 											{
-												"key" : 2,
-												"value" : [ "Helvetica Neue Thin" ]
-											}
-, 											{
-												"key" : 3,
-												"value" : [ "Hiragino Kaku Gothic ProN W3" ]
-											}
-, 											{
-												"key" : 4,
-												"value" : [ "Adobe Hebrew Bold" ]
-											}
-, 											{
-												"key" : 5,
-												"value" : [ ".Al Bayan PUA Plain" ]
-											}
-, 											{
-												"key" : 6,
-												"value" : [ "Rockwell" ]
-											}
- ]
+										"count" : 0,
+										"data" : [  ]
 									}
 ,
 									"id" : "obj-130",
@@ -488,7 +430,6 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "bang" ],
 					"patching_rect" : [ 808.0, 336.0, 34.0, 22.0 ],
-					"presentation_rect" : [ 893.5, 501.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "t b b"
 				}
@@ -502,7 +443,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 808.0, 364.0, 37.0, 22.0 ],
-					"presentation_rect" : [ 893.5, 529.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "open"
 				}
@@ -516,7 +456,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 808.0, 410.400024, 53.0, 22.0 ],
-					"presentation_rect" : [ 893.5, 575.400024, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "pcontrol"
 				}
@@ -551,36 +490,8 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 7,
-						"data" : [ 							{
-								"key" : 0,
-								"value" : [ ".Arabic UI Text Semibold" ]
-							}
-, 							{
-								"key" : 1,
-								"value" : [ "Helvetica Neue Condensed Bold" ]
-							}
-, 							{
-								"key" : 2,
-								"value" : [ "Helvetica Neue Thin" ]
-							}
-, 							{
-								"key" : 3,
-								"value" : [ "Hiragino Kaku Gothic ProN W3" ]
-							}
-, 							{
-								"key" : 4,
-								"value" : [ "Adobe Hebrew Bold" ]
-							}
-, 							{
-								"key" : 5,
-								"value" : [ ".Al Bayan PUA Plain" ]
-							}
-, 							{
-								"key" : 6,
-								"value" : [ "Rockwell" ]
-							}
- ]
+						"count" : 0,
+						"data" : [  ]
 					}
 ,
 					"id" : "obj-126",
@@ -589,7 +500,6 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 374.0, 670.0, 150.0, 22.0 ],
-					"presentation_rect" : [ 476.0, 631.0, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"embed" : 1
 					}
@@ -615,36 +525,8 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 7,
-						"data" : [ 							{
-								"key" : 0,
-								"value" : [ ".Arabic UI Text Semibold" ]
-							}
-, 							{
-								"key" : 1,
-								"value" : [ "Helvetica Neue Condensed Bold" ]
-							}
-, 							{
-								"key" : 2,
-								"value" : [ "Helvetica Neue Thin" ]
-							}
-, 							{
-								"key" : 3,
-								"value" : [ "Hiragino Kaku Gothic ProN W3" ]
-							}
-, 							{
-								"key" : 4,
-								"value" : [ "Adobe Hebrew Bold" ]
-							}
-, 							{
-								"key" : 5,
-								"value" : [ ".Al Bayan PUA Plain" ]
-							}
-, 							{
-								"key" : 6,
-								"value" : [ "Rockwell" ]
-							}
- ]
+						"count" : 0,
+						"data" : [  ]
 					}
 ,
 					"id" : "obj-118",
@@ -717,7 +599,7 @@
 						"parameter_enable" : 0,
 						"range" : 128,
 						"showeditor" : 0,
-						"size" : 7
+						"size" : 2
 					}
 ,
 					"showeditor" : 0,
@@ -795,21 +677,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "Chesterfield",
-						"visible" : 1,
 						"boxes" : [ 							{
-								"box" : 								{
-									"id" : "obj-17",
-									"maxclass" : "message",
-									"numinlets" : 2,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
-									"patching_rect" : [ 154.0, 559.5, 121.0, 22.0 ],
-									"style" : "",
-									"text" : "187 143 120 85"
-								}
-
-							}
-, 							{
 								"box" : 								{
 									"coll_data" : 									{
 										"count" : 2,
@@ -848,7 +716,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 785.0, 347.0, 50.0, 22.0 ],
 									"style" : "",
-									"text" : "6"
+									"text" : "4"
 								}
 
 							}
@@ -900,36 +768,8 @@
 										"boxes" : [ 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 7,
-														"data" : [ 															{
-																"key" : 0,
-																"value" : [ ".Arabic UI Text Semibold" ]
-															}
-, 															{
-																"key" : 1,
-																"value" : [ "Helvetica Neue Condensed Bold" ]
-															}
-, 															{
-																"key" : 2,
-																"value" : [ "Helvetica Neue Thin" ]
-															}
-, 															{
-																"key" : 3,
-																"value" : [ "Hiragino Kaku Gothic ProN W3" ]
-															}
-, 															{
-																"key" : 4,
-																"value" : [ "Adobe Hebrew Bold" ]
-															}
-, 															{
-																"key" : 5,
-																"value" : [ ".Al Bayan PUA Plain" ]
-															}
-, 															{
-																"key" : 6,
-																"value" : [ "Rockwell" ]
-															}
- ]
+														"count" : 0,
+														"data" : [  ]
 													}
 ,
 													"id" : "obj-3",
@@ -1097,7 +937,7 @@
 														"parameter_enable" : 0,
 														"range" : 128,
 														"showeditor" : 0,
-														"size" : 7
+														"size" : 2
 													}
 ,
 													"showeditor" : 0,
@@ -1326,7 +1166,6 @@
 									}
 ,
 									"patching_rect" : [ 654.0, 332.585754, 86.0, 22.0 ],
-									"presentation_rect" : [ 676.5, 337.585754, 0.0, 0.0 ],
 									"saved_object_attributes" : 									{
 										"accentcolor" : [ 0.337255, 0.329412, 0.415686, 1.0 ],
 										"color" : [ 0.976471, 0.909804, 0.792157, 1.0 ],
@@ -1947,36 +1786,8 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 7,
-										"data" : [ 											{
-												"key" : 0,
-												"value" : [ ".Arabic UI Text Semibold" ]
-											}
-, 											{
-												"key" : 1,
-												"value" : [ "Helvetica Neue Condensed Bold" ]
-											}
-, 											{
-												"key" : 2,
-												"value" : [ "Helvetica Neue Thin" ]
-											}
-, 											{
-												"key" : 3,
-												"value" : [ "Hiragino Kaku Gothic ProN W3" ]
-											}
-, 											{
-												"key" : 4,
-												"value" : [ "Adobe Hebrew Bold" ]
-											}
-, 											{
-												"key" : 5,
-												"value" : [ ".Al Bayan PUA Plain" ]
-											}
-, 											{
-												"key" : 6,
-												"value" : [ "Rockwell" ]
-											}
- ]
+										"count" : 0,
+										"data" : [  ]
 									}
 ,
 									"id" : "obj-130",
@@ -2032,9 +1843,9 @@
 									"parameter_enable" : 0,
 									"patching_rect" : [ 880.5, 498.0, 160.0, 145.0 ],
 									"range" : 128,
-									"size" : 7,
+									"size" : 2,
 									"style" : "",
-									"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+									"table_data" : [ 0, 50, 50 ]
 								}
 
 							}
@@ -2065,7 +1876,7 @@
 									"range" : 100,
 									"size" : 128,
 									"style" : "",
-									"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+									"table_data" : [ 0, 0, 1, 2, 5, 6, 9, 11, 13, 16, 18, 19, 22, 24, 26, 30, 32, 34, 38, 40, 42, 44, 48, 51, 53, 57, 58, 61, 62, 63, 64, 67, 69, 71, 74, 75, 76, 77, 78, 79, 80, 81, 81, 82, 82, 83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 83, 83, 82, 82, 81, 80, 80, 79, 78, 77, 77, 76, 76, 75, 74, 73, 72, 72, 71, 70, 69, 68, 67, 66, 65, 64, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 30, 0 ]
 								}
 
 							}
@@ -2096,7 +1907,7 @@
 									"range" : 128,
 									"size" : 2,
 									"style" : "",
-									"table_data" : [ 0, 0, 50 ]
+									"table_data" : [ 0, 0, 0 ]
 								}
 
 							}
@@ -2378,13 +2189,6 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-17", 1 ],
-									"source" : [ "obj-5", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
 									"destination" : [ "obj-37", 0 ],
 									"source" : [ "obj-64", 0 ]
 								}
@@ -2458,7 +2262,6 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "bang" ],
 					"patching_rect" : [ 446.5, 312.0, 34.0, 22.0 ],
-					"presentation_rect" : [ 446.5, 312.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "t b b"
 				}
@@ -2472,7 +2275,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 446.5, 286.0, 83.0, 22.0 ],
-					"presentation_rect" : [ 446.5, 286.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "NEW SCENE"
 				}
@@ -2486,7 +2288,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 446.5, 340.0, 37.0, 22.0 ],
-					"presentation_rect" : [ 446.5, 340.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "open"
 				}
@@ -2500,7 +2301,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 446.5, 386.399994, 53.0, 22.0 ],
-					"presentation_rect" : [ 446.5, 386.399994, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "pcontrol"
 				}
@@ -2587,9 +2387,9 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 478.0, 112.0, 160.0, 145.0 ],
 					"range" : 128,
-					"size" : 7,
+					"size" : 2,
 					"style" : "",
-					"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+					"table_data" : [ 0, 50, 50 ]
 				}
 
 			}
@@ -2633,7 +2433,7 @@
 					"range" : 100,
 					"size" : 128,
 					"style" : "",
-					"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+					"table_data" : [ 0, 0, 1, 2, 5, 6, 9, 11, 13, 16, 18, 19, 22, 24, 26, 30, 32, 34, 38, 40, 42, 44, 48, 51, 53, 57, 58, 61, 62, 63, 64, 67, 69, 71, 74, 75, 76, 77, 78, 79, 80, 81, 81, 82, 82, 83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 83, 83, 82, 82, 81, 80, 80, 79, 78, 77, 77, 76, 76, 75, 74, 73, 72, 72, 71, 70, 69, 68, 67, 66, 65, 64, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 30, 0 ]
 				}
 
 			}
@@ -2664,7 +2464,7 @@
 					"range" : 128,
 					"size" : 2,
 					"style" : "",
-					"table_data" : [ 0, 0, 50 ]
+					"table_data" : [ 0, 0, 0 ]
 				}
 
 			}
@@ -2724,11 +2524,11 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 34.0, 79.0, 356.0, 164.0 ],
+						"rect" : [ 34.0, 79.0, 309.0, 164.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
-						"openinpresentation" : 0,
+						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -2774,7 +2574,6 @@
 									"numoutlets" : 4,
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 876.0, 477.0, 85.0, 22.0 ],
-									"presentation_rect" : [ 924.0, 583.0, 0.0, 0.0 ],
 									"saved_object_attributes" : 									{
 										"embed" : 1
 									}
@@ -2888,7 +2687,6 @@
 									"numoutlets" : 4,
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 693.0, 226.0, 85.0, 22.0 ],
-									"presentation_rect" : [ 682.0, 274.0, 0.0, 0.0 ],
 									"saved_object_attributes" : 									{
 										"embed" : 1
 									}
@@ -3277,7 +3075,7 @@
 									"maxclass" : "inlet",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "bang" ],
+									"outlettype" : [ "" ],
 									"patching_rect" : [ 647.0, 3.0, 30.0, 30.0 ],
 									"style" : ""
 								}
@@ -3668,11 +3466,11 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 352.0, 229.0, 630.0, 595.0 ],
+						"rect" : [ 352.0, 229.0, 372.0, 153.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
-						"openinpresentation" : 0,
+						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -4686,7 +4484,7 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 832.5, 230.0, 87.0, 22.0 ],
 					"restore" : 					{
-						"colorWeights[1]" : [ 0, 50 ],
+						"colorWeights[1]" : [ 0, 0 ],
 						"number" : [ 0 ],
 						"number[1]" : [ 1.0 ],
 						"number[2]" : [ 0.0 ],
@@ -5118,7 +4916,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "pop.json",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "JSON",
 				"implicit" : 1
@@ -5126,14 +4924,14 @@
 , 			{
 				"name" : "colors.txt",
 				"bootpath" : "~/Documents/Max 7/Packages/Max for the Visual Arts/patchers/Toolbox/listpackage",
-				"patcherrelativepath" : "../../../../Documents/Max 7/Packages/Max for the Visual Arts/patchers/Toolbox/listpackage",
+				"patcherrelativepath" : "../../../../Max 7/Packages/Max for the Visual Arts/patchers/Toolbox/listpackage",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "LtoUmenu.maxpat",
-				"bootpath" : "~/Documents/Max 7/Library/Abstractions",
-				"patcherrelativepath" : "../../../../Documents/Max 7/Library/Abstractions",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
