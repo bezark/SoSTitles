@@ -175,7 +175,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 48.0, 515.0, 50.0, 62.0 ],
 					"style" : "",
-					"text" : "jit_gl_texture u227000633"
+					"text" : "jit_gl_texture u324001149"
 				}
 
 			}
@@ -893,21 +893,21 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 846.349915, 1100.850098, 50.0, 35.0 ],
 													"style" : "",
-													"text" : "moveto 356 675"
+													"text" : "moveto 567 100"
 												}
 
 											}
 , 											{
 												"box" : 												{
 													"id" : "obj-7",
-													"linecount" : 5,
+													"linecount" : 8,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 695.0, 1112.0, 50.0, 89.0 ],
 													"style" : "",
-													"text" : "font \"Times New Roman\" 122"
+													"text" : "font \"Gloucester MT Extra Condensed\" 76"
 												}
 
 											}
@@ -1472,7 +1472,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 101.0, 461.666626, 50.0, 22.0 ],
 													"style" : "",
-													"text" : "22"
+													"text" : "4"
 												}
 
 											}
@@ -1835,18 +1835,18 @@
 														"styles" : [ 															{
 																"name" : "Johnstyle",
 																"default" : 																{
+																	"fontface" : [ 0 ],
+																	"fontsize" : [ 12.0 ],
 																	"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
 																	"textjustification" : [ 1 ],
+																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"fontname" : [ "Monaco" ],
+																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-																	"fontface" : [ 0 ],
 																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-																	"fontsize" : [ 12.0 ],
 																	"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
 																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
-																	"fontname" : [ "Monaco" ],
-																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
 																	"bgfillcolor" : 																	{
 																		"type" : "gradient",
 																		"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -1865,10 +1865,10 @@
 , 															{
 																"name" : "blueNight",
 																"default" : 																{
+																	"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ],
 																	"textcolor_inverse" : [ 0.849573, 1.0, 0.926902, 1.0 ],
 																	"patchlinecolor" : [ 0.317647, 0.654902, 0.976471, 0.9 ],
-																	"accentcolor" : [ 0.317647, 0.654902, 0.976471, 1.0 ],
-																	"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ]
+																	"accentcolor" : [ 0.317647, 0.654902, 0.976471, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -3362,18 +3362,18 @@
 						"styles" : [ 							{
 								"name" : "Johnstyle",
 								"default" : 								{
+									"fontface" : [ 0 ],
+									"fontsize" : [ 12.0 ],
 									"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
 									"textjustification" : [ 1 ],
+									"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+									"fontname" : [ "Monaco" ],
+									"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 									"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-									"fontface" : [ 0 ],
 									"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-									"fontsize" : [ 12.0 ],
 									"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
 									"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-									"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
-									"fontname" : [ "Monaco" ],
-									"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -3392,10 +3392,10 @@
 , 							{
 								"name" : "blueNight",
 								"default" : 								{
+									"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ],
 									"textcolor_inverse" : [ 0.849573, 1.0, 0.926902, 1.0 ],
 									"patchlinecolor" : [ 0.317647, 0.654902, 0.976471, 0.9 ],
-									"accentcolor" : [ 0.317647, 0.654902, 0.976471, 1.0 ],
-									"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ]
+									"accentcolor" : [ 0.317647, 0.654902, 0.976471, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11060,16 +11060,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-41", 0 ],
-					"order" : 0,
-					"source" : [ "obj-33", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-46", 0 ],
-					"order" : 1,
 					"source" : [ "obj-33", 0 ]
 				}
 
@@ -11274,7 +11265,16 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-41", 0 ],
+					"order" : 1,
+					"source" : [ "obj-80", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-64", 0 ],
+					"order" : 0,
 					"source" : [ "obj-80", 1 ]
 				}
 
@@ -11310,6 +11310,15 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-12", 0 ],
+					"order" : 0,
+					"source" : [ "obj-86", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-41", 0 ],
+					"order" : 1,
 					"source" : [ "obj-86", 0 ]
 				}
 
@@ -11361,182 +11370,182 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Untitled.txt",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/data",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1

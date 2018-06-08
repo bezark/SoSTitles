@@ -40,6 +40,19 @@
 		"subpatcher_template" : "Chesterfield",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-12",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "bang", "" ],
+					"patching_rect" : [ 229.0, -121.0, 36.0, 22.0 ],
+					"style" : "",
+					"text" : "sel 6"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-87",
 					"maxclass" : "button",
 					"numinlets" : 1,
@@ -185,7 +198,7 @@
 					"numoutlets" : 6,
 					"outlettype" : [ "int", "int", "int", "int", "int", "int" ],
 					"patching_rect" : [ 99.166626, -127.0, 71.5, 22.0 ],
-					"save" : [ "#N", "menubar", 6, 0, ";", "#X", "about", "About", "Duper…", ";", "#X", "closeitem", ";", "#X", "menutitle", 5, "Control", ";", "#X", "item", 5, 1, "Import.../I", ";", "#X", "item", 5, 2, "Control.../T", ";", "#X", "menutitle", 6, "Edit", "Title", ";", "#X", "item", 6, 1, "Insert", "title", "above...", ";", "#X", "item", 6, 2, "Insert", "title", "below...", ";", "#X", "item", 6, 3, "Delete", "selected", "title...", ";", "#X", "item", 6, 4, "Split...", ";", "#X", "item", 6, 5, "Merge", "with", "title", "above", ";", "#X", "end", ";" ],
+					"save" : [ "#N", "menubar", 6, 0, ";", "#X", "about", "About", "Duper…", ";", "#X", "closeitem", ";", "#X", "menutitle", 5, "Control", ";", "#X", "item", 5, 1, "Import.../I", ";", "#X", "item", 5, 2, "Control.../T", ";", "#X", "menutitle", 6, "Edit", "Title", ";", "#X", "item", 6, 1, "Insert", "title", "above...", ";", "#X", "item", 6, 2, "Insert", "title", "below...", ";", "#X", "item", 6, 3, "Delete", "selected", "title...", ";", "#X", "item", 6, 4, "Split...", ";", "#X", "item", 6, 5, "Merge", "with", "title", "above", ";", "#X", "item", 6, 6, "Edit", "Title.../E", ";", "#X", "end", ";" ],
 					"style" : "",
 					"text" : "menubar 6"
 				}
@@ -608,26 +621,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -2285,26 +2302,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -5107,26 +5128,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -6736,7 +6761,7 @@
 													"numoutlets" : 4,
 													"outlettype" : [ "list", "", "", "" ],
 													"patching_rect" : [ 465.0, 397.0, 179.0, 29.5 ],
-													"rows" : 375
+													"rows" : 376
 												}
 
 											}
@@ -7007,26 +7032,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -8581,26 +8610,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -10116,26 +10149,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -12082,26 +12119,30 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 375,
+						"count" : 376,
 						"data" : [ 							{
-								"key" : [ "2", 2 ],
-								"value" : [ "Strip out the wires*and cover the land with grass." ]
+								"key" : [ "1", 1 ],
+								"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 							}
 , 							{
-								"key" : [ "3", 3 ],
+								"key" : [ "3", 2 ],
 								"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 							}
 , 							{
-								"key" : [ "4", 4 ],
+								"key" : [ "4000", 3 ],
 								"value" : [ ". . . and people the sky with angels." ]
 							}
 , 							{
-								"key" : [ "5", 5 ],
+								"key" : [ "5", 4 ],
 								"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 							}
 , 							{
-								"key" : [ "1", 6 ],
-								"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+								"key" : [ "6", 5 ],
+								"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+							}
+, 							{
+								"key" : [ "7", 6 ],
+								"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 							}
 , 							{
 								"key" : [ "8", 7 ],
@@ -13848,26 +13889,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -15541,26 +15586,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -17722,7 +17771,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 268.0, 400.0, 563.0, 241.0 ],
+						"rect" : [ 269.0, 500.0, 563.0, 241.0 ],
 						"bgcolor" : [ 0.830414, 0.830389, 0.830403, 1.0 ],
 						"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
@@ -17847,7 +17896,6 @@
 									"bgcolor" : [ 0.999999, 0.999974, 0.999991, 1.0 ],
 									"bordercolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"id" : "obj-57",
-									"ignoreclick" : 1,
 									"keymode" : 1,
 									"maxclass" : "textedit",
 									"numinlets" : 1,
@@ -17859,7 +17907,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 16.833313, 62.0, 106.0, 25.0 ],
 									"style" : "",
-									"text" : "12",
+									"text" : "1",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -18034,26 +18082,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -19783,6 +19835,7 @@
 									"bordercolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"id" : "obj-24",
 									"keymode" : 1,
+									"linecount" : 4,
 									"maxclass" : "textedit",
 									"numinlets" : 1,
 									"numoutlets" : 4,
@@ -19791,9 +19844,10 @@
 									"parameter_enable" : 0,
 									"patching_rect" : [ 325.0, 252.0, 186.0, 103.0 ],
 									"presentation" : 1,
+									"presentation_linecount" : 2,
 									"presentation_rect" : [ 131.0, 62.0, 407.0, 103.0 ],
 									"style" : "",
-									"text" : "And the man? wooo",
+									"text" : "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass.",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -19828,26 +19882,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -21795,7 +21853,7 @@
 					"patching_rect" : [ 409.999969, 98.333336, 700.000122, 556.133301 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 19.853359, 68.533333, 714.666626, 557.533386 ],
-					"rows" : 375,
+					"rows" : 376,
 					"savemode" : 1,
 					"sccolor" : [ 0.126886, 0.146961, 0.172445, 1.0 ],
 					"selmode" : 3,
@@ -21986,7 +22044,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "Chesterfield",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-15",
@@ -22041,26 +22098,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -23734,7 +23795,7 @@
 								"box" : 								{
 									"id" : "obj-45",
 									"maxclass" : "number",
-									"maximum" : 373,
+									"maximum" : 376,
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
@@ -23844,7 +23905,7 @@
 									"patching_rect" : [ 276.5, 364.0, 689.000122, 37.133301 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 15.0, 30.0, 686.666626, 54.466667 ],
-									"rows" : 375,
+									"rows" : 376,
 									"savemode" : 1,
 									"sccolor" : [ 0.126886, 0.146961, 0.172445, 1.0 ],
 									"selmode" : 3,
@@ -24068,26 +24129,30 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 375,
+										"count" : 376,
 										"data" : [ 											{
-												"key" : [ "2", 2 ],
-												"value" : [ "Strip out the wires*and cover the land with grass." ]
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 											}
 , 											{
-												"key" : [ "3", 3 ],
+												"key" : [ "3", 2 ],
 												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 											}
 , 											{
-												"key" : [ "4", 4 ],
+												"key" : [ "4000", 3 ],
 												"value" : [ ". . . and people the sky with angels." ]
 											}
 , 											{
-												"key" : [ "5", 5 ],
+												"key" : [ "5", 4 ],
 												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 											}
 , 											{
-												"key" : [ "1", 6 ],
-												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+												"key" : [ "6", 5 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 6 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 											}
 , 											{
 												"key" : [ "8", 7 ],
@@ -25926,26 +25991,30 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 375,
+						"count" : 376,
 						"data" : [ 							{
-								"key" : [ "2", 2 ],
-								"value" : [ "Strip out the wires*and cover the land with grass." ]
+								"key" : [ "1", 1 ],
+								"value" : [ "Strip the cities of brick.*Dismantle them. Strip out the wires*and cover the land with grass." ]
 							}
 , 							{
-								"key" : [ "3", 3 ],
+								"key" : [ "3", 2 ],
 								"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
 							}
 , 							{
-								"key" : [ "4", 4 ],
+								"key" : [ "4000", 3 ],
 								"value" : [ ". . . and people the sky with angels." ]
 							}
 , 							{
-								"key" : [ "5", 5 ],
+								"key" : [ "5", 4 ],
 								"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
 							}
 , 							{
-								"key" : [ "1", 6 ],
-								"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines. Make way for the wild primrose*and slow torture of criminals." ]
+								"key" : [ "6", 5 ],
+								"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+							}
+, 							{
+								"key" : [ "7", 6 ],
+								"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
 							}
 , 							{
 								"key" : [ "8", 7 ],
@@ -27518,6 +27587,14 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-12", 0 ],
+					"order" : 1,
+					"source" : [ "obj-10", 5 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-36", 0 ],
 					"source" : [ "obj-10", 4 ]
 				}
@@ -27526,6 +27603,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-66", 0 ],
+					"order" : 0,
 					"source" : [ "obj-10", 5 ]
 				}
 
@@ -27562,6 +27640,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
 					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-58", 0 ],
+					"source" : [ "obj-12", 0 ]
 				}
 
 			}
@@ -28341,7 +28426,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "testTextReader.js",
-				"bootpath" : "~/Desktop/OperaTitles/operaTitlesTest/code",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
