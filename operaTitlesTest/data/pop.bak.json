@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pop",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"swatch[1]" : [ 245, 13, 40 ],
+					"colorWeights[1]" : [ 56, 79, 90 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"swatch[1]" : [ 245, 13, 40 ],
+					"colorWeights[1]" : [ 107, 57, 9 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -2,7 +2,7 @@
 	"name" : "operaTitlesTest",
 	"version" : 1,
 	"creationdate" : -688916151,
-	"modificationdate" : 3611251847,
+	"modificationdate" : -682786234,
 	"viewrect" : [ 1199.0, 185.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,22 +10,22 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"storageTest.maxpat" : 			{
+			"TextSender.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"TextRender.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"Scenestorage.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"LtoUmenu.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"gausTest.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"textSenderCellblock.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -68,10 +68,6 @@
 				"kind" : "object",
 				"local" : 1
 			}
-
-		}
-,
-		"other" : 		{
 
 		}
 
