@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 189.0, 121.0, 791.0, 738.0 ],
+		"rect" : [ 416.0, 267.0, 791.0, 738.0 ],
 		"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"bglocked" : 0,
@@ -39,6 +39,19 @@
 		"style" : "",
 		"subpatcher_template" : "Chesterfield",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-13",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 683.0, 30.0, 142.0, 22.0 ],
+					"style" : "",
+					"text" : "loadmess colwidth 660 1"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-29",
 					"maxclass" : "comment",
@@ -646,8 +659,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-36",
@@ -823,8 +2348,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-5",
@@ -2177,7 +5214,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 415.0, 332.0, 50.0, 22.0 ],
 									"style" : "",
-									"text" : "8"
+									"text" : "\"1\""
 								}
 
 							}
@@ -2191,7 +5228,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 464.0, 301.0, 53.0, 49.0 ],
 									"style" : "",
-									"text" : "sync select 0 0"
+									"text" : "sync select 1 25"
 								}
 
 							}
@@ -2210,8 +5247,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-42",
@@ -2329,7 +6878,7 @@
 											}
 , 											{
 												"box" : 												{
-													"cols" : 1,
+													"cols" : 2,
 													"fontface" : 0,
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
@@ -2339,7 +6888,7 @@
 													"numoutlets" : 4,
 													"outlettype" : [ "list", "", "", "" ],
 													"patching_rect" : [ 465.0, 397.0, 179.0, 29.5 ],
-													"rows" : 1
+													"rows" : 378
 												}
 
 											}
@@ -2610,8 +7159,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-24",
@@ -2684,8 +8745,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-15",
@@ -2719,8 +10292,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-7",
@@ -3227,8 +12312,1520 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 0,
-						"data" : [  ]
+						"count" : 378,
+						"data" : [ 							{
+								"key" : [ "1", 1 ],
+								"value" : [ "Strip the cities of brick.*Dismantle them." ]
+							}
+, 							{
+								"key" : [ "2", 2 ],
+								"value" : [ "Strip out the wires*and cover the land with grass." ]
+							}
+, 							{
+								"key" : [ "3", 3 ],
+								"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+							}
+, 							{
+								"key" : [ "4", 4 ],
+								"value" : [ ". . . and people the sky with angels." ]
+							}
+, 							{
+								"key" : [ "5", 5 ],
+								"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+							}
+, 							{
+								"key" : [ "6", 6 ],
+								"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+							}
+, 							{
+								"key" : [ "7", 7 ],
+								"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+							}
+, 							{
+								"key" : [ "8", 8 ],
+								"value" : [ "Fade out the living:*snap back the dead to life." ]
+							}
+, 							{
+								"key" : [ "9", 9 ],
+								"value" : [ "The woman?" ]
+							}
+, 							{
+								"key" : [ "10", 10 ],
+								"value" : [ "Was married age fourteen." ]
+							}
+, 							{
+								"key" : [ "11", 11 ],
+								"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+							}
+, 							{
+								"key" : [ "12", 12 ],
+								"value" : [ "And the man?" ]
+							}
+, 							{
+								"key" : [ "13", 13 ],
+								"value" : [ "The man is her husband and protector." ]
+							}
+, 							{
+								"key" : [ "14", 14 ],
+								"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+							}
+, 							{
+								"key" : [ "15", 15 ],
+								"value" : [ "Stand here. Look.*My house is perfect." ]
+							}
+, 							{
+								"key" : [ "16", 16 ],
+								"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+							}
+, 							{
+								"key" : [ "17", 17 ],
+								"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+							}
+, 							{
+								"key" : [ "18", 18 ],
+								"value" : [ "I own the fields:*I own everyone in them." ]
+							}
+, 							{
+								"key" : [ "19", 19 ],
+								"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+							}
+, 							{
+								"key" : [ "20", 20 ],
+								"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+							}
+, 							{
+								"key" : [ "21", 21 ],
+								"value" : [ ". . . is my property." ]
+							}
+, 							{
+								"key" : [ "22", 22 ],
+								"value" : [ "Make me a book." ]
+							}
+, 							{
+								"key" : [ "23", 23 ],
+								"value" : [ "Fill it with illumination." ]
+							}
+, 							{
+								"key" : [ "24", 24 ],
+								"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+							}
+, 							{
+								"key" : [ "25", 25 ],
+								"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+							}
+, 							{
+								"key" : [ "26", 26 ],
+								"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+							}
+, 							{
+								"key" : [ "27", 27 ],
+								"value" : [ "Show us in Paradise." ]
+							}
+, 							{
+								"key" : [ "28", 28 ],
+								"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+							}
+, 							{
+								"key" : [ "29", 29 ],
+								"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+							}
+, 							{
+								"key" : [ "30", 30 ],
+								"value" : [ "But first: show me proof." ]
+							}
+, 							{
+								"key" : [ "31", 31 ],
+								"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+							}
+, 							{
+								"key" : [ "32", 32 ],
+								"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+							}
+, 							{
+								"key" : [ "33", 33 ],
+								"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+							}
+, 							{
+								"key" : [ "34", 34 ],
+								"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+							}
+, 							{
+								"key" : [ "35", 35 ],
+								"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+							}
+, 							{
+								"key" : [ "36", 36 ],
+								"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+							}
+, 							{
+								"key" : [ "37", 37 ],
+								"value" : [ "Not just kind, but merciful." ]
+							}
+, 							{
+								"key" : [ "38", 38 ],
+								"value" : [ "Merciful." ]
+							}
+, 							{
+								"key" : [ "39", 39 ],
+								"value" : [ "No! No! says the woman." ]
+							}
+, 							{
+								"key" : [ "40", 40 ],
+								"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+							}
+, 							{
+								"key" : [ "41", 41 ],
+								"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+							}
+, 							{
+								"key" : [ "42", 42 ],
+								"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+							}
+, 							{
+								"key" : [ "43", 43 ],
+								"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+							}
+, 							{
+								"key" : [ "44", 44 ],
+								"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+							}
+, 							{
+								"key" : [ "45", 45 ],
+								"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+							}
+, 							{
+								"key" : [ "46", 46 ],
+								"value" : [ "Map out new territory with blood." ]
+							}
+, 							{
+								"key" : [ "47", 47 ],
+								"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+							}
+, 							{
+								"key" : [ "48", 48 ],
+								"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+							}
+, 							{
+								"key" : [ "49", 49 ],
+								"value" : [ "Invent man and drown him." ]
+							}
+, 							{
+								"key" : [ "50", 50 ],
+								"value" : [ "- Good.*- Burn him alive." ]
+							}
+, 							{
+								"key" : [ "51", 51 ],
+								"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+							}
+, 							{
+								"key" : [ "52", 52 ],
+								"value" : [ "- Invent a woman.*- Invent her." ]
+							}
+, 							{
+								"key" : [ "53", 53 ],
+								"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+							}
+, 							{
+								"key" : [ "54", 54 ],
+								"value" : [ "Play birth and death." ]
+							}
+, 							{
+								"key" : [ "55", 55 ],
+								"value" : [ "Blame her for everything." ]
+							}
+, 							{
+								"key" : [ "56", 56 ],
+								"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+							}
+, 							{
+								"key" : [ "57", 57 ],
+								"value" : [ "Make her curious." ]
+							}
+, 							{
+								"key" : [ "58", 58 ],
+								"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+							}
+, 							{
+								"key" : [ "59", 59 ],
+								"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+							}
+, 							{
+								"key" : [ "60", 60 ],
+								"value" : [ ". . . ah, yes, look . . ." ]
+							}
+, 							{
+								"key" : [ "61", 61 ],
+								"value" : [ ". . . the Boy bends over a new page." ]
+							}
+, 							{
+								"key" : [ "62", 62 ],
+								"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+							}
+, 							{
+								"key" : [ "63", 63 ],
+								"value" : [ "Grit." ]
+							}
+, 							{
+								"key" : [ "64", 64 ],
+								"value" : [ "What do you want,*says the Boy." ]
+							}
+, 							{
+								"key" : [ "65", 65 ],
+								"value" : [ "- To see, says the woman.*- See what?" ]
+							}
+, 							{
+								"key" : [ "66", 66 ],
+								"value" : [ "To see how a book is made." ]
+							}
+, 							{
+								"key" : [ "67", 67 ],
+								"value" : [ "What is that tree?" ]
+							}
+, 							{
+								"key" : [ "68", 68 ],
+								"value" : [ "The Tree, says the Boy,*of Life." ]
+							}
+, 							{
+								"key" : [ "69", 69 ],
+								"value" : [ "- Ah. Odd.*- I invented it." ]
+							}
+, 							{
+								"key" : [ "70", 70 ],
+								"value" : [ "Ah. Yes.*And who is that woman?" ]
+							}
+, 							{
+								"key" : [ "71", 71 ],
+								"value" : [ "Eve, says the Boy." ]
+							}
+, 							{
+								"key" : [ "72", 72 ],
+								"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+							}
+, 							{
+								"key" : [ "73", 73 ],
+								"value" : [ "She doesn’t look real,*laughs the woman." ]
+							}
+, 							{
+								"key" : [ "74", 74 ],
+								"value" : [ "That’s not how a woman looks." ]
+							}
+, 							{
+								"key" : [ "75", 75 ],
+								"value" : [ "You’re in my light,*says the Boy." ]
+							}
+, 							{
+								"key" : [ "76", 76 ],
+								"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+							}
+, 							{
+								"key" : [ "77", 77 ],
+								"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+							}
+, 							{
+								"key" : [ "78", 78 ],
+								"value" : [ "Too close." ]
+							}
+, 							{
+								"key" : [ "79", 79 ],
+								"value" : [ "What else can you invent?" ]
+							}
+, 							{
+								"key" : [ "80", 80 ],
+								"value" : [ "Can you invent another woman,*says the woman . . ." ]
+							}
+, 							{
+								"key" : [ "81", 81 ],
+								"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+							}
+, 							{
+								"key" : [ "82", 82 ],
+								"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+							}
+, 							{
+								"key" : [ "83", 83 ],
+								"value" : [ ". . . until the cold side’s hot?" ]
+							}
+, 							{
+								"key" : [ "84", 84 ],
+								"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+							}
+, 							{
+								"key" : [ "85", 85 ],
+								"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+							}
+, 							{
+								"key" : [ "86", 86 ],
+								"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+							}
+, 							{
+								"key" : [ "87", 87 ],
+								"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+							}
+, 							{
+								"key" : [ "88", 88 ],
+								"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+							}
+, 							{
+								"key" : [ "89", 89 ],
+								"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+							}
+, 							{
+								"key" : [ "90", 90 ],
+								"value" : [ "- What boy?*- . . . with love." ]
+							}
+, 							{
+								"key" : [ "91", 91 ],
+								"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+							}
+, 							{
+								"key" : [ "92", 92 ],
+								"value" : [ "Invent her.*Invent the woman you want." ]
+							}
+, 							{
+								"key" : [ "93", 93 ],
+								"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+							}
+, 							{
+								"key" : [ "94", 94 ],
+								"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+							}
+, 							{
+								"key" : [ "95", 95 ],
+								"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+							}
+, 							{
+								"key" : [ "96", 96 ],
+								"value" : [ ". . . come, come to me, show her to me." ]
+							}
+, 							{
+								"key" : [ "97", 97 ],
+								"value" : [ "I’ll tell you if she’s real." ]
+							}
+, 							{
+								"key" : [ "98", 98 ],
+								"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+							}
+, 							{
+								"key" : [ "99", 99 ],
+								"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+							}
+, 							{
+								"key" : [ "100", 100 ],
+								"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+							}
+, 							{
+								"key" : [ "101", 101 ],
+								"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+							}
+, 							{
+								"key" : [ "102", 102 ],
+								"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+							}
+, 							{
+								"key" : [ "103", 103 ],
+								"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+							}
+, 							{
+								"key" : [ "104", 104 ],
+								"value" : [ "How is my sister?" ]
+							}
+, 							{
+								"key" : [ "105", 105 ],
+								"value" : [ "My wife?" ]
+							}
+, 							{
+								"key" : [ "106", 106 ],
+								"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+							}
+, 							{
+								"key" : [ "107", 107 ],
+								"value" : [ "And your house?" ]
+							}
+, 							{
+								"key" : [ "108", 108 ],
+								"value" : [ "Increasing in value daily." ]
+							}
+, 							{
+								"key" : [ "109", 109 ],
+								"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+							}
+, 							{
+								"key" : [ "110", 110 ],
+								"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+							}
+, 							{
+								"key" : [ "111", 111 ],
+								"value" : [ "The book will be magnificent." ]
+							}
+, 							{
+								"key" : [ "112", 112 ],
+								"value" : [ "The Boy works with azurite and gold." ]
+							}
+, 							{
+								"key" : [ "113", 113 ],
+								"value" : [ "Both Boy and book are faultless." ]
+							}
+, 							{
+								"key" : [ "114", 114 ],
+								"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+							}
+, 							{
+								"key" : [ "115", 115 ],
+								"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+							}
+, 							{
+								"key" : [ "116", 116 ],
+								"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+							}
+, 							{
+								"key" : [ "117", 117 ],
+								"value" : [ "Be quiet, Marie." ]
+							}
+, 							{
+								"key" : [ "118", 118 ],
+								"value" : [ "Listen to me:*I love the Boy." ]
+							}
+, 							{
+								"key" : [ "119", 119 ],
+								"value" : [ "What kind of man sits a stranger . . ." ]
+							}
+, 							{
+								"key" : [ "120", 120 ],
+								"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+							}
+, 							{
+								"key" : [ "121", 121 ],
+								"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+							}
+, 							{
+								"key" : [ "122", 122 ],
+								"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+							}
+, 							{
+								"key" : [ "123", 123 ],
+								"value" : [ ". . . you will not pass the black dog at my gate." ]
+							}
+, 							{
+								"key" : [ "124", 124 ],
+								"value" : [ "Woman . . . alone . . ." ]
+							}
+, 							{
+								"key" : [ "125", 125 ],
+								"value" : [ "Night.*Her visitors?" ]
+							}
+, 							{
+								"key" : [ "126", 126 ],
+								"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+							}
+, 							{
+								"key" : [ "127", 127 ],
+								"value" : [ "What can she hear inside of her?*Her own voice." ]
+							}
+, 							{
+								"key" : [ "128", 128 ],
+								"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+							}
+, 							{
+								"key" : [ "129", 129 ],
+								"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+							}
+, 							{
+								"key" : [ "130", 130 ],
+								"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+							}
+, 							{
+								"key" : [ "131", 131 ],
+								"value" : [ "- Here.*- It’s dark." ]
+							}
+, 							{
+								"key" : [ "132", 132 ],
+								"value" : [ "Then concentrate." ]
+							}
+, 							{
+								"key" : [ "133", 133 ],
+								"value" : [ "This – says the Boy – shows a house in winter." ]
+							}
+, 							{
+								"key" : [ "134", 134 ],
+								"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+							}
+, 							{
+								"key" : [ "135", 135 ],
+								"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+							}
+, 							{
+								"key" : [ "136", 136 ],
+								"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+							}
+, 							{
+								"key" : [ "137", 137 ],
+								"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+							}
+, 							{
+								"key" : [ "138", 138 ],
+								"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+							}
+, 							{
+								"key" : [ "139", 139 ],
+								"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+							}
+, 							{
+								"key" : [ "140", 140 ],
+								"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+							}
+, 							{
+								"key" : [ "141", 141 ],
+								"value" : [ "It’s dark." ]
+							}
+, 							{
+								"key" : [ "142", 142 ],
+								"value" : [ "Then look more closely." ]
+							}
+, 							{
+								"key" : [ "143", 143 ],
+								"value" : [ "What color are her eyes?" ]
+							}
+, 							{
+								"key" : [ "144", 144 ],
+								"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+							}
+, 							{
+								"key" : [ "145", 145 ],
+								"value" : [ "Like yours now." ]
+							}
+, 							{
+								"key" : [ "146", 146 ],
+								"value" : [ "And her hair?*Pay attention." ]
+							}
+, 							{
+								"key" : [ "147", 147 ],
+								"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+							}
+, 							{
+								"key" : [ "148", 148 ],
+								"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+							}
+, 							{
+								"key" : [ "149", 149 ],
+								"value" : [ ". . . drawn its exact music." ]
+							}
+, 							{
+								"key" : [ "150", 150 ],
+								"value" : [ "And here . . .*Here, under the bone . . ." ]
+							}
+, 							{
+								"key" : [ "151", 151 ],
+								"value" : [ "In the hot space between her ribs . . ." ]
+							}
+, 							{
+								"key" : [ "152", 152 ],
+								"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+							}
+, 							{
+								"key" : [ "153", 153 ],
+								"value" : [ "I am Agnès.*My name’s Agnès." ]
+							}
+, 							{
+								"key" : [ "154", 154 ],
+								"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+							}
+, 							{
+								"key" : [ "155", 155 ],
+								"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+							}
+, 							{
+								"key" : [ "156", 156 ],
+								"value" : [ "Love is an act." ]
+							}
+, 							{
+								"key" : [ "157", 157 ],
+								"value" : [ "People are saying,*saying the book eats TIME." ]
+							}
+, 							{
+								"key" : [ "158", 158 ],
+								"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+							}
+, 							{
+								"key" : [ "159", 159 ],
+								"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+							}
+, 							{
+								"key" : [ "160", 160 ],
+								"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+							}
+, 							{
+								"key" : [ "161", 161 ],
+								"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+							}
+, 							{
+								"key" : [ "162", 162 ],
+								"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+							}
+, 							{
+								"key" : [ "163", 163 ],
+								"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+							}
+, 							{
+								"key" : [ "164", 164 ],
+								"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+							}
+, 							{
+								"key" : [ "165", 165 ],
+								"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+							}
+, 							{
+								"key" : [ "166", 166 ],
+								"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+							}
+, 							{
+								"key" : [ "167", 167 ],
+								"value" : [ ". . . for the reassurance of a human body . . ." ]
+							}
+, 							{
+								"key" : [ "168", 168 ],
+								"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+							}
+, 							{
+								"key" : [ "169", 169 ],
+								"value" : [ "Feels for his wife.*Where is she?" ]
+							}
+, 							{
+								"key" : [ "170", 170 ],
+								"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+							}
+, 							{
+								"key" : [ "171", 171 ],
+								"value" : [ "You were thrashing in your sleep. Why?" ]
+							}
+, 							{
+								"key" : [ "172", 172 ],
+								"value" : [ "What is it you’re watching?" ]
+							}
+, 							{
+								"key" : [ "173", 173 ],
+								"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+							}
+, 							{
+								"key" : [ "174", 174 ],
+								"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+							}
+, 							{
+								"key" : [ "175", 175 ],
+								"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+							}
+, 							{
+								"key" : [ "176", 176 ],
+								"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+							}
+, 							{
+								"key" : [ "177", 177 ],
+								"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+							}
+, 							{
+								"key" : [ "178", 178 ],
+								"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+							}
+, 							{
+								"key" : [ "179", 179 ],
+								"value" : [ ". . . on the point of a stick." ]
+							}
+, 							{
+								"key" : [ "180", 180 ],
+								"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+							}
+, 							{
+								"key" : [ "181", 181 ],
+								"value" : [ "Touch me." ]
+							}
+, 							{
+								"key" : [ "182", 182 ],
+								"value" : [ "Kiss me." ]
+							}
+, 							{
+								"key" : [ "183", 183 ],
+								"value" : [ "Take my head in your hands." ]
+							}
+, 							{
+								"key" : [ "184", 184 ],
+								"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+							}
+, 							{
+								"key" : [ "185", 185 ],
+								"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+							}
+, 							{
+								"key" : [ "186", 186 ],
+								"value" : [ "Kiss me. Yes.*Kiss me now." ]
+							}
+, 							{
+								"key" : [ "187", 187 ],
+								"value" : [ "Only a child, Agnès, asks for a kiss." ]
+							}
+, 							{
+								"key" : [ "188", 188 ],
+								"value" : [ "I’m not a child." ]
+							}
+, 							{
+								"key" : [ "189", 189 ],
+								"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+							}
+, 							{
+								"key" : [ "190", 190 ],
+								"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+							}
+, 							{
+								"key" : [ "191", 191 ],
+								"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+							}
+, 							{
+								"key" : [ "192", 192 ],
+								"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+							}
+, 							{
+								"key" : [ "193", 193 ],
+								"value" : [ "Say it. You will say to me*“I am a child.”" ]
+							}
+, 							{
+								"key" : [ "194", 194 ],
+								"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+							}
+, 							{
+								"key" : [ "195", 195 ],
+								"value" : [ "Go to the wood.*Ask him." ]
+							}
+, 							{
+								"key" : [ "196", 196 ],
+								"value" : [ "Ask who?" ]
+							}
+, 							{
+								"key" : [ "197", 197 ],
+								"value" : [ "The one who writes on skin." ]
+							}
+, 							{
+								"key" : [ "198", 198 ],
+								"value" : [ "Ask him what I am, the Boy." ]
+							}
+, 							{
+								"key" : [ "199", 199 ],
+								"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+							}
+, 							{
+								"key" : [ "200", 200 ],
+								"value" : [ "Lovesick, thinks the Protector . . ." ]
+							}
+, 							{
+								"key" : [ "201", 201 ],
+								"value" : [ ". . . easy to strangle, like a girl." ]
+							}
+, 							{
+								"key" : [ "202", 202 ],
+								"value" : [ "What are you doing here?" ]
+							}
+, 							{
+								"key" : [ "203", 203 ],
+								"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+							}
+, 							{
+								"key" : [ "204", 204 ],
+								"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+							}
+, 							{
+								"key" : [ "205", 205 ],
+								"value" : [ "Thinking about?" ]
+							}
+, 							{
+								"key" : [ "206", 206 ],
+								"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+							}
+, 							{
+								"key" : [ "207", 207 ],
+								"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+							}
+, 							{
+								"key" : [ "208", 208 ],
+								"value" : [ ". . . everyone will have been dead for a thousand years." ]
+							}
+, 							{
+								"key" : [ "209", 209 ],
+								"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+							}
+, 							{
+								"key" : [ "210", 210 ],
+								"value" : [ "Tell me about now." ]
+							}
+, 							{
+								"key" : [ "211", 211 ],
+								"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+							}
+, 							{
+								"key" : [ "212", 212 ],
+								"value" : [ "Tell me about now." ]
+							}
+, 							{
+								"key" : [ "213", 213 ],
+								"value" : [ "Now there’s just you, me and a knife." ]
+							}
+, 							{
+								"key" : [ "214", 214 ],
+								"value" : [ "Tell me about now." ]
+							}
+, 							{
+								"key" : [ "215", 215 ],
+								"value" : [ "Who is this woman? –*The one they say …" ]
+							}
+, 							{
+								"key" : [ "216", 216 ],
+								"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+							}
+, 							{
+								"key" : [ "217", 217 ],
+								"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+							}
+, 							{
+								"key" : [ "218", 218 ],
+								"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+							}
+, 							{
+								"key" : [ "219", 219 ],
+								"value" : [ "Is it Agnès?" ]
+							}
+, 							{
+								"key" : [ "220", 220 ],
+								"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+							}
+, 							{
+								"key" : [ "221", 221 ],
+								"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+							}
+, 							{
+								"key" : [ "222", 222 ],
+								"value" : [ "Marie: her sister.*Look at her." ]
+							}
+, 							{
+								"key" : [ "223", 223 ],
+								"value" : [ "She came to me." ]
+							}
+, 							{
+								"key" : [ "224", 224 ],
+								"value" : [ "- I’m bored.*- She was bored." ]
+							}
+, 							{
+								"key" : [ "225", 225 ],
+								"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+							}
+, 							{
+								"key" : [ "226", 226 ],
+								"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+							}
+, 							{
+								"key" : [ "227", 227 ],
+								"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+							}
+, 							{
+								"key" : [ "228", 228 ],
+								"value" : [ "Then she wanted to be an angel." ]
+							}
+, 							{
+								"key" : [ "229", 229 ],
+								"value" : [ "- Make me an angel.*- She wanted . . ." ]
+							}
+, 							{
+								"key" : [ "230", 230 ],
+								"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+							}
+, 							{
+								"key" : [ "231", 231 ],
+								"value" : [ "I want to control the universe." ]
+							}
+, 							{
+								"key" : [ "232", 232 ],
+								"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+							}
+, 							{
+								"key" : [ "233", 233 ],
+								"value" : [ "THE GET ME MY SHOES!" ]
+							}
+, 							{
+								"key" : [ "234", 234 ],
+								"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+							}
+, 							{
+								"key" : [ "235", 235 ],
+								"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+							}
+, 							{
+								"key" : [ "236", 236 ],
+								"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+							}
+, 							{
+								"key" : [ "237", 237 ],
+								"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+							}
+, 							{
+								"key" : [ "238", 238 ],
+								"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+							}
+, 							{
+								"key" : [ "239", 239 ],
+								"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+							}
+, 							{
+								"key" : [ "240", 240 ],
+								"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+							}
+, 							{
+								"key" : [ "241", 241 ],
+								"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+							}
+, 							{
+								"key" : [ "242", 242 ],
+								"value" : [ "I’M READY!" ]
+							}
+, 							{
+								"key" : [ "243", 243 ],
+								"value" : [ "And her husband?" ]
+							}
+, 							{
+								"key" : [ "244", 244 ],
+								"value" : [ "- Was complicit.*- Is this the truth?" ]
+							}
+, 							{
+								"key" : [ "245", 245 ],
+								"value" : [ "Oh yes, believe me, it’s the truth." ]
+							}
+, 							{
+								"key" : [ "246", 246 ],
+								"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+							}
+, 							{
+								"key" : [ "247", 247 ],
+								"value" : [ "246" ]
+							}
+, 							{
+								"key" : [ "248", 248 ],
+								"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+							}
+, 							{
+								"key" : [ "249", 249 ],
+								"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+							}
+, 							{
+								"key" : [ "250", 250 ],
+								"value" : [ "Agnès puts on her shoes . . ." ]
+							}
+, 							{
+								"key" : [ "251", 251 ],
+								"value" : [ ". . . steps through the stone slit . . ." ]
+							}
+, 							{
+								"key" : [ "252", 252 ],
+								"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+							}
+, 							{
+								"key" : [ "253", 253 ],
+								"value" : [ ". . . where the Boy, him . . ." ]
+							}
+, 							{
+								"key" : [ "254", 254 ],
+								"value" : [ ". . . yes, the liar, look, lifts his head." ]
+							}
+, 							{
+								"key" : [ "255", 255 ],
+								"value" : [ "Why are you crying?" ]
+							}
+, 							{
+								"key" : [ "256", 256 ],
+								"value" : [ "You lied to me." ]
+							}
+, 							{
+								"key" : [ "257", 257 ],
+								"value" : [ "In what way lied?" ]
+							}
+, 							{
+								"key" : [ "258", 258 ],
+								"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+							}
+, 							{
+								"key" : [ "259", 259 ],
+								"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+							}
+, 							{
+								"key" : [ "260", 260 ],
+								"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+							}
+, 							{
+								"key" : [ "261", 261 ],
+								"value" : [ "What dream?" ]
+							}
+, 							{
+								"key" : [ "262", 262 ],
+								"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+							}
+, 							{
+								"key" : [ "263", 263 ],
+								"value" : [ "I lied for you, not to you." ]
+							}
+, 							{
+								"key" : [ "264", 264 ],
+								"value" : [ "Prove it." ]
+							}
+, 							{
+								"key" : [ "265", 265 ],
+								"value" : [ "- I lied to protect you.*- Protect . . ." ]
+							}
+, 							{
+								"key" : [ "266", 266 ],
+								"value" : [ "To protect me or to protect yourself?" ]
+							}
+, 							{
+								"key" : [ "267", 267 ],
+								"value" : [ "This isn’t true." ]
+							}
+, 							{
+								"key" : [ "268", 268 ],
+								"value" : [ "Prove it. Let him see.*Show him us." ]
+							}
+, 							{
+								"key" : [ "269", 269 ],
+								"value" : [ "Show him us how?" ]
+							}
+, 							{
+								"key" : [ "270", 270 ],
+								"value" : [ "Or do you love him too?" ]
+							}
+, 							{
+								"key" : [ "271", 271 ],
+								"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+							}
+, 							{
+								"key" : [ "272", 272 ],
+								"value" : [ "What is it – says the Boy –*you want from me?" ]
+							}
+, 							{
+								"key" : [ "273", 273 ],
+								"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+							}
+, 							{
+								"key" : [ "274", 274 ],
+								"value" : [ ". . . make me a new page." ]
+							}
+, 							{
+								"key" : [ "275", 275 ],
+								"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+							}
+, 							{
+								"key" : [ "276", 276 ],
+								"value" : [ "Blind him,*blind him with it." ]
+							}
+, 							{
+								"key" : [ "277", 277 ],
+								"value" : [ "Make him . . ." ]
+							}
+, 							{
+								"key" : [ "278", 278 ],
+								"value" : [ ". . . cry blood." ]
+							}
+, 							{
+								"key" : [ "279", 279 ],
+								"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+							}
+, 							{
+								"key" : [ "280", 280 ],
+								"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+							}
+, 							{
+								"key" : [ "281", 281 ],
+								"value" : [ "These naked boys have dug their own graves." ]
+							}
+, 							{
+								"key" : [ "282", 282 ],
+								"value" : [ "They’re waiting in the orchard to be shot." ]
+							}
+, 							{
+								"key" : [ "283", 283 ],
+								"value" : [ "And what are these streaks of light?" ]
+							}
+, 							{
+								"key" : [ "284", 284 ],
+								"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+							}
+, 							{
+								"key" : [ "285", 285 ],
+								"value" : [ "Now show me Paradise." ]
+							}
+, 							{
+								"key" : [ "286", 286 ],
+								"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+							}
+, 							{
+								"key" : [ "287", 287 ],
+								"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+							}
+, 							{
+								"key" : [ "288", 288 ],
+								"value" : [ "Paradise?*But this is Paradise." ]
+							}
+, 							{
+								"key" : [ "289", 289 ],
+								"value" : [ "Here is your mill and here are your cherry trees." ]
+							}
+, 							{
+								"key" : [ "290", 290 ],
+								"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+							}
+, 							{
+								"key" : [ "291", 291 ],
+								"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+							}
+, 							{
+								"key" : [ "292", 292 ],
+								"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+							}
+, 							{
+								"key" : [ "293", 293 ],
+								"value" : [ "Here . . . here . . ." ]
+							}
+, 							{
+								"key" : [ "294", 294 ],
+								"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+							}
+, 							{
+								"key" : [ "295", 295 ],
+								"value" : [ "Where are the pictures?" ]
+							}
+, 							{
+								"key" : [ "296", 296 ],
+								"value" : [ "They’re here: I’ve painted them with words." ]
+							}
+, 							{
+								"key" : [ "297", 297 ],
+								"value" : [ "- What words?*- Read them." ]
+							}
+, 							{
+								"key" : [ "298", 298 ],
+								"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+							}
+, 							{
+								"key" : [ "299", 299 ],
+								"value" : [ "- Or this? This?*- The book is finished." ]
+							}
+, 							{
+								"key" : [ "300", 300 ],
+								"value" : [ "Where does a word end and another word begin?" ]
+							}
+, 							{
+								"key" : [ "301", 301 ],
+								"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+							}
+, 							{
+								"key" : [ "302", 302 ],
+								"value" : [ "What? What use to a woman is a word?" ]
+							}
+, 							{
+								"key" : [ "303", 303 ],
+								"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+							}
+, 							{
+								"key" : [ "304", 304 ],
+								"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+							}
+, 							{
+								"key" : [ "305", 305 ],
+								"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+							}
+, 							{
+								"key" : [ "306", 306 ],
+								"value" : [ ". . . each part of her body – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "307", 307 ],
+								"value" : [ "She has offered and has used for her own pleasure." ]
+							}
+, 							{
+								"key" : [ "308", 308 ],
+								"value" : [ "Like the man – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "309", 309 ],
+								"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "310", 310 ],
+								"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+							}
+, 							{
+								"key" : [ "311", 311 ],
+								"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "312", 312 ],
+								"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+							}
+, 							{
+								"key" : [ "313", 313 ],
+								"value" : [ ". . . pornography." ]
+							}
+, 							{
+								"key" : [ "314", 314 ],
+								"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "315", 315 ],
+								"value" : [ ". . . asks me to say to you." ]
+							}
+, 							{
+								"key" : [ "316", 316 ],
+								"value" : [ "Read it, oh read it again." ]
+							}
+, 							{
+								"key" : [ "317", 317 ],
+								"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+							}
+, 							{
+								"key" : [ "318", 318 ],
+								"value" : [ "- I want to see.*- Cover your arms." ]
+							}
+, 							{
+								"key" : [ "319", 319 ],
+								"value" : [ "Cover your face and hair." ]
+							}
+, 							{
+								"key" : [ "320", 320 ],
+								"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+							}
+, 							{
+								"key" : [ "321", 321 ],
+								"value" : [ "NOW KEEP AWAY FROM ME." ]
+							}
+, 							{
+								"key" : [ "322", 322 ],
+								"value" : [ "Please let me see the word for love." ]
+							}
+, 							{
+								"key" : [ "323", 323 ],
+								"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+							}
+, 							{
+								"key" : [ "324", 324 ],
+								"value" : [ "- Make a man out of dust.*- Good." ]
+							}
+, 							{
+								"key" : [ "325", 325 ],
+								"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+							}
+, 							{
+								"key" : [ "326", 326 ],
+								"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+							}
+, 							{
+								"key" : [ "327", 327 ],
+								"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+							}
+, 							{
+								"key" : [ "328", 328 ],
+								"value" : [ "Expel him from joy*with a lacerating whip." ]
+							}
+, 							{
+								"key" : [ "329", 329 ],
+								"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+							}
+, 							{
+								"key" : [ "330", 330 ],
+								"value" : [ "Make each man ashamed . . ." ]
+							}
+, 							{
+								"key" : [ "331", 331 ],
+								"value" : [ ". . . ashamed to be human." ]
+							}
+, 							{
+								"key" : [ "332", 332 ],
+								"value" : [ "Put voices into his mind." ]
+							}
+, 							{
+								"key" : [ "333", 333 ],
+								"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+							}
+, 							{
+								"key" : [ "334", 334 ],
+								"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+							}
+, 							{
+								"key" : [ "335", 335 ],
+								"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+							}
+, 							{
+								"key" : [ "336", 336 ],
+								"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+							}
+, 							{
+								"key" : [ "337", 337 ],
+								"value" : [ ". . . in the glass-black mirror of his eyes." ]
+							}
+, 							{
+								"key" : [ "338", 338 ],
+								"value" : [ "Woman and her Protector . . ." ]
+							}
+, 							{
+								"key" : [ "339", 339 ],
+								"value" : [ "Night. A room." ]
+							}
+, 							{
+								"key" : [ "340", 340 ],
+								"value" : [ "A balcony. A long white table." ]
+							}
+, 							{
+								"key" : [ "341", 341 ],
+								"value" : [ "What has he placed in front of her?" ]
+							}
+, 							{
+								"key" : [ "342", 342 ],
+								"value" : [ "A silver dish." ]
+							}
+, 							{
+								"key" : [ "343", 343 ],
+								"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+							}
+, 							{
+								"key" : [ "344", 344 ],
+								"value" : [ "The warm round silver lid." ]
+							}
+, 							{
+								"key" : [ "345", 345 ],
+								"value" : [ "What does the woman do now?" ]
+							}
+, 							{
+								"key" : [ "346", 346 ],
+								"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+							}
+, 							{
+								"key" : [ "347", 347 ],
+								"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+							}
+, 							{
+								"key" : [ "348", 348 ],
+								"value" : [ "What makes the woman eat?" ]
+							}
+, 							{
+								"key" : [ "349", 349 ],
+								"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+							}
+, 							{
+								"key" : [ "350", 350 ],
+								"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+							}
+, 							{
+								"key" : [ "351", 351 ],
+								"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+							}
+, 							{
+								"key" : [ "352", 352 ],
+								"value" : [ "How does it taste – says the man." ]
+							}
+, 							{
+								"key" : [ "353", 353 ],
+								"value" : [ "Good, she says – salt and sweet." ]
+							}
+, 							{
+								"key" : [ "354", 354 ],
+								"value" : [ "Why?" ]
+							}
+, 							{
+								"key" : [ "355", 355 ],
+								"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+							}
+, 							{
+								"key" : [ "356", 356 ],
+								"value" : [ "Why?" ]
+							}
+, 							{
+								"key" : [ "357", 357 ],
+								"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+							}
+, 							{
+								"key" : [ "358", 358 ],
+								"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+							}
+, 							{
+								"key" : [ "359", 359 ],
+								"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+							}
+, 							{
+								"key" : [ "360", 360 ],
+								"value" : [ "- What heart?*- His heart – the Boy – " ]
+							}
+, 							{
+								"key" : [ "361", 361 ],
+								"value" : [ "- No.*- His heart – the Boy – " ]
+							}
+, 							{
+								"key" : [ "362", 362 ],
+								"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+							}
+, 							{
+								"key" : [ "363", 363 ],
+								"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+							}
+, 							{
+								"key" : [ "364", 364 ],
+								"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+							}
+, 							{
+								"key" : [ "365", 365 ],
+								"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+							}
+, 							{
+								"key" : [ "366", 366 ],
+								"value" : [ "Each mark he makes on me is good,*each color clear." ]
+							}
+, 							{
+								"key" : [ "367", 367 ],
+								"value" : [ "Crush. Burn. Break. Tear." ]
+							}
+, 							{
+								"key" : [ "368", 368 ],
+								"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+							}
+, 							{
+								"key" : [ "369", 369 ],
+								"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+							}
+, 							{
+								"key" : [ "370", 370 ],
+								"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+							}
+, 							{
+								"key" : [ "371", 371 ],
+								"value" : [ "Here, look, the man takes a knife . . ." ]
+							}
+, 							{
+								"key" : [ "372", 372 ],
+								"value" : [ "But the woman’s quicker, and jumps." ]
+							}
+, 							{
+								"key" : [ "373", 373 ],
+								"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+							}
+, 							{
+								"key" : [ "374", 374 ],
+								"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+							}
+, 							{
+								"key" : [ "375", 375 ],
+								"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+							}
+, 							{
+								"key" : [ "376", 376 ],
+								"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+							}
+, 							{
+								"key" : [ "377", 377 ],
+								"value" : [ ". . . as they turn from the fallen woman . . ." ]
+							}
+, 							{
+								"key" : [ "378", 378 ],
+								"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+							}
+ ]
 					}
 ,
 					"id" : "obj-41",
@@ -3493,8 +14090,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-84",
@@ -3686,8 +15795,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-69",
@@ -4435,14 +18056,14 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-10",
-									"linecount" : 5,
+									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 712.0, 222.0, 127.0, 76.0 ],
 									"style" : "",
-									"text" : "set 9 \"Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children.\""
+									"text" : "set \"12\" \"And the man?\""
 								}
 
 							}
@@ -4515,7 +18136,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 16.833313, 62.0, 106.0, 25.0 ],
 									"style" : "",
-									"text" : "9",
+									"text" : "12",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -4677,8 +18298,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-1",
@@ -4913,7 +20046,6 @@
 									"bordercolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"id" : "obj-24",
 									"keymode" : 1,
-									"linecount" : 4,
 									"maxclass" : "textedit",
 									"numinlets" : 1,
 									"numoutlets" : 4,
@@ -4922,10 +20054,9 @@
 									"parameter_enable" : 0,
 									"patching_rect" : [ 544.0, 345.0, 189.0, 103.0 ],
 									"presentation" : 1,
-									"presentation_linecount" : 2,
 									"presentation_rect" : [ 131.0, 62.0, 407.0, 103.0 ],
 									"style" : "",
-									"text" : "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children. And the man? The man is her husband and protector.",
+									"text" : "And the man?",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -4960,8 +20091,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-60",
@@ -5383,7 +22026,8 @@
 				"box" : 				{
 					"bgcolor" : [ 0.16997, 0.194523, 0.228749, 1.0 ],
 					"coldef" : [ [ 0, 39, 1, 0.0, 0.0, 0.0, 1.0, 1, 0.0, 0.0, 0.0, 1.0, -1, -1, -1 ] ],
-					"cols" : 1,
+					"cols" : 2,
+					"colwidth" : 660,
 					"fgcolor" : [ 0.904157, 0.889656, 0.730563, 1.0 ],
 					"fontface" : 0,
 					"fontname" : "Arial",
@@ -5399,7 +22043,7 @@
 					"patching_rect" : [ 409.999969, 98.333336, 700.000122, 556.133301 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 19.853359, 68.533333, 714.666626, 557.533386 ],
-					"rows" : 1,
+					"rows" : 378,
 					"savemode" : 1,
 					"sccolor" : [ 0.126886, 0.146961, 0.172445, 1.0 ],
 					"selmode" : 3,
@@ -5562,7 +22206,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 24.0, 136.0, 739.0, 165.0 ],
+						"rect" : [ 0.0, 45.0, 986.0, 855.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
@@ -5592,6 +22236,189 @@
 						"subpatcher_template" : "Chesterfield",
 						"boxes" : [ 							{
 								"box" : 								{
+									"id" : "obj-84",
+									"linecount" : 2,
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1674.0, 600.0, 93.0, 35.0 ],
+									"style" : "",
+									"text" : "/chorus we are the ELDERS"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-81",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1626.0, 588.0, 109.0, 22.0 ],
+									"style" : "",
+									"text" : "/solo i am siniging!"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 13.0,
+									"id" : "obj-78",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1439.0, 767.0, 130.0, 23.0 ],
+									"style" : "",
+									"text" : "maxpacketsize 2048"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 13.0,
+									"id" : "obj-79",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1439.0, 731.0, 128.0, 23.0 ],
+									"style" : "",
+									"text" : "maxqueuesize 1024"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-77",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1596.5, 538.5, 38.0, 22.0 ],
+									"style" : "",
+									"text" : "defer"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 13.0,
+									"id" : "obj-76",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 846.5, 512.0, 128.0, 23.0 ],
+									"style" : "",
+									"text" : "maxqueuesize 1024"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-74",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 945.0, 583.0, 50.0, 0.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-71",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 961.0, 548.0, 34.0, 22.0 ],
+									"style" : "",
+									"text" : "print"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-68",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 980.0, 301.0, 34.0, 22.0 ],
+									"style" : "",
+									"text" : "print"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-62",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1526.0, 496.0, 36.0, 22.0 ],
+									"style" : "",
+									"text" : "hello"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-56",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 762.0, 508.0, 34.0, 22.0 ],
+									"style" : "",
+									"text" : "print"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-53",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 1455.0, 320.0, 34.0, 22.0 ],
+									"style" : "",
+									"text" : "print"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-42",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 1323.0, 397.0, 142.0, 22.0 ],
+									"style" : "",
+									"text" : "loadmess colwidth 660 1"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-7",
+									"maxclass" : "comment",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 934.0, 134.0, 150.0, 20.0 ],
+									"style" : "",
+									"text" : "update ip addresses"
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"id" : "obj-123",
 									"maxclass" : "newobj",
 									"numinlets" : 2,
@@ -5600,18 +22427,6 @@
 									"patching_rect" : [ 973.0, 251.0, 36.0, 22.0 ],
 									"style" : "",
 									"text" : "sel 1"
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"id" : "obj-118",
-									"maxclass" : "newobj",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 858.0, 606.0, 137.0, 22.0 ],
-									"style" : "",
-									"text" : "udpsend localhost 7878"
 								}
 
 							}
@@ -5958,7 +22773,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1310.0, 2.0, 90.0, 22.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 611.666626, 113.0, 90.0, 22.0 ],
+									"presentation_rect" : [ 611.666626, 106.0, 90.0, 22.0 ],
 									"style" : "",
 									"text" : "Set IP Address"
 								}
@@ -6011,24 +22826,12 @@
 							}
 , 							{
 								"box" : 								{
-									"id" : "obj-25",
-									"maxclass" : "newobj",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 1490.5, 214.0, 137.0, 22.0 ],
-									"style" : "",
-									"text" : "udpsend localhost 7878"
-								}
-
-							}
-, 							{
-								"box" : 								{
 									"id" : "obj-27",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 1511.5, 182.0, 95.0, 22.0 ],
+									"patching_rect" : [ 1596.5, 496.0, 95.0, 22.0 ],
 									"style" : "",
 									"text" : "prepend /lineNo"
 								}
@@ -6089,8 +22892,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-13",
@@ -6189,7 +24504,7 @@
 								"box" : 								{
 									"id" : "obj-45",
 									"maxclass" : "number",
-									"maximum" : 374,
+									"maximum" : 378,
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
@@ -6282,7 +24597,8 @@
 								"box" : 								{
 									"bgcolor" : [ 0.16997, 0.194523, 0.228749, 1.0 ],
 									"coldef" : [ [ 0, 37, 1, 0.0, 0.0, 0.0, 1.0, 1, 0.0, 0.0, 0.0, 1.0, -1, -1, -1 ] ],
-									"cols" : 1,
+									"cols" : 2,
+									"colwidth" : 660,
 									"fgcolor" : [ 0.904157, 0.889656, 0.730563, 1.0 ],
 									"fontface" : 0,
 									"fontname" : "Arial",
@@ -6296,10 +24612,10 @@
 									"numoutlets" : 4,
 									"outlettype" : [ "list", "", "", "" ],
 									"outmode" : 2,
-									"patching_rect" : [ 1095.5, 434.0, 689.000122, 37.133301 ],
+									"patching_rect" : [ 1095.5, 431.0, 689.000122, 37.133301 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 15.0, 30.0, 686.666626, 54.466667 ],
-									"rows" : 1,
+									"rows" : 378,
 									"savemode" : 1,
 									"sccolor" : [ 0.126886, 0.146961, 0.172445, 1.0 ],
 									"selmode" : 3,
@@ -6328,9 +24644,9 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1384.0, 316.0, 137.0, 22.0 ],
+									"patching_rect" : [ 1506.5, 633.0, 167.0, 22.0 ],
 									"style" : "",
-									"text" : "udpsend localhost 7878"
+									"text" : "udpsend 192.168.1.180 7878"
 								}
 
 							}
@@ -6341,7 +24657,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 1384.0, 284.0, 81.0, 22.0 ],
+									"patching_rect" : [ 1419.0, 284.0, 81.0, 22.0 ],
 									"style" : "",
 									"text" : "prepend /text"
 								}
@@ -6523,8 +24839,1520 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 0,
-										"data" : [  ]
+										"count" : 378,
+										"data" : [ 											{
+												"key" : [ "1", 1 ],
+												"value" : [ "Strip the cities of brick.*Dismantle them." ]
+											}
+, 											{
+												"key" : [ "2", 2 ],
+												"value" : [ "Strip out the wires*and cover the land with grass." ]
+											}
+, 											{
+												"key" : [ "3", 3 ],
+												"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+											}
+, 											{
+												"key" : [ "4", 4 ],
+												"value" : [ ". . . and people the sky with angels." ]
+											}
+, 											{
+												"key" : [ "5", 5 ],
+												"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+											}
+, 											{
+												"key" : [ "6", 6 ],
+												"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+											}
+, 											{
+												"key" : [ "7", 7 ],
+												"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+											}
+, 											{
+												"key" : [ "8", 8 ],
+												"value" : [ "Fade out the living:*snap back the dead to life." ]
+											}
+, 											{
+												"key" : [ "9", 9 ],
+												"value" : [ "The woman?" ]
+											}
+, 											{
+												"key" : [ "10", 10 ],
+												"value" : [ "Was married age fourteen." ]
+											}
+, 											{
+												"key" : [ "11", 11 ],
+												"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+											}
+, 											{
+												"key" : [ "12", 12 ],
+												"value" : [ "And the man?" ]
+											}
+, 											{
+												"key" : [ "13", 13 ],
+												"value" : [ "The man is her husband and protector." ]
+											}
+, 											{
+												"key" : [ "14", 14 ],
+												"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+											}
+, 											{
+												"key" : [ "15", 15 ],
+												"value" : [ "Stand here. Look.*My house is perfect." ]
+											}
+, 											{
+												"key" : [ "16", 16 ],
+												"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+											}
+, 											{
+												"key" : [ "17", 17 ],
+												"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+											}
+, 											{
+												"key" : [ "18", 18 ],
+												"value" : [ "I own the fields:*I own everyone in them." ]
+											}
+, 											{
+												"key" : [ "19", 19 ],
+												"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+											}
+, 											{
+												"key" : [ "20", 20 ],
+												"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+											}
+, 											{
+												"key" : [ "21", 21 ],
+												"value" : [ ". . . is my property." ]
+											}
+, 											{
+												"key" : [ "22", 22 ],
+												"value" : [ "Make me a book." ]
+											}
+, 											{
+												"key" : [ "23", 23 ],
+												"value" : [ "Fill it with illumination." ]
+											}
+, 											{
+												"key" : [ "24", 24 ],
+												"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+											}
+, 											{
+												"key" : [ "25", 25 ],
+												"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+											}
+, 											{
+												"key" : [ "26", 26 ],
+												"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+											}
+, 											{
+												"key" : [ "27", 27 ],
+												"value" : [ "Show us in Paradise." ]
+											}
+, 											{
+												"key" : [ "28", 28 ],
+												"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+											}
+, 											{
+												"key" : [ "29", 29 ],
+												"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+											}
+, 											{
+												"key" : [ "30", 30 ],
+												"value" : [ "But first: show me proof." ]
+											}
+, 											{
+												"key" : [ "31", 31 ],
+												"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+											}
+, 											{
+												"key" : [ "32", 32 ],
+												"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+											}
+, 											{
+												"key" : [ "33", 33 ],
+												"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+											}
+, 											{
+												"key" : [ "34", 34 ],
+												"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+											}
+, 											{
+												"key" : [ "35", 35 ],
+												"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+											}
+, 											{
+												"key" : [ "36", 36 ],
+												"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+											}
+, 											{
+												"key" : [ "37", 37 ],
+												"value" : [ "Not just kind, but merciful." ]
+											}
+, 											{
+												"key" : [ "38", 38 ],
+												"value" : [ "Merciful." ]
+											}
+, 											{
+												"key" : [ "39", 39 ],
+												"value" : [ "No! No! says the woman." ]
+											}
+, 											{
+												"key" : [ "40", 40 ],
+												"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+											}
+, 											{
+												"key" : [ "41", 41 ],
+												"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+											}
+, 											{
+												"key" : [ "42", 42 ],
+												"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+											}
+, 											{
+												"key" : [ "43", 43 ],
+												"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+											}
+, 											{
+												"key" : [ "44", 44 ],
+												"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+											}
+, 											{
+												"key" : [ "45", 45 ],
+												"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+											}
+, 											{
+												"key" : [ "46", 46 ],
+												"value" : [ "Map out new territory with blood." ]
+											}
+, 											{
+												"key" : [ "47", 47 ],
+												"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+											}
+, 											{
+												"key" : [ "48", 48 ],
+												"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+											}
+, 											{
+												"key" : [ "49", 49 ],
+												"value" : [ "Invent man and drown him." ]
+											}
+, 											{
+												"key" : [ "50", 50 ],
+												"value" : [ "- Good.*- Burn him alive." ]
+											}
+, 											{
+												"key" : [ "51", 51 ],
+												"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+											}
+, 											{
+												"key" : [ "52", 52 ],
+												"value" : [ "- Invent a woman.*- Invent her." ]
+											}
+, 											{
+												"key" : [ "53", 53 ],
+												"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+											}
+, 											{
+												"key" : [ "54", 54 ],
+												"value" : [ "Play birth and death." ]
+											}
+, 											{
+												"key" : [ "55", 55 ],
+												"value" : [ "Blame her for everything." ]
+											}
+, 											{
+												"key" : [ "56", 56 ],
+												"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+											}
+, 											{
+												"key" : [ "57", 57 ],
+												"value" : [ "Make her curious." ]
+											}
+, 											{
+												"key" : [ "58", 58 ],
+												"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "59", 59 ],
+												"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "60", 60 ],
+												"value" : [ ". . . ah, yes, look . . ." ]
+											}
+, 											{
+												"key" : [ "61", 61 ],
+												"value" : [ ". . . the Boy bends over a new page." ]
+											}
+, 											{
+												"key" : [ "62", 62 ],
+												"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+											}
+, 											{
+												"key" : [ "63", 63 ],
+												"value" : [ "Grit." ]
+											}
+, 											{
+												"key" : [ "64", 64 ],
+												"value" : [ "What do you want,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "65", 65 ],
+												"value" : [ "- To see, says the woman.*- See what?" ]
+											}
+, 											{
+												"key" : [ "66", 66 ],
+												"value" : [ "To see how a book is made." ]
+											}
+, 											{
+												"key" : [ "67", 67 ],
+												"value" : [ "What is that tree?" ]
+											}
+, 											{
+												"key" : [ "68", 68 ],
+												"value" : [ "The Tree, says the Boy,*of Life." ]
+											}
+, 											{
+												"key" : [ "69", 69 ],
+												"value" : [ "- Ah. Odd.*- I invented it." ]
+											}
+, 											{
+												"key" : [ "70", 70 ],
+												"value" : [ "Ah. Yes.*And who is that woman?" ]
+											}
+, 											{
+												"key" : [ "71", 71 ],
+												"value" : [ "Eve, says the Boy." ]
+											}
+, 											{
+												"key" : [ "72", 72 ],
+												"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+											}
+, 											{
+												"key" : [ "73", 73 ],
+												"value" : [ "She doesn’t look real,*laughs the woman." ]
+											}
+, 											{
+												"key" : [ "74", 74 ],
+												"value" : [ "That’s not how a woman looks." ]
+											}
+, 											{
+												"key" : [ "75", 75 ],
+												"value" : [ "You’re in my light,*says the Boy." ]
+											}
+, 											{
+												"key" : [ "76", 76 ],
+												"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+											}
+, 											{
+												"key" : [ "77", 77 ],
+												"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+											}
+, 											{
+												"key" : [ "78", 78 ],
+												"value" : [ "Too close." ]
+											}
+, 											{
+												"key" : [ "79", 79 ],
+												"value" : [ "What else can you invent?" ]
+											}
+, 											{
+												"key" : [ "80", 80 ],
+												"value" : [ "Can you invent another woman,*says the woman . . ." ]
+											}
+, 											{
+												"key" : [ "81", 81 ],
+												"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+											}
+, 											{
+												"key" : [ "82", 82 ],
+												"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+											}
+, 											{
+												"key" : [ "83", 83 ],
+												"value" : [ ". . . until the cold side’s hot?" ]
+											}
+, 											{
+												"key" : [ "84", 84 ],
+												"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+											}
+, 											{
+												"key" : [ "85", 85 ],
+												"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+											}
+, 											{
+												"key" : [ "86", 86 ],
+												"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+											}
+, 											{
+												"key" : [ "87", 87 ],
+												"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+											}
+, 											{
+												"key" : [ "88", 88 ],
+												"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+											}
+, 											{
+												"key" : [ "89", 89 ],
+												"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+											}
+, 											{
+												"key" : [ "90", 90 ],
+												"value" : [ "- What boy?*- . . . with love." ]
+											}
+, 											{
+												"key" : [ "91", 91 ],
+												"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+											}
+, 											{
+												"key" : [ "92", 92 ],
+												"value" : [ "Invent her.*Invent the woman you want." ]
+											}
+, 											{
+												"key" : [ "93", 93 ],
+												"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+											}
+, 											{
+												"key" : [ "94", 94 ],
+												"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+											}
+, 											{
+												"key" : [ "95", 95 ],
+												"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+											}
+, 											{
+												"key" : [ "96", 96 ],
+												"value" : [ ". . . come, come to me, show her to me." ]
+											}
+, 											{
+												"key" : [ "97", 97 ],
+												"value" : [ "I’ll tell you if she’s real." ]
+											}
+, 											{
+												"key" : [ "98", 98 ],
+												"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+											}
+, 											{
+												"key" : [ "99", 99 ],
+												"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+											}
+, 											{
+												"key" : [ "100", 100 ],
+												"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "101", 101 ],
+												"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+											}
+, 											{
+												"key" : [ "102", 102 ],
+												"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+											}
+, 											{
+												"key" : [ "103", 103 ],
+												"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+											}
+, 											{
+												"key" : [ "104", 104 ],
+												"value" : [ "How is my sister?" ]
+											}
+, 											{
+												"key" : [ "105", 105 ],
+												"value" : [ "My wife?" ]
+											}
+, 											{
+												"key" : [ "106", 106 ],
+												"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+											}
+, 											{
+												"key" : [ "107", 107 ],
+												"value" : [ "And your house?" ]
+											}
+, 											{
+												"key" : [ "108", 108 ],
+												"value" : [ "Increasing in value daily." ]
+											}
+, 											{
+												"key" : [ "109", 109 ],
+												"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+											}
+, 											{
+												"key" : [ "110", 110 ],
+												"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+											}
+, 											{
+												"key" : [ "111", 111 ],
+												"value" : [ "The book will be magnificent." ]
+											}
+, 											{
+												"key" : [ "112", 112 ],
+												"value" : [ "The Boy works with azurite and gold." ]
+											}
+, 											{
+												"key" : [ "113", 113 ],
+												"value" : [ "Both Boy and book are faultless." ]
+											}
+, 											{
+												"key" : [ "114", 114 ],
+												"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+											}
+, 											{
+												"key" : [ "115", 115 ],
+												"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+											}
+, 											{
+												"key" : [ "116", 116 ],
+												"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+											}
+, 											{
+												"key" : [ "117", 117 ],
+												"value" : [ "Be quiet, Marie." ]
+											}
+, 											{
+												"key" : [ "118", 118 ],
+												"value" : [ "Listen to me:*I love the Boy." ]
+											}
+, 											{
+												"key" : [ "119", 119 ],
+												"value" : [ "What kind of man sits a stranger . . ." ]
+											}
+, 											{
+												"key" : [ "120", 120 ],
+												"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+											}
+, 											{
+												"key" : [ "121", 121 ],
+												"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+											}
+, 											{
+												"key" : [ "122", 122 ],
+												"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+											}
+, 											{
+												"key" : [ "123", 123 ],
+												"value" : [ ". . . you will not pass the black dog at my gate." ]
+											}
+, 											{
+												"key" : [ "124", 124 ],
+												"value" : [ "Woman . . . alone . . ." ]
+											}
+, 											{
+												"key" : [ "125", 125 ],
+												"value" : [ "Night.*Her visitors?" ]
+											}
+, 											{
+												"key" : [ "126", 126 ],
+												"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+											}
+, 											{
+												"key" : [ "127", 127 ],
+												"value" : [ "What can she hear inside of her?*Her own voice." ]
+											}
+, 											{
+												"key" : [ "128", 128 ],
+												"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+											}
+, 											{
+												"key" : [ "129", 129 ],
+												"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+											}
+, 											{
+												"key" : [ "130", 130 ],
+												"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+											}
+, 											{
+												"key" : [ "131", 131 ],
+												"value" : [ "- Here.*- It’s dark." ]
+											}
+, 											{
+												"key" : [ "132", 132 ],
+												"value" : [ "Then concentrate." ]
+											}
+, 											{
+												"key" : [ "133", 133 ],
+												"value" : [ "This – says the Boy – shows a house in winter." ]
+											}
+, 											{
+												"key" : [ "134", 134 ],
+												"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+											}
+, 											{
+												"key" : [ "135", 135 ],
+												"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+											}
+, 											{
+												"key" : [ "136", 136 ],
+												"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+											}
+, 											{
+												"key" : [ "137", 137 ],
+												"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+											}
+, 											{
+												"key" : [ "138", 138 ],
+												"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+											}
+, 											{
+												"key" : [ "139", 139 ],
+												"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+											}
+, 											{
+												"key" : [ "140", 140 ],
+												"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+											}
+, 											{
+												"key" : [ "141", 141 ],
+												"value" : [ "It’s dark." ]
+											}
+, 											{
+												"key" : [ "142", 142 ],
+												"value" : [ "Then look more closely." ]
+											}
+, 											{
+												"key" : [ "143", 143 ],
+												"value" : [ "What color are her eyes?" ]
+											}
+, 											{
+												"key" : [ "144", 144 ],
+												"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+											}
+, 											{
+												"key" : [ "145", 145 ],
+												"value" : [ "Like yours now." ]
+											}
+, 											{
+												"key" : [ "146", 146 ],
+												"value" : [ "And her hair?*Pay attention." ]
+											}
+, 											{
+												"key" : [ "147", 147 ],
+												"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+											}
+, 											{
+												"key" : [ "148", 148 ],
+												"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+											}
+, 											{
+												"key" : [ "149", 149 ],
+												"value" : [ ". . . drawn its exact music." ]
+											}
+, 											{
+												"key" : [ "150", 150 ],
+												"value" : [ "And here . . .*Here, under the bone . . ." ]
+											}
+, 											{
+												"key" : [ "151", 151 ],
+												"value" : [ "In the hot space between her ribs . . ." ]
+											}
+, 											{
+												"key" : [ "152", 152 ],
+												"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+											}
+, 											{
+												"key" : [ "153", 153 ],
+												"value" : [ "I am Agnès.*My name’s Agnès." ]
+											}
+, 											{
+												"key" : [ "154", 154 ],
+												"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+											}
+, 											{
+												"key" : [ "155", 155 ],
+												"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+											}
+, 											{
+												"key" : [ "156", 156 ],
+												"value" : [ "Love is an act." ]
+											}
+, 											{
+												"key" : [ "157", 157 ],
+												"value" : [ "People are saying,*saying the book eats TIME." ]
+											}
+, 											{
+												"key" : [ "158", 158 ],
+												"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+											}
+, 											{
+												"key" : [ "159", 159 ],
+												"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+											}
+, 											{
+												"key" : [ "160", 160 ],
+												"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+											}
+, 											{
+												"key" : [ "161", 161 ],
+												"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+											}
+, 											{
+												"key" : [ "162", 162 ],
+												"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+											}
+, 											{
+												"key" : [ "163", 163 ],
+												"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+											}
+, 											{
+												"key" : [ "164", 164 ],
+												"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+											}
+, 											{
+												"key" : [ "165", 165 ],
+												"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+											}
+, 											{
+												"key" : [ "166", 166 ],
+												"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+											}
+, 											{
+												"key" : [ "167", 167 ],
+												"value" : [ ". . . for the reassurance of a human body . . ." ]
+											}
+, 											{
+												"key" : [ "168", 168 ],
+												"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+											}
+, 											{
+												"key" : [ "169", 169 ],
+												"value" : [ "Feels for his wife.*Where is she?" ]
+											}
+, 											{
+												"key" : [ "170", 170 ],
+												"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+											}
+, 											{
+												"key" : [ "171", 171 ],
+												"value" : [ "You were thrashing in your sleep. Why?" ]
+											}
+, 											{
+												"key" : [ "172", 172 ],
+												"value" : [ "What is it you’re watching?" ]
+											}
+, 											{
+												"key" : [ "173", 173 ],
+												"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+											}
+, 											{
+												"key" : [ "174", 174 ],
+												"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+											}
+, 											{
+												"key" : [ "175", 175 ],
+												"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+											}
+, 											{
+												"key" : [ "176", 176 ],
+												"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+											}
+, 											{
+												"key" : [ "177", 177 ],
+												"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+											}
+, 											{
+												"key" : [ "178", 178 ],
+												"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+											}
+, 											{
+												"key" : [ "179", 179 ],
+												"value" : [ ". . . on the point of a stick." ]
+											}
+, 											{
+												"key" : [ "180", 180 ],
+												"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+											}
+, 											{
+												"key" : [ "181", 181 ],
+												"value" : [ "Touch me." ]
+											}
+, 											{
+												"key" : [ "182", 182 ],
+												"value" : [ "Kiss me." ]
+											}
+, 											{
+												"key" : [ "183", 183 ],
+												"value" : [ "Take my head in your hands." ]
+											}
+, 											{
+												"key" : [ "184", 184 ],
+												"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+											}
+, 											{
+												"key" : [ "185", 185 ],
+												"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+											}
+, 											{
+												"key" : [ "186", 186 ],
+												"value" : [ "Kiss me. Yes.*Kiss me now." ]
+											}
+, 											{
+												"key" : [ "187", 187 ],
+												"value" : [ "Only a child, Agnès, asks for a kiss." ]
+											}
+, 											{
+												"key" : [ "188", 188 ],
+												"value" : [ "I’m not a child." ]
+											}
+, 											{
+												"key" : [ "189", 189 ],
+												"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+											}
+, 											{
+												"key" : [ "190", 190 ],
+												"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "191", 191 ],
+												"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+											}
+, 											{
+												"key" : [ "192", 192 ],
+												"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+											}
+, 											{
+												"key" : [ "193", 193 ],
+												"value" : [ "Say it. You will say to me*“I am a child.”" ]
+											}
+, 											{
+												"key" : [ "194", 194 ],
+												"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+											}
+, 											{
+												"key" : [ "195", 195 ],
+												"value" : [ "Go to the wood.*Ask him." ]
+											}
+, 											{
+												"key" : [ "196", 196 ],
+												"value" : [ "Ask who?" ]
+											}
+, 											{
+												"key" : [ "197", 197 ],
+												"value" : [ "The one who writes on skin." ]
+											}
+, 											{
+												"key" : [ "198", 198 ],
+												"value" : [ "Ask him what I am, the Boy." ]
+											}
+, 											{
+												"key" : [ "199", 199 ],
+												"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+											}
+, 											{
+												"key" : [ "200", 200 ],
+												"value" : [ "Lovesick, thinks the Protector . . ." ]
+											}
+, 											{
+												"key" : [ "201", 201 ],
+												"value" : [ ". . . easy to strangle, like a girl." ]
+											}
+, 											{
+												"key" : [ "202", 202 ],
+												"value" : [ "What are you doing here?" ]
+											}
+, 											{
+												"key" : [ "203", 203 ],
+												"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+											}
+, 											{
+												"key" : [ "204", 204 ],
+												"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+											}
+, 											{
+												"key" : [ "205", 205 ],
+												"value" : [ "Thinking about?" ]
+											}
+, 											{
+												"key" : [ "206", 206 ],
+												"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+											}
+, 											{
+												"key" : [ "207", 207 ],
+												"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+											}
+, 											{
+												"key" : [ "208", 208 ],
+												"value" : [ ". . . everyone will have been dead for a thousand years." ]
+											}
+, 											{
+												"key" : [ "209", 209 ],
+												"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+											}
+, 											{
+												"key" : [ "210", 210 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "211", 211 ],
+												"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+											}
+, 											{
+												"key" : [ "212", 212 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "213", 213 ],
+												"value" : [ "Now there’s just you, me and a knife." ]
+											}
+, 											{
+												"key" : [ "214", 214 ],
+												"value" : [ "Tell me about now." ]
+											}
+, 											{
+												"key" : [ "215", 215 ],
+												"value" : [ "Who is this woman? –*The one they say …" ]
+											}
+, 											{
+												"key" : [ "216", 216 ],
+												"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+											}
+, 											{
+												"key" : [ "217", 217 ],
+												"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+											}
+, 											{
+												"key" : [ "218", 218 ],
+												"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+											}
+, 											{
+												"key" : [ "219", 219 ],
+												"value" : [ "Is it Agnès?" ]
+											}
+, 											{
+												"key" : [ "220", 220 ],
+												"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+											}
+, 											{
+												"key" : [ "221", 221 ],
+												"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+											}
+, 											{
+												"key" : [ "222", 222 ],
+												"value" : [ "Marie: her sister.*Look at her." ]
+											}
+, 											{
+												"key" : [ "223", 223 ],
+												"value" : [ "She came to me." ]
+											}
+, 											{
+												"key" : [ "224", 224 ],
+												"value" : [ "- I’m bored.*- She was bored." ]
+											}
+, 											{
+												"key" : [ "225", 225 ],
+												"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+											}
+, 											{
+												"key" : [ "226", 226 ],
+												"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+											}
+, 											{
+												"key" : [ "227", 227 ],
+												"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+											}
+, 											{
+												"key" : [ "228", 228 ],
+												"value" : [ "Then she wanted to be an angel." ]
+											}
+, 											{
+												"key" : [ "229", 229 ],
+												"value" : [ "- Make me an angel.*- She wanted . . ." ]
+											}
+, 											{
+												"key" : [ "230", 230 ],
+												"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+											}
+, 											{
+												"key" : [ "231", 231 ],
+												"value" : [ "I want to control the universe." ]
+											}
+, 											{
+												"key" : [ "232", 232 ],
+												"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+											}
+, 											{
+												"key" : [ "233", 233 ],
+												"value" : [ "THE GET ME MY SHOES!" ]
+											}
+, 											{
+												"key" : [ "234", 234 ],
+												"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+											}
+, 											{
+												"key" : [ "235", 235 ],
+												"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+											}
+, 											{
+												"key" : [ "236", 236 ],
+												"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+											}
+, 											{
+												"key" : [ "237", 237 ],
+												"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+											}
+, 											{
+												"key" : [ "238", 238 ],
+												"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+											}
+, 											{
+												"key" : [ "239", 239 ],
+												"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+											}
+, 											{
+												"key" : [ "240", 240 ],
+												"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "241", 241 ],
+												"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+											}
+, 											{
+												"key" : [ "242", 242 ],
+												"value" : [ "I’M READY!" ]
+											}
+, 											{
+												"key" : [ "243", 243 ],
+												"value" : [ "And her husband?" ]
+											}
+, 											{
+												"key" : [ "244", 244 ],
+												"value" : [ "- Was complicit.*- Is this the truth?" ]
+											}
+, 											{
+												"key" : [ "245", 245 ],
+												"value" : [ "Oh yes, believe me, it’s the truth." ]
+											}
+, 											{
+												"key" : [ "246", 246 ],
+												"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+											}
+, 											{
+												"key" : [ "247", 247 ],
+												"value" : [ "246" ]
+											}
+, 											{
+												"key" : [ "248", 248 ],
+												"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+											}
+, 											{
+												"key" : [ "249", 249 ],
+												"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+											}
+, 											{
+												"key" : [ "250", 250 ],
+												"value" : [ "Agnès puts on her shoes . . ." ]
+											}
+, 											{
+												"key" : [ "251", 251 ],
+												"value" : [ ". . . steps through the stone slit . . ." ]
+											}
+, 											{
+												"key" : [ "252", 252 ],
+												"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+											}
+, 											{
+												"key" : [ "253", 253 ],
+												"value" : [ ". . . where the Boy, him . . ." ]
+											}
+, 											{
+												"key" : [ "254", 254 ],
+												"value" : [ ". . . yes, the liar, look, lifts his head." ]
+											}
+, 											{
+												"key" : [ "255", 255 ],
+												"value" : [ "Why are you crying?" ]
+											}
+, 											{
+												"key" : [ "256", 256 ],
+												"value" : [ "You lied to me." ]
+											}
+, 											{
+												"key" : [ "257", 257 ],
+												"value" : [ "In what way lied?" ]
+											}
+, 											{
+												"key" : [ "258", 258 ],
+												"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+											}
+, 											{
+												"key" : [ "259", 259 ],
+												"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+											}
+, 											{
+												"key" : [ "260", 260 ],
+												"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+											}
+, 											{
+												"key" : [ "261", 261 ],
+												"value" : [ "What dream?" ]
+											}
+, 											{
+												"key" : [ "262", 262 ],
+												"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+											}
+, 											{
+												"key" : [ "263", 263 ],
+												"value" : [ "I lied for you, not to you." ]
+											}
+, 											{
+												"key" : [ "264", 264 ],
+												"value" : [ "Prove it." ]
+											}
+, 											{
+												"key" : [ "265", 265 ],
+												"value" : [ "- I lied to protect you.*- Protect . . ." ]
+											}
+, 											{
+												"key" : [ "266", 266 ],
+												"value" : [ "To protect me or to protect yourself?" ]
+											}
+, 											{
+												"key" : [ "267", 267 ],
+												"value" : [ "This isn’t true." ]
+											}
+, 											{
+												"key" : [ "268", 268 ],
+												"value" : [ "Prove it. Let him see.*Show him us." ]
+											}
+, 											{
+												"key" : [ "269", 269 ],
+												"value" : [ "Show him us how?" ]
+											}
+, 											{
+												"key" : [ "270", 270 ],
+												"value" : [ "Or do you love him too?" ]
+											}
+, 											{
+												"key" : [ "271", 271 ],
+												"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+											}
+, 											{
+												"key" : [ "272", 272 ],
+												"value" : [ "What is it – says the Boy –*you want from me?" ]
+											}
+, 											{
+												"key" : [ "273", 273 ],
+												"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+											}
+, 											{
+												"key" : [ "274", 274 ],
+												"value" : [ ". . . make me a new page." ]
+											}
+, 											{
+												"key" : [ "275", 275 ],
+												"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+											}
+, 											{
+												"key" : [ "276", 276 ],
+												"value" : [ "Blind him,*blind him with it." ]
+											}
+, 											{
+												"key" : [ "277", 277 ],
+												"value" : [ "Make him . . ." ]
+											}
+, 											{
+												"key" : [ "278", 278 ],
+												"value" : [ ". . . cry blood." ]
+											}
+, 											{
+												"key" : [ "279", 279 ],
+												"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+											}
+, 											{
+												"key" : [ "280", 280 ],
+												"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+											}
+, 											{
+												"key" : [ "281", 281 ],
+												"value" : [ "These naked boys have dug their own graves." ]
+											}
+, 											{
+												"key" : [ "282", 282 ],
+												"value" : [ "They’re waiting in the orchard to be shot." ]
+											}
+, 											{
+												"key" : [ "283", 283 ],
+												"value" : [ "And what are these streaks of light?" ]
+											}
+, 											{
+												"key" : [ "284", 284 ],
+												"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+											}
+, 											{
+												"key" : [ "285", 285 ],
+												"value" : [ "Now show me Paradise." ]
+											}
+, 											{
+												"key" : [ "286", 286 ],
+												"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+											}
+, 											{
+												"key" : [ "287", 287 ],
+												"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+											}
+, 											{
+												"key" : [ "288", 288 ],
+												"value" : [ "Paradise?*But this is Paradise." ]
+											}
+, 											{
+												"key" : [ "289", 289 ],
+												"value" : [ "Here is your mill and here are your cherry trees." ]
+											}
+, 											{
+												"key" : [ "290", 290 ],
+												"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+											}
+, 											{
+												"key" : [ "291", 291 ],
+												"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+											}
+, 											{
+												"key" : [ "292", 292 ],
+												"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+											}
+, 											{
+												"key" : [ "293", 293 ],
+												"value" : [ "Here . . . here . . ." ]
+											}
+, 											{
+												"key" : [ "294", 294 ],
+												"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+											}
+, 											{
+												"key" : [ "295", 295 ],
+												"value" : [ "Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "296", 296 ],
+												"value" : [ "They’re here: I’ve painted them with words." ]
+											}
+, 											{
+												"key" : [ "297", 297 ],
+												"value" : [ "- What words?*- Read them." ]
+											}
+, 											{
+												"key" : [ "298", 298 ],
+												"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+											}
+, 											{
+												"key" : [ "299", 299 ],
+												"value" : [ "- Or this? This?*- The book is finished." ]
+											}
+, 											{
+												"key" : [ "300", 300 ],
+												"value" : [ "Where does a word end and another word begin?" ]
+											}
+, 											{
+												"key" : [ "301", 301 ],
+												"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+											}
+, 											{
+												"key" : [ "302", 302 ],
+												"value" : [ "What? What use to a woman is a word?" ]
+											}
+, 											{
+												"key" : [ "303", 303 ],
+												"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+											}
+, 											{
+												"key" : [ "304", 304 ],
+												"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+											}
+, 											{
+												"key" : [ "305", 305 ],
+												"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+											}
+, 											{
+												"key" : [ "306", 306 ],
+												"value" : [ ". . . each part of her body – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "307", 307 ],
+												"value" : [ "She has offered and has used for her own pleasure." ]
+											}
+, 											{
+												"key" : [ "308", 308 ],
+												"value" : [ "Like the man – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "309", 309 ],
+												"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "310", 310 ],
+												"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+											}
+, 											{
+												"key" : [ "311", 311 ],
+												"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "312", 312 ],
+												"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+											}
+, 											{
+												"key" : [ "313", 313 ],
+												"value" : [ ". . . pornography." ]
+											}
+, 											{
+												"key" : [ "314", 314 ],
+												"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+											}
+, 											{
+												"key" : [ "315", 315 ],
+												"value" : [ ". . . asks me to say to you." ]
+											}
+, 											{
+												"key" : [ "316", 316 ],
+												"value" : [ "Read it, oh read it again." ]
+											}
+, 											{
+												"key" : [ "317", 317 ],
+												"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+											}
+, 											{
+												"key" : [ "318", 318 ],
+												"value" : [ "- I want to see.*- Cover your arms." ]
+											}
+, 											{
+												"key" : [ "319", 319 ],
+												"value" : [ "Cover your face and hair." ]
+											}
+, 											{
+												"key" : [ "320", 320 ],
+												"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+											}
+, 											{
+												"key" : [ "321", 321 ],
+												"value" : [ "NOW KEEP AWAY FROM ME." ]
+											}
+, 											{
+												"key" : [ "322", 322 ],
+												"value" : [ "Please let me see the word for love." ]
+											}
+, 											{
+												"key" : [ "323", 323 ],
+												"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+											}
+, 											{
+												"key" : [ "324", 324 ],
+												"value" : [ "- Make a man out of dust.*- Good." ]
+											}
+, 											{
+												"key" : [ "325", 325 ],
+												"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+											}
+, 											{
+												"key" : [ "326", 326 ],
+												"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+											}
+, 											{
+												"key" : [ "327", 327 ],
+												"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+											}
+, 											{
+												"key" : [ "328", 328 ],
+												"value" : [ "Expel him from joy*with a lacerating whip." ]
+											}
+, 											{
+												"key" : [ "329", 329 ],
+												"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+											}
+, 											{
+												"key" : [ "330", 330 ],
+												"value" : [ "Make each man ashamed . . ." ]
+											}
+, 											{
+												"key" : [ "331", 331 ],
+												"value" : [ ". . . ashamed to be human." ]
+											}
+, 											{
+												"key" : [ "332", 332 ],
+												"value" : [ "Put voices into his mind." ]
+											}
+, 											{
+												"key" : [ "333", 333 ],
+												"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+											}
+, 											{
+												"key" : [ "334", 334 ],
+												"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+											}
+, 											{
+												"key" : [ "335", 335 ],
+												"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+											}
+, 											{
+												"key" : [ "336", 336 ],
+												"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+											}
+, 											{
+												"key" : [ "337", 337 ],
+												"value" : [ ". . . in the glass-black mirror of his eyes." ]
+											}
+, 											{
+												"key" : [ "338", 338 ],
+												"value" : [ "Woman and her Protector . . ." ]
+											}
+, 											{
+												"key" : [ "339", 339 ],
+												"value" : [ "Night. A room." ]
+											}
+, 											{
+												"key" : [ "340", 340 ],
+												"value" : [ "A balcony. A long white table." ]
+											}
+, 											{
+												"key" : [ "341", 341 ],
+												"value" : [ "What has he placed in front of her?" ]
+											}
+, 											{
+												"key" : [ "342", 342 ],
+												"value" : [ "A silver dish." ]
+											}
+, 											{
+												"key" : [ "343", 343 ],
+												"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+											}
+, 											{
+												"key" : [ "344", 344 ],
+												"value" : [ "The warm round silver lid." ]
+											}
+, 											{
+												"key" : [ "345", 345 ],
+												"value" : [ "What does the woman do now?" ]
+											}
+, 											{
+												"key" : [ "346", 346 ],
+												"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+											}
+, 											{
+												"key" : [ "347", 347 ],
+												"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+											}
+, 											{
+												"key" : [ "348", 348 ],
+												"value" : [ "What makes the woman eat?" ]
+											}
+, 											{
+												"key" : [ "349", 349 ],
+												"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+											}
+, 											{
+												"key" : [ "350", 350 ],
+												"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+											}
+, 											{
+												"key" : [ "351", 351 ],
+												"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+											}
+, 											{
+												"key" : [ "352", 352 ],
+												"value" : [ "How does it taste – says the man." ]
+											}
+, 											{
+												"key" : [ "353", 353 ],
+												"value" : [ "Good, she says – salt and sweet." ]
+											}
+, 											{
+												"key" : [ "354", 354 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "355", 355 ],
+												"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+											}
+, 											{
+												"key" : [ "356", 356 ],
+												"value" : [ "Why?" ]
+											}
+, 											{
+												"key" : [ "357", 357 ],
+												"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+											}
+, 											{
+												"key" : [ "358", 358 ],
+												"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+											}
+, 											{
+												"key" : [ "359", 359 ],
+												"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+											}
+, 											{
+												"key" : [ "360", 360 ],
+												"value" : [ "- What heart?*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "361", 361 ],
+												"value" : [ "- No.*- His heart – the Boy – " ]
+											}
+, 											{
+												"key" : [ "362", 362 ],
+												"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+											}
+, 											{
+												"key" : [ "363", 363 ],
+												"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+											}
+, 											{
+												"key" : [ "364", 364 ],
+												"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+											}
+, 											{
+												"key" : [ "365", 365 ],
+												"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+											}
+, 											{
+												"key" : [ "366", 366 ],
+												"value" : [ "Each mark he makes on me is good,*each color clear." ]
+											}
+, 											{
+												"key" : [ "367", 367 ],
+												"value" : [ "Crush. Burn. Break. Tear." ]
+											}
+, 											{
+												"key" : [ "368", 368 ],
+												"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+											}
+, 											{
+												"key" : [ "369", 369 ],
+												"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+											}
+, 											{
+												"key" : [ "370", 370 ],
+												"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+											}
+, 											{
+												"key" : [ "371", 371 ],
+												"value" : [ "Here, look, the man takes a knife . . ." ]
+											}
+, 											{
+												"key" : [ "372", 372 ],
+												"value" : [ "But the woman’s quicker, and jumps." ]
+											}
+, 											{
+												"key" : [ "373", 373 ],
+												"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+											}
+, 											{
+												"key" : [ "374", 374 ],
+												"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+											}
+, 											{
+												"key" : [ "375", 375 ],
+												"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+											}
+, 											{
+												"key" : [ "376", 376 ],
+												"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+											}
+, 											{
+												"key" : [ "377", 377 ],
+												"value" : [ ". . . as they turn from the fallen woman . . ." ]
+											}
+, 											{
+												"key" : [ "378", 378 ],
+												"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+											}
+ ]
 									}
 ,
 									"id" : "obj-163",
@@ -6714,7 +26542,24 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-118", 0 ],
+									"destination" : [ "obj-3", 0 ],
+									"order" : 0,
+									"source" : [ "obj-117", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-71", 0 ],
+									"order" : 2,
+									"source" : [ "obj-117", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-74", 1 ],
+									"order" : 1,
 									"source" : [ "obj-117", 0 ]
 								}
 
@@ -6722,6 +26567,15 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-4", 0 ],
+									"order" : 0,
+									"source" : [ "obj-123", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-68", 0 ],
+									"order" : 1,
 									"source" : [ "obj-123", 0 ]
 								}
 
@@ -6736,6 +26590,15 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-3", 0 ],
+									"order" : 0,
+									"source" : [ "obj-14", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-53", 0 ],
+									"order" : 1,
 									"source" : [ "obj-14", 0 ]
 								}
 
@@ -6842,7 +26705,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-25", 0 ],
+									"destination" : [ "obj-77", 0 ],
 									"source" : [ "obj-27", 0 ]
 								}
 
@@ -6944,6 +26807,13 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-32", 0 ],
+									"source" : [ "obj-42", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-32", 0 ],
 									"source" : [ "obj-43", 0 ]
 								}
 
@@ -6992,7 +26862,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-111", 0 ],
-									"order" : 1,
+									"order" : 2,
 									"source" : [ "obj-46", 0 ]
 								}
 
@@ -7007,8 +26877,16 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-56", 0 ],
+									"order" : 1,
+									"source" : [ "obj-46", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-72", 1 ],
-									"order" : 2,
+									"order" : 3,
 									"source" : [ "obj-46", 0 ]
 								}
 
@@ -7064,6 +26942,13 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-62", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-64", 0 ],
 									"source" : [ "obj-63", 0 ]
 								}
@@ -7092,8 +26977,8 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-25", 0 ],
-									"midpoints" : [ 1348.5, 139.5, 1500.0, 139.5 ],
+									"destination" : [ "obj-3", 0 ],
+									"midpoints" : [ 1348.5, 139.5, 1516.0, 139.5 ],
 									"source" : [ "obj-67", 1 ]
 								}
 
@@ -7107,8 +26992,36 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-77", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-78", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-79", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-4", 0 ],
 									"source" : [ "obj-8", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-81", 0 ]
 								}
 
 							}
@@ -7123,6 +27036,13 @@
 								"patchline" : 								{
 									"destination" : [ "obj-46", 0 ],
 									"source" : [ "obj-82", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-84", 0 ]
 								}
 
 							}
@@ -7183,8 +27103,1520 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 0,
-						"data" : [  ]
+						"count" : 378,
+						"data" : [ 							{
+								"key" : [ "1", 1 ],
+								"value" : [ "Strip the cities of brick.*Dismantle them." ]
+							}
+, 							{
+								"key" : [ "2", 2 ],
+								"value" : [ "Strip out the wires*and cover the land with grass." ]
+							}
+, 							{
+								"key" : [ "3", 3 ],
+								"value" : [ "- Force chrome and aluminum back into the earth.*- Cancel all flights from the international airport . . ." ]
+							}
+, 							{
+								"key" : [ "4", 4 ],
+								"value" : [ ". . . and people the sky with angels." ]
+							}
+, 							{
+								"key" : [ "5", 5 ],
+								"value" : [ "- Erase the Saturday carpark from the marketplace.*- Shatter the printing press." ]
+							}
+, 							{
+								"key" : [ "6", 6 ],
+								"value" : [ "- Make each new book a precious object, written on skin.*- Rub out the white lines." ]
+							}
+, 							{
+								"key" : [ "7", 7 ],
+								"value" : [ "Make way for the wild primrose*and slow torture of criminals." ]
+							}
+, 							{
+								"key" : [ "8", 8 ],
+								"value" : [ "Fade out the living:*snap back the dead to life." ]
+							}
+, 							{
+								"key" : [ "9", 9 ],
+								"value" : [ "The woman?" ]
+							}
+, 							{
+								"key" : [ "10", 10 ],
+								"value" : [ "Was married age fourteen." ]
+							}
+, 							{
+								"key" : [ "11", 11 ],
+								"value" : [ "Can’t write. Not taught to read.*Grey-eyed. Intelligent. No children." ]
+							}
+, 							{
+								"key" : [ "12", 12 ],
+								"value" : [ "And the man?" ]
+							}
+, 							{
+								"key" : [ "13", 13 ],
+								"value" : [ "The man is her husband and protector." ]
+							}
+, 							{
+								"key" : [ "14", 14 ],
+								"value" : [ "Calm. Powerful.*Addicted to purity and violence." ]
+							}
+, 							{
+								"key" : [ "15", 15 ],
+								"value" : [ "Stand here. Look.*My house is perfect." ]
+							}
+, 							{
+								"key" : [ "16", 16 ],
+								"value" : [ "At night, stars wheel over my vines*according to the strict mechanism of the world." ]
+							}
+, 							{
+								"key" : [ "17", 17 ],
+								"value" : [ "And day by day – says the Protector – fruit trees,*blue heads of iris, pink cups of eglantine turn to the sun." ]
+							}
+, 							{
+								"key" : [ "18", 18 ],
+								"value" : [ "I own the fields:*I own everyone in them." ]
+							}
+, 							{
+								"key" : [ "19", 19 ],
+								"value" : [ "Every beech, each visible oak,*is as much my property as my dog, my millstream . . ." ]
+							}
+, 							{
+								"key" : [ "20", 20 ],
+								"value" : [ ". . . or my wife’s body, her still and obedient body . . ." ]
+							}
+, 							{
+								"key" : [ "21", 21 ],
+								"value" : [ ". . . is my property." ]
+							}
+, 							{
+								"key" : [ "22", 22 ],
+								"value" : [ "Make me a book." ]
+							}
+, 							{
+								"key" : [ "23", 23 ],
+								"value" : [ "Fill it with illumination." ]
+							}
+, 							{
+								"key" : [ "24", 24 ],
+								"value" : [ "Paint me the life to come.*Paint deeds of angels." ]
+							}
+, 							{
+								"key" : [ "25", 25 ],
+								"value" : [ "Show me graves opening,*the damned shoveled into ovens, and the just . . ." ]
+							}
+, 							{
+								"key" : [ "26", 26 ],
+								"value" : [ ". . . us, my family, the pure and just,*show us in our rightful place." ]
+							}
+, 							{
+								"key" : [ "27", 27 ],
+								"value" : [ "Show us in Paradise." ]
+							}
+, 							{
+								"key" : [ "28", 28 ],
+								"value" : [ "- A book costs money, says the Boy.*- I’ll give you money." ]
+							}
+, 							{
+								"key" : [ "29", 29 ],
+								"value" : [ "- A book needs long days of light.*- I’ll give you money. I’ll give you light." ]
+							}
+, 							{
+								"key" : [ "30", 30 ],
+								"value" : [ "But first: show me proof." ]
+							}
+, 							{
+								"key" : [ "31", 31 ],
+								"value" : [ "The Boy takes from his satchel*an illuminated page." ]
+							}
+, 							{
+								"key" : [ "32", 32 ],
+								"value" : [ "This – says the Boy –*shows a Work of Mercy." ]
+							}
+, 							{
+								"key" : [ "33", 33 ],
+								"value" : [ "Here, look, three men, all starving:*two wheeling on this cart the third." ]
+							}
+, 							{
+								"key" : [ "34", 34 ],
+								"value" : [ "And here’s a rich man – see him? -*in a red satin coat lined with green." ]
+							}
+, 							{
+								"key" : [ "35", 35 ],
+								"value" : [ "In his face, round his eyes, see his expression*as he offers the three sick men wine and bread." ]
+							}
+, 							{
+								"key" : [ "36", 36 ],
+								"value" : [ "Not just kind – explains the Boy –*kind is too easy  – but merciful." ]
+							}
+, 							{
+								"key" : [ "37", 37 ],
+								"value" : [ "Not just kind, but merciful." ]
+							}
+, 							{
+								"key" : [ "38", 38 ],
+								"value" : [ "Merciful." ]
+							}
+, 							{
+								"key" : [ "39", 39 ],
+								"value" : [ "No! No! says the woman." ]
+							}
+, 							{
+								"key" : [ "40", 40 ],
+								"value" : [ "Nobody here starves.*No! Nobody here begs." ]
+							}
+, 							{
+								"key" : [ "41", 41 ],
+								"value" : [ "- But the Protector takes the page gently to the window . . .*- What does this Boy want?" ]
+							}
+, 							{
+								"key" : [ "42", 42 ],
+								"value" : [ "- . . . looks deeper and deeper into the page . . .*- What does this thing, this picture, mean?" ]
+							}
+, 							{
+								"key" : [ "43", 43 ],
+								"value" : [ ". . . recognizes in the rich and merciful painted man*himself. Says to his wife:" ]
+							}
+, 							{
+								"key" : [ "44", 44 ],
+								"value" : [ "His talent’s clear. I’m satisfied.*You will welcome him into our house." ]
+							}
+, 							{
+								"key" : [ "45", 45 ],
+								"value" : [ "- Stone the Jew: make him wear yellow.*- Crusade against the Moslem." ]
+							}
+, 							{
+								"key" : [ "46", 46 ],
+								"value" : [ "Map out new territory with blood." ]
+							}
+, 							{
+								"key" : [ "47", 47 ],
+								"value" : [ "- Invent the world.*- In seven days invent the whole world." ]
+							}
+, 							{
+								"key" : [ "48", 48 ],
+								"value" : [ "- Invent sun . . .*- In a single day, moon, man." ]
+							}
+, 							{
+								"key" : [ "49", 49 ],
+								"value" : [ "Invent man and drown him." ]
+							}
+, 							{
+								"key" : [ "50", 50 ],
+								"value" : [ "- Good.*- Burn him alive." ]
+							}
+, 							{
+								"key" : [ "51", 51 ],
+								"value" : [ "- Good.*- Bulldoze him screaming into a pit." ]
+							}
+, 							{
+								"key" : [ "52", 52 ],
+								"value" : [ "- Invent a woman.*- Invent her." ]
+							}
+, 							{
+								"key" : [ "53", 53 ],
+								"value" : [ "- Take her naked out of the toy-box. Play house with her.*- Strip her. Dress her. Strip her again. Play families." ]
+							}
+, 							{
+								"key" : [ "54", 54 ],
+								"value" : [ "Play birth and death." ]
+							}
+, 							{
+								"key" : [ "55", 55 ],
+								"value" : [ "Blame her for everything." ]
+							}
+, 							{
+								"key" : [ "56", 56 ],
+								"value" : [ "- Blame her mouth. Blame her intelligence.*- Tint her flesh with a soft brush." ]
+							}
+, 							{
+								"key" : [ "57", 57 ],
+								"value" : [ "Make her curious." ]
+							}
+, 							{
+								"key" : [ "58", 58 ],
+								"value" : [ "The woman takes off her shoes,*steps through a stone slit . . ." ]
+							}
+, 							{
+								"key" : [ "59", 59 ],
+								"value" : [ ". . . turns up the spiral stairs,*pads into the writing room, where the Boy . . ." ]
+							}
+, 							{
+								"key" : [ "60", 60 ],
+								"value" : [ ". . . ah, yes, look . . ." ]
+							}
+, 							{
+								"key" : [ "61", 61 ],
+								"value" : [ ". . . the Boy bends over a new page." ]
+							}
+, 							{
+								"key" : [ "62", 62 ],
+								"value" : [ "What is it she feels*between her bare feet and the wood floor?" ]
+							}
+, 							{
+								"key" : [ "63", 63 ],
+								"value" : [ "Grit." ]
+							}
+, 							{
+								"key" : [ "64", 64 ],
+								"value" : [ "What do you want,*says the Boy." ]
+							}
+, 							{
+								"key" : [ "65", 65 ],
+								"value" : [ "- To see, says the woman.*- See what?" ]
+							}
+, 							{
+								"key" : [ "66", 66 ],
+								"value" : [ "To see how a book is made." ]
+							}
+, 							{
+								"key" : [ "67", 67 ],
+								"value" : [ "What is that tree?" ]
+							}
+, 							{
+								"key" : [ "68", 68 ],
+								"value" : [ "The Tree, says the Boy,*of Life." ]
+							}
+, 							{
+								"key" : [ "69", 69 ],
+								"value" : [ "- Ah. Odd.*- I invented it." ]
+							}
+, 							{
+								"key" : [ "70", 70 ],
+								"value" : [ "Ah. Yes.*And who is that woman?" ]
+							}
+, 							{
+								"key" : [ "71", 71 ],
+								"value" : [ "Eve, says the Boy." ]
+							}
+, 							{
+								"key" : [ "72", 72 ],
+								"value" : [ "- Invented too?*- Yes, says the Boy, invented too." ]
+							}
+, 							{
+								"key" : [ "73", 73 ],
+								"value" : [ "She doesn’t look real,*laughs the woman." ]
+							}
+, 							{
+								"key" : [ "74", 74 ],
+								"value" : [ "That’s not how a woman looks." ]
+							}
+, 							{
+								"key" : [ "75", 75 ],
+								"value" : [ "You’re in my light,*says the Boy." ]
+							}
+, 							{
+								"key" : [ "76", 76 ],
+								"value" : [ "- Yes, in my light, too close . . .*- Oh? Too close in what way?" ]
+							}
+, 							{
+								"key" : [ "77", 77 ],
+								"value" : [ "- Too close to the page. You’re in my light.*- Too close?" ]
+							}
+, 							{
+								"key" : [ "78", 78 ],
+								"value" : [ "Too close." ]
+							}
+, 							{
+								"key" : [ "79", 79 ],
+								"value" : [ "What else can you invent?" ]
+							}
+, 							{
+								"key" : [ "80", 80 ],
+								"value" : [ "Can you invent another woman,*says the woman . . ." ]
+							}
+, 							{
+								"key" : [ "81", 81 ],
+								"value" : [ ". . . not this, but a woman who’s real,*a woman who can’t sleep . . " ]
+							}
+, 							{
+								"key" : [ "82", 82 ],
+								"value" : [ ". . . who keeps turning her white pillow over and over*from the hot side to the cold side . . ." ]
+							}
+, 							{
+								"key" : [ "83", 83 ],
+								"value" : [ ". . . until the cold side’s hot?" ]
+							}
+, 							{
+								"key" : [ "84", 84 ],
+								"value" : [ "- Can you invent that?*- What is it you mean – says the Boy." ]
+							}
+, 							{
+								"key" : [ "85", 85 ],
+								"value" : [ "- And, if the woman said – says the woman.*- If the woman said what – says the Boy." ]
+							}
+, 							{
+								"key" : [ "86", 86 ],
+								"value" : [ "What if you invented a woman*who said she couldn’t sleep . . ." ]
+							}
+, 							{
+								"key" : [ "87", 87 ],
+								"value" : [ ". . . who said that her heart split and shook*at the sight of a . . ." ]
+							}
+, 							{
+								"key" : [ "88", 88 ],
+								"value" : [ ". . . of a boy, the way light in a bowl of water*splits and shakes on a garden wall . . ." ]
+							}
+, 							{
+								"key" : [ "89", 89 ],
+								"value" : [ ". . . who said that her grey eyes,*at the sight of a boy, turn black . . ." ]
+							}
+, 							{
+								"key" : [ "90", 90 ],
+								"value" : [ "- What boy?*- . . . with love." ]
+							}
+, 							{
+								"key" : [ "91", 91 ],
+								"value" : [ "- You can decide what boy. You can decide what love.*- What love?" ]
+							}
+, 							{
+								"key" : [ "92", 92 ],
+								"value" : [ "Invent her.*Invent the woman you want." ]
+							}
+, 							{
+								"key" : [ "93", 93 ],
+								"value" : [ "When you know the color of her eyes,*the length of her hair, the precise music of her voice . . ." ]
+							}
+, 							{
+								"key" : [ "94", 94 ],
+								"value" : [ ". . . when you’ve quickened her pulse, entered her mind,*tightened her skin over her back . . ." ]
+							}
+, 							{
+								"key" : [ "95", 95 ],
+								"value" : [ ". . . when you have invented and painted*that exact woman . . ." ]
+							}
+, 							{
+								"key" : [ "96", 96 ],
+								"value" : [ ". . . come, come to me, show her to me." ]
+							}
+, 							{
+								"key" : [ "97", 97 ],
+								"value" : [ "I’ll tell you if she’s real." ]
+							}
+, 							{
+								"key" : [ "98", 98 ],
+								"value" : [ "The Archer appears in the sky:*the grapes are picked and crushed." ]
+							}
+, 							{
+								"key" : [ "99", 99 ],
+								"value" : [ "The Protector inhales the wine, watches hot blood*from a pig’s throat splatter the snow at the visitors’ feet . . ." ]
+							}
+, 							{
+								"key" : [ "100", 100 ],
+								"value" : [ ". . . thinks: my wife has changed, won’t eat,*won’t speak to me, resents and avoids the Boy . . ." ]
+							}
+, 							{
+								"key" : [ "101", 101 ],
+								"value" : [ "- How are you – says Marie.*- . . . turns away from me in bed, pretends to be sleeping." ]
+							}
+, 							{
+								"key" : [ "102", 102 ],
+								"value" : [ "- How is my sister, says Marie.*- . . . but in the dark . . ." ]
+							}
+, 							{
+								"key" : [ "103", 103 ],
+								"value" : [ ". . . her eyes are wide open, and all night I hear*her eyelashes scrape the pillow, click, click, like an insect." ]
+							}
+, 							{
+								"key" : [ "104", 104 ],
+								"value" : [ "How is my sister?" ]
+							}
+, 							{
+								"key" : [ "105", 105 ],
+								"value" : [ "My wife?" ]
+							}
+, 							{
+								"key" : [ "106", 106 ],
+								"value" : [ "My wife is well. Sweet and clean.*Soft, still, obedient." ]
+							}
+, 							{
+								"key" : [ "107", 107 ],
+								"value" : [ "And your house?" ]
+							}
+, 							{
+								"key" : [ "108", 108 ],
+								"value" : [ "Increasing in value daily." ]
+							}
+, 							{
+								"key" : [ "109", 109 ],
+								"value" : [ "- Nobody starves. Everyone freely obeys.*- And the book?" ]
+							}
+, 							{
+								"key" : [ "110", 110 ],
+								"value" : [ "- Yes, how’s the book? Still eating money?*- The book . . ." ]
+							}
+, 							{
+								"key" : [ "111", 111 ],
+								"value" : [ "The book will be magnificent." ]
+							}
+, 							{
+								"key" : [ "112", 112 ],
+								"value" : [ "The Boy works with azurite and gold." ]
+							}
+, 							{
+								"key" : [ "113", 113 ],
+								"value" : [ "Both Boy and book are faultless." ]
+							}
+, 							{
+								"key" : [ "114", 114 ],
+								"value" : [ "- Ah. Faultless.*- The Boy, yes, is faultless." ]
+							}
+, 							{
+								"key" : [ "115", 115 ],
+								"value" : [ "- The Boy is faultless?*- Don’t, Marie." ]
+							}
+, 							{
+								"key" : [ "116", 116 ],
+								"value" : [ "- The Boy is, yes, is faultless.*- What kind of man pays to keep a boy like that in his house?" ]
+							}
+, 							{
+								"key" : [ "117", 117 ],
+								"value" : [ "Be quiet, Marie." ]
+							}
+, 							{
+								"key" : [ "118", 118 ],
+								"value" : [ "Listen to me:*I love the Boy." ]
+							}
+, 							{
+								"key" : [ "119", 119 ],
+								"value" : [ "What kind of man sits a stranger . . ." ]
+							}
+, 							{
+								"key" : [ "120", 120 ],
+								"value" : [ "- . . . a stranger next to his own wife at his own table?*- Anybody who faults the Boy faults me." ]
+							}
+, 							{
+								"key" : [ "121", 121 ],
+								"value" : [ "- Do not fault the book, John.*- Nobody is faultless." ]
+							}
+, 							{
+								"key" : [ "122", 122 ],
+								"value" : [ "- Nobody on this earth is faultless.*- No not fault the Boy, Marie . . ." ]
+							}
+, 							{
+								"key" : [ "123", 123 ],
+								"value" : [ ". . . you will not pass the black dog at my gate." ]
+							}
+, 							{
+								"key" : [ "124", 124 ],
+								"value" : [ "Woman . . . alone . . ." ]
+							}
+, 							{
+								"key" : [ "125", 125 ],
+								"value" : [ "Night.*Her visitors?" ]
+							}
+, 							{
+								"key" : [ "126", 126 ],
+								"value" : [ "Gone. Her husband?*Sleeping in front of the kitchen fire." ]
+							}
+, 							{
+								"key" : [ "127", 127 ],
+								"value" : [ "What can she hear inside of her?*Her own voice." ]
+							}
+, 							{
+								"key" : [ "128", 128 ],
+								"value" : [ "What does the voice want?*To wind and to wind itself around another." ]
+							}
+, 							{
+								"key" : [ "129", 129 ],
+								"value" : [ "- Who does she catch click shut the black rectangle of the door?*- Him, the Boy." ]
+							}
+, 							{
+								"key" : [ "130", 130 ],
+								"value" : [ "- What do you want – says the woman.*- To show you the page – says the Boy." ]
+							}
+, 							{
+								"key" : [ "131", 131 ],
+								"value" : [ "- Here.*- It’s dark." ]
+							}
+, 							{
+								"key" : [ "132", 132 ],
+								"value" : [ "Then concentrate." ]
+							}
+, 							{
+								"key" : [ "133", 133 ],
+								"value" : [ "This – says the Boy – shows a house in winter." ]
+							}
+, 							{
+								"key" : [ "134", 134 ],
+								"value" : [ "Here . . . look . . . white stars . . . Orion . . .*And in this wide, blank space, the moon." ]
+							}
+, 							{
+								"key" : [ "135", 135 ],
+								"value" : [ "See how I’ve lifted the roof*like a jewel-box lid." ]
+							}
+, 							{
+								"key" : [ "136", 136 ],
+								"value" : [ "Inside’s the woman . . . see her?*Unable to sleep." ]
+							}
+, 							{
+								"key" : [ "137", 137 ],
+								"value" : [ "Buried in the hot white pillow,*her head feels heavy like stone." ]
+							}
+, 							{
+								"key" : [ "138", 138 ],
+								"value" : [ "Round her legs, round her arms,*I’ve twisted a lead-white sheet like a living person . . ." ]
+							}
+, 							{
+								"key" : [ "139", 139 ],
+								"value" : [ ". . . and tightened her skin,*darkened her veins with blood." ]
+							}
+, 							{
+								"key" : [ "140", 140 ],
+								"value" : [ "This is the woman’s picture.*Now you must tell me whether it’s real." ]
+							}
+, 							{
+								"key" : [ "141", 141 ],
+								"value" : [ "It’s dark." ]
+							}
+, 							{
+								"key" : [ "142", 142 ],
+								"value" : [ "Then look more closely." ]
+							}
+, 							{
+								"key" : [ "143", 143 ],
+								"value" : [ "What color are her eyes?" ]
+							}
+, 							{
+								"key" : [ "144", 144 ],
+								"value" : [ "Grey . . . turning black . . .*like my eyes now." ]
+							}
+, 							{
+								"key" : [ "145", 145 ],
+								"value" : [ "Like yours now." ]
+							}
+, 							{
+								"key" : [ "146", 146 ],
+								"value" : [ "And her hair?*Pay attention." ]
+							}
+, 							{
+								"key" : [ "147", 147 ],
+								"value" : [ "- Dark, damp, heavy . . . the weight of mine.*- Of your hair now." ]
+							}
+, 							{
+								"key" : [ "148", 148 ],
+								"value" : [ "- And her mind? I’ve given her your mind, skin, mouth . . .*- You’ve given her my mind, skin, mouth, voice . . . " ]
+							}
+, 							{
+								"key" : [ "149", 149 ],
+								"value" : [ ". . . drawn its exact music." ]
+							}
+, 							{
+								"key" : [ "150", 150 ],
+								"value" : [ "And here . . .*Here, under the bone . . ." ]
+							}
+, 							{
+								"key" : [ "151", 151 ],
+								"value" : [ "In the hot space between her ribs . . ." ]
+							}
+, 							{
+								"key" : [ "152", 152 ],
+								"value" : [ "- I’ve painted the woman’s heart.*- No! Not “the woman.” " ]
+							}
+, 							{
+								"key" : [ "153", 153 ],
+								"value" : [ "I am Agnès.*My name’s Agnès." ]
+							}
+, 							{
+								"key" : [ "154", 154 ],
+								"value" : [ "What use to me is a picture?*A picture – says Agnès – is nothing." ]
+							}
+, 							{
+								"key" : [ "155", 155 ],
+								"value" : [ "- Love’s not a picture.*- Agnès . . ." ]
+							}
+, 							{
+								"key" : [ "156", 156 ],
+								"value" : [ "Love is an act." ]
+							}
+, 							{
+								"key" : [ "157", 157 ],
+								"value" : [ "People are saying,*saying the book eats TIME." ]
+							}
+, 							{
+								"key" : [ "158", 158 ],
+								"value" : [ "- Saying the book eats what?*- CORN. RENT." ]
+							}
+, 							{
+								"key" : [ "159", 159 ],
+								"value" : [ "Say it’s a crow eating the seed, making the people*TALK . . . LAUGH . . . STARVE." ]
+							}
+, 							{
+								"key" : [ "160", 160 ],
+								"value" : [ "Not just the book – say that the Boy –*DRAWS FROM LIFE." ]
+							}
+, 							{
+								"key" : [ "161", 161 ],
+								"value" : [ "Say there’s a page where the skin never dries –*SKIN STAYS DAMP." ]
+							}
+, 							{
+								"key" : [ "162", 162 ],
+								"value" : [ "- Wet like a woman’s mouth . . .*- Wet like the white part of an egg . . ." ]
+							}
+, 							{
+								"key" : [ "163", 163 ],
+								"value" : [ "- Where a woman screams, shrieks like a fox . . .*- Licking her lips, flicking her tongue . . ." ]
+							}
+, 							{
+								"key" : [ "164", 164 ],
+								"value" : [ "- In the night, in a secret bed.*- Gripping the Boy in a secret bed." ]
+							}
+, 							{
+								"key" : [ "165", 165 ],
+								"value" : [ "1What kind of a man*WILL NOT SEE?" ]
+							}
+, 							{
+								"key" : [ "166", 166 ],
+								"value" : [ "The Protector wakes up,*feels in the half-light . . ." ]
+							}
+, 							{
+								"key" : [ "167", 167 ],
+								"value" : [ ". . . for the reassurance of a human body . . ." ]
+							}
+, 							{
+								"key" : [ "168", 168 ],
+								"value" : [ ". . . puts out his hand to be reassured by a human body . . ." ]
+							}
+, 							{
+								"key" : [ "169", 169 ],
+								"value" : [ "Feels for his wife.*Where is she?" ]
+							}
+, 							{
+								"key" : [ "170", 170 ],
+								"value" : [ "Here – smiles Agnès – I’m here by the window." ]
+							}
+, 							{
+								"key" : [ "171", 171 ],
+								"value" : [ "You were thrashing in your sleep. Why?" ]
+							}
+, 							{
+								"key" : [ "172", 172 ],
+								"value" : [ "What is it you’re watching?" ]
+							}
+, 							{
+								"key" : [ "173", 173 ],
+								"value" : [ "Nothing. Sunrise.*Plum trees flowering." ]
+							}
+, 							{
+								"key" : [ "174", 174 ],
+								"value" : [ "And smoke . . .*Why that black smoke in May?" ]
+							}
+, 							{
+								"key" : [ "175", 175 ],
+								"value" : [ "- We’re burning villages.*- Ah. Why?" ]
+							}
+, 							{
+								"key" : [ "176", 176 ],
+								"value" : [ "- To protect the family.*- Ah. Yes. Good. From what?" ]
+							}
+, 							{
+								"key" : [ "177", 177 ],
+								"value" : [ "- Don’t look.*- And in the meadow, I saw a guard reach into the buttercups . . ." ]
+							}
+, 							{
+								"key" : [ "178", 178 ],
+								"value" : [ "- Don’t look.*- . . . to pick up a baby, to pick it up, how odd . . ." ]
+							}
+, 							{
+								"key" : [ "179", 179 ],
+								"value" : [ ". . . on the point of a stick." ]
+							}
+, 							{
+								"key" : [ "180", 180 ],
+								"value" : [ "And I, I saw the Boy out riding into the wood*like a picture out of his own book." ]
+							}
+, 							{
+								"key" : [ "181", 181 ],
+								"value" : [ "Touch me." ]
+							}
+, 							{
+								"key" : [ "182", 182 ],
+								"value" : [ "Kiss me." ]
+							}
+, 							{
+								"key" : [ "183", 183 ],
+								"value" : [ "Take my head in your hands." ]
+							}
+, 							{
+								"key" : [ "184", 184 ],
+								"value" : [ "- Don’t be a child, Agnès.*- Grip my hair in your fist. Yes." ]
+							}
+, 							{
+								"key" : [ "185", 185 ],
+								"value" : [ "Put your fingers in my mouth. Yes.*Your tongue into my mouth now. Yes." ]
+							}
+, 							{
+								"key" : [ "186", 186 ],
+								"value" : [ "Kiss me. Yes.*Kiss me now." ]
+							}
+, 							{
+								"key" : [ "187", 187 ],
+								"value" : [ "Only a child, Agnès, asks for a kiss." ]
+							}
+, 							{
+								"key" : [ "188", 188 ],
+								"value" : [ "I’m not a child." ]
+							}
+, 							{
+								"key" : [ "189", 189 ],
+								"value" : [ "- No pure woman asks for a kiss.*- I’m not a child. Don’t . . ." ]
+							}
+, 							{
+								"key" : [ "190", 190 ],
+								"value" : [ "- No clean woman asks to be touched.*- Don’t call me a child." ]
+							}
+, 							{
+								"key" : [ "191", 191 ],
+								"value" : [ "- You are. You are a child, Agnès. Say it.*- Don’t call me a child." ]
+							}
+, 							{
+								"key" : [ "192", 192 ],
+								"value" : [ "- I refuse to be called a child.*- I said to you . . ." ]
+							}
+, 							{
+								"key" : [ "193", 193 ],
+								"value" : [ "Say it. You will say to me*“I am a child.”" ]
+							}
+, 							{
+								"key" : [ "194", 194 ],
+								"value" : [ "- Ask him what I am.*- Say, “I am a child,” Agnès." ]
+							}
+, 							{
+								"key" : [ "195", 195 ],
+								"value" : [ "Go to the wood.*Ask him." ]
+							}
+, 							{
+								"key" : [ "196", 196 ],
+								"value" : [ "Ask who?" ]
+							}
+, 							{
+								"key" : [ "197", 197 ],
+								"value" : [ "The one who writes on skin." ]
+							}
+, 							{
+								"key" : [ "198", 198 ],
+								"value" : [ "Ask him what I am, the Boy." ]
+							}
+, 							{
+								"key" : [ "199", 199 ],
+								"value" : [ "He finds the Boy sitting against a tree,*looking at his own reflection in the blade of a knife." ]
+							}
+, 							{
+								"key" : [ "200", 200 ],
+								"value" : [ "Lovesick, thinks the Protector . . ." ]
+							}
+, 							{
+								"key" : [ "201", 201 ],
+								"value" : [ ". . . easy to strangle, like a girl." ]
+							}
+, 							{
+								"key" : [ "202", 202 ],
+								"value" : [ "What are you doing here?" ]
+							}
+, 							{
+								"key" : [ "203", 203 ],
+								"value" : [ "- Nothing.*- What is it you’re looking at?" ]
+							}
+, 							{
+								"key" : [ "204", 204 ],
+								"value" : [ "Nothing, says the Boy,*thumbing the knife." ]
+							}
+, 							{
+								"key" : [ "205", 205 ],
+								"value" : [ "Thinking about?" ]
+							}
+, 							{
+								"key" : [ "206", 206 ],
+								"value" : [ "I’m thinking that when this wood and this light*are cut through by eight lanes of poured concrete . . ." ]
+							}
+, 							{
+								"key" : [ "207", 207 ],
+								"value" : [ ". . . I’m thinking that the two of us and everyone we love . . ." ]
+							}
+, 							{
+								"key" : [ "208", 208 ],
+								"value" : [ ". . . everyone will have been dead for a thousand years." ]
+							}
+, 							{
+								"key" : [ "209", 209 ],
+								"value" : [ "- The future . . . the future’s easy.*- A thousand years." ]
+							}
+, 							{
+								"key" : [ "210", 210 ],
+								"value" : [ "Tell me about now." ]
+							}
+, 							{
+								"key" : [ "211", 211 ],
+								"value" : [ "Now there’s just one slit*of pink light cut in the sky." ]
+							}
+, 							{
+								"key" : [ "212", 212 ],
+								"value" : [ "Tell me about now." ]
+							}
+, 							{
+								"key" : [ "213", 213 ],
+								"value" : [ "Now there’s just you, me and a knife." ]
+							}
+, 							{
+								"key" : [ "214", 214 ],
+								"value" : [ "Tell me about now." ]
+							}
+, 							{
+								"key" : [ "215", 215 ],
+								"value" : [ "Who is this woman? –*The one they say …" ]
+							}
+, 							{
+								"key" : [ "216", 216 ],
+								"value" : [ "- I thought you trusted me.*- Taunt me and say screams out from a secret page . . ." ]
+							}
+, 							{
+								"key" : [ "217", 217 ],
+								"value" : [ "- I thought you loved me . . .*- And sweats with you in a secret bed?" ]
+							}
+, 							{
+								"key" : [ "218", 218 ],
+								"value" : [ "- . . . and protected me?*- What is her name? What is this woman’s name?" ]
+							}
+, 							{
+								"key" : [ "219", 219 ],
+								"value" : [ "Is it Agnès?" ]
+							}
+, 							{
+								"key" : [ "220", 220 ],
+								"value" : [ "- Not Agnès, no . . .*- Is what? Her name is what?" ]
+							}
+, 							{
+								"key" : [ "221", 221 ],
+								"value" : [ "- No, Marie, her name’s Marie.*- Her name is what?" ]
+							}
+, 							{
+								"key" : [ "222", 222 ],
+								"value" : [ "Marie: her sister.*Look at her." ]
+							}
+, 							{
+								"key" : [ "223", 223 ],
+								"value" : [ "She came to me." ]
+							}
+, 							{
+								"key" : [ "224", 224 ],
+								"value" : [ "- I’m bored.*- She was bored." ]
+							}
+, 							{
+								"key" : [ "225", 225 ],
+								"value" : [ "- I want to be Venus.*- She wanted to be Venus." ]
+							}
+, 							{
+								"key" : [ "226", 226 ],
+								"value" : [ "I want to be Venus.*Put me in the book. Illuminate me." ]
+							}
+, 							{
+								"key" : [ "227", 227 ],
+								"value" : [ "- AH! THAT HURTS!*- Sorry." ]
+							}
+, 							{
+								"key" : [ "228", 228 ],
+								"value" : [ "Then she wanted to be an angel." ]
+							}
+, 							{
+								"key" : [ "229", 229 ],
+								"value" : [ "- Make me an angel.*- She wanted . . ." ]
+							}
+, 							{
+								"key" : [ "230", 230 ],
+								"value" : [ "- Give me power. I want . . .*- She wanted to crank the universe round on its axis." ]
+							}
+, 							{
+								"key" : [ "231", 231 ],
+								"value" : [ "I want to control the universe." ]
+							}
+, 							{
+								"key" : [ "232", 232 ],
+								"value" : [ "- Her marriage was banal.*- How do I look?       - We’re late." ]
+							}
+, 							{
+								"key" : [ "233", 233 ],
+								"value" : [ "THE GET ME MY SHOES!" ]
+							}
+, 							{
+								"key" : [ "234", 234 ],
+								"value" : [ "- She longed for excitement.*- NOT THOSE! THE RED ONES!" ]
+							}
+, 							{
+								"key" : [ "235", 235 ],
+								"value" : [ "- Feed me pomegranates and soft-cooked eggs.*- She volunteered to be Greed and Luxury." ]
+							}
+, 							{
+								"key" : [ "236", 236 ],
+								"value" : [ "Roast meat for me and drown me in wine and cream.*Wash me in goat milk." ]
+							}
+, 							{
+								"key" : [ "237", 237 ],
+								"value" : [ "- Strip me . . . dress me . . . strip me again.*- I don’t want to hear. I don’t want to know." ]
+							}
+, 							{
+								"key" : [ "238", 238 ],
+								"value" : [ "- Toss me naked into the toy-box.*- She was happy to let me draw from life . . ." ]
+							}
+, 							{
+								"key" : [ "239", 239 ],
+								"value" : [ "- Draw my mouth as a scarlet thread.*- Let’s go, Marie. " ]
+							}
+, 							{
+								"key" : [ "240", 240 ],
+								"value" : [ "- Shame me. Chain me. Drag me to hell.*- We’re late. We’re going to be late. Let’s go." ]
+							}
+, 							{
+								"key" : [ "241", 241 ],
+								"value" : [ "- Shut me in eternal darkness with the devil.*- We’re going to be late. Let’s go." ]
+							}
+, 							{
+								"key" : [ "242", 242 ],
+								"value" : [ "I’M READY!" ]
+							}
+, 							{
+								"key" : [ "243", 243 ],
+								"value" : [ "And her husband?" ]
+							}
+, 							{
+								"key" : [ "244", 244 ],
+								"value" : [ "- Was complicit.*- Is this the truth?" ]
+							}
+, 							{
+								"key" : [ "245", 245 ],
+								"value" : [ "Oh yes, believe me, it’s the truth." ]
+							}
+, 							{
+								"key" : [ "246", 246 ],
+								"value" : [ "And since this is what the man so much needed to believe,*so he, the man, this man, believed it." ]
+							}
+, 							{
+								"key" : [ "247", 247 ],
+								"value" : [ "246" ]
+							}
+, 							{
+								"key" : [ "248", 248 ],
+								"value" : [ "And that same evening tells his wife . . . entertains her . . .*reveals . . . ha! . . . how . . . secretly the Boy enjoys . . . guess!" ]
+							}
+, 							{
+								"key" : [ "249", 249 ],
+								"value" : [ ". . . that whore, her sister. Yes! And how that other man, *the fool, the husband – smiles the Protector – is complicit." ]
+							}
+, 							{
+								"key" : [ "250", 250 ],
+								"value" : [ "Agnès puts on her shoes . . ." ]
+							}
+, 							{
+								"key" : [ "251", 251 ],
+								"value" : [ ". . . steps through the stone slit . . ." ]
+							}
+, 							{
+								"key" : [ "252", 252 ],
+								"value" : [ ". . . turns up the stone stairs, slips into the writing room . . ." ]
+							}
+, 							{
+								"key" : [ "253", 253 ],
+								"value" : [ ". . . where the Boy, him . . ." ]
+							}
+, 							{
+								"key" : [ "254", 254 ],
+								"value" : [ ". . . yes, the liar, look, lifts his head." ]
+							}
+, 							{
+								"key" : [ "255", 255 ],
+								"value" : [ "Why are you crying?" ]
+							}
+, 							{
+								"key" : [ "256", 256 ],
+								"value" : [ "You lied to me." ]
+							}
+, 							{
+								"key" : [ "257", 257 ],
+								"value" : [ "In what way lied?" ]
+							}
+, 							{
+								"key" : [ "258", 258 ],
+								"value" : [ "All night your voice in my head*wound itself round and around and around my sister." ]
+							}
+, 							{
+								"key" : [ "259", 259 ],
+								"value" : [ "Her mouth fastened to yours in a bad dream,*and her hair stuck . . ." ]
+							}
+, 							{
+								"key" : [ "260", 260 ],
+								"value" : [ ". . . stuck like gold leaf to your skin in a bad dream*and covered your eyes." ]
+							}
+, 							{
+								"key" : [ "261", 261 ],
+								"value" : [ "What dream?" ]
+							}
+, 							{
+								"key" : [ "262", 262 ],
+								"value" : [ "My sister . . . you … the liar . . .*you and my sister. " ]
+							}
+, 							{
+								"key" : [ "263", 263 ],
+								"value" : [ "I lied for you, not to you." ]
+							}
+, 							{
+								"key" : [ "264", 264 ],
+								"value" : [ "Prove it." ]
+							}
+, 							{
+								"key" : [ "265", 265 ],
+								"value" : [ "- I lied to protect you.*- Protect . . ." ]
+							}
+, 							{
+								"key" : [ "266", 266 ],
+								"value" : [ "To protect me or to protect yourself?" ]
+							}
+, 							{
+								"key" : [ "267", 267 ],
+								"value" : [ "This isn’t true." ]
+							}
+, 							{
+								"key" : [ "268", 268 ],
+								"value" : [ "Prove it. Let him see.*Show him us." ]
+							}
+, 							{
+								"key" : [ "269", 269 ],
+								"value" : [ "Show him us how?" ]
+							}
+, 							{
+								"key" : [ "270", 270 ],
+								"value" : [ "Or do you love him too?" ]
+							}
+, 							{
+								"key" : [ "271", 271 ],
+								"value" : [ "Do you fasten your mouth to his mouth too and bite,*bite on his lip like you bite on mine?" ]
+							}
+, 							{
+								"key" : [ "272", 272 ],
+								"value" : [ "What is it – says the Boy –*you want from me?" ]
+							}
+, 							{
+								"key" : [ "273", 273 ],
+								"value" : [ "While the dead heap up in the meadow,*while human beings burn in the marketplace . . ." ]
+							}
+, 							{
+								"key" : [ "274", 274 ],
+								"value" : [ ". . . make me a new page." ]
+							}
+, 							{
+								"key" : [ "275", 275 ],
+								"value" : [ "Push our love into that man’s eye*like a hot needle." ]
+							}
+, 							{
+								"key" : [ "276", 276 ],
+								"value" : [ "Blind him,*blind him with it." ]
+							}
+, 							{
+								"key" : [ "277", 277 ],
+								"value" : [ "Make him . . ." ]
+							}
+, 							{
+								"key" : [ "278", 278 ],
+								"value" : [ ". . . cry blood." ]
+							}
+, 							{
+								"key" : [ "279", 279 ],
+								"value" : [ "- Here are your enemies, lined up on a gibbet.*- Hanging . . . excellent . . . like Judas." ]
+							}
+, 							{
+								"key" : [ "280", 280 ],
+								"value" : [ "- A vine-hook cutting a traitor’s throat.*- Yes, yes. And who are these?" ]
+							}
+, 							{
+								"key" : [ "281", 281 ],
+								"value" : [ "These naked boys have dug their own graves." ]
+							}
+, 							{
+								"key" : [ "282", 282 ],
+								"value" : [ "They’re waiting in the orchard to be shot." ]
+							}
+, 							{
+								"key" : [ "283", 283 ],
+								"value" : [ "And what are these streaks of light?" ]
+							}
+, 							{
+								"key" : [ "284", 284 ],
+								"value" : [ "A night bombardment:*Gomorrah – see it? – being turned to dust." ]
+							}
+, 							{
+								"key" : [ "285", 285 ],
+								"value" : [ "Now show me Paradise." ]
+							}
+, 							{
+								"key" : [ "286", 286 ],
+								"value" : [ "- An aquamarine flash . . . streets running with human fat . . .*- I see it, but show me Paradise." ]
+							}
+, 							{
+								"key" : [ "287", 287 ],
+								"value" : [ "- A carmine flame licking a field of wheat . . .*- I SAID NOW SHOW ME PARADISE." ]
+							}
+, 							{
+								"key" : [ "288", 288 ],
+								"value" : [ "Paradise?*But this is Paradise." ]
+							}
+, 							{
+								"key" : [ "289", 289 ],
+								"value" : [ "Here is your mill and here are your cherry trees." ]
+							}
+, 							{
+								"key" : [ "290", 290 ],
+								"value" : [ "Here’s . . . look . . . Marie shopping at the shopping mall*and John at the airport collecting air miles." ]
+							}
+, 							{
+								"key" : [ "291", 291 ],
+								"value" : [ "- This is Paradise. These are its concrete walls.*- If this is Paradise . . ." ]
+							}
+, 							{
+								"key" : [ "292", 292 ],
+								"value" : [ "- And here, with a diamond skull, is the black dog at its gate.*- If this is Paradise – says Agnès – " ]
+							}
+, 							{
+								"key" : [ "293", 293 ],
+								"value" : [ "Here . . . here . . ." ]
+							}
+, 							{
+								"key" : [ "294", 294 ],
+								"value" : [ "- Then where is Hell?*- Here – smiles the Boy – it’s on this secret page." ]
+							}
+, 							{
+								"key" : [ "295", 295 ],
+								"value" : [ "Where are the pictures?" ]
+							}
+, 							{
+								"key" : [ "296", 296 ],
+								"value" : [ "They’re here: I’ve painted them with words." ]
+							}
+, 							{
+								"key" : [ "297", 297 ],
+								"value" : [ "- What words?*- Read them." ]
+							}
+, 							{
+								"key" : [ "298", 298 ],
+								"value" : [ "Read? Read? How can a woman read?*What words? Is this a word?" ]
+							}
+, 							{
+								"key" : [ "299", 299 ],
+								"value" : [ "- Or this? This?*- The book is finished." ]
+							}
+, 							{
+								"key" : [ "300", 300 ],
+								"value" : [ "Where does a word end and another word begin?" ]
+							}
+, 							{
+								"key" : [ "301", 301 ],
+								"value" : [ "- My work – smiles the Boy – is done.*- Where? Where are the pictures?" ]
+							}
+, 							{
+								"key" : [ "302", 302 ],
+								"value" : [ "What? What use to a woman is a word?" ]
+							}
+, 							{
+								"key" : [ "303", 303 ],
+								"value" : [ "Mouth . . . see it . . . mouth . . .*– writes the Boy." ]
+							}
+, 							{
+								"key" : [ "304", 304 ],
+								"value" : [ "Heart, hair, mouth, nail, hand, skin, blood, her neck –*writes the Boy – of amethyst …" ]
+							}
+, 							{
+								"key" : [ "305", 305 ],
+								"value" : [ "Her long white back,*even the gold-flecked iris of her eye . . ." ]
+							}
+, 							{
+								"key" : [ "306", 306 ],
+								"value" : [ ". . . each part of her body – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "307", 307 ],
+								"value" : [ "She has offered and has used for her own pleasure." ]
+							}
+, 							{
+								"key" : [ "308", 308 ],
+								"value" : [ "Like the man – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "309", 309 ],
+								"value" : [ "Like the man who bends down the branch in summer*to cut the most high-up flower – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "310", 310 ],
+								"value" : [ "I have reached up for her love*and have bent her willingly to the ground." ]
+							}
+, 							{
+								"key" : [ "311", 311 ],
+								"value" : [ "And at her own invitation,*her own invitation – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "312", 312 ],
+								"value" : [ "We have used and used and used*have used each other as – writes the Boy . . ." ]
+							}
+, 							{
+								"key" : [ "313", 313 ],
+								"value" : [ ". . . pornography." ]
+							}
+, 							{
+								"key" : [ "314", 314 ],
+								"value" : [ "This is what the woman, what Agnès,*what your wife, your property – writes the Boy – " ]
+							}
+, 							{
+								"key" : [ "315", 315 ],
+								"value" : [ ". . . asks me to say to you." ]
+							}
+, 							{
+								"key" : [ "316", 316 ],
+								"value" : [ "Read it, oh read it again." ]
+							}
+, 							{
+								"key" : [ "317", 317 ],
+								"value" : [ "- Keep away.*- And show me, please show me . . ." ]
+							}
+, 							{
+								"key" : [ "318", 318 ],
+								"value" : [ "- I want to see.*- Cover your arms." ]
+							}
+, 							{
+								"key" : [ "319", 319 ],
+								"value" : [ "Cover your face and hair." ]
+							}
+, 							{
+								"key" : [ "320", 320 ],
+								"value" : [ "Stitch shut your lips before your pink flicking tongue*snakes back into my mouth the way it burrowed into his." ]
+							}
+, 							{
+								"key" : [ "321", 321 ],
+								"value" : [ "NOW KEEP AWAY FROM ME." ]
+							}
+, 							{
+								"key" : [ "322", 322 ],
+								"value" : [ "Please let me see the word for love." ]
+							}
+, 							{
+								"key" : [ "323", 323 ],
+								"value" : [ "Set the earth spinning.*Fill it with iron and stone." ]
+							}
+, 							{
+								"key" : [ "324", 324 ],
+								"value" : [ "- Make a man out of dust.*- Good." ]
+							}
+, 							{
+								"key" : [ "325", 325 ],
+								"value" : [ "- Prop him naked on two stick legs.*- Good." ]
+							}
+, 							{
+								"key" : [ "326", 326 ],
+								"value" : [ "- Prop him tottering next to a tree.*- Good." ]
+							}
+, 							{
+								"key" : [ "327", 327 ],
+								"value" : [ "Tempt him, taunt him, clothe him,*spit him out." ]
+							}
+, 							{
+								"key" : [ "328", 328 ],
+								"value" : [ "Expel him from joy*with a lacerating whip." ]
+							}
+, 							{
+								"key" : [ "329", 329 ],
+								"value" : [ "- Make him sweat, cry, scratch at the earth’s crust.*- Make him jealous." ]
+							}
+, 							{
+								"key" : [ "330", 330 ],
+								"value" : [ "Make each man ashamed . . ." ]
+							}
+, 							{
+								"key" : [ "331", 331 ],
+								"value" : [ ". . . ashamed to be human." ]
+							}
+, 							{
+								"key" : [ "332", 332 ],
+								"value" : [ "Put voices into his mind." ]
+							}
+, 							{
+								"key" : [ "333", 333 ],
+								"value" : [ "Confront the Boy – says one –*follow him into the wood." ]
+							}
+, 							{
+								"key" : [ "334", 334 ],
+								"value" : [ "No – says another voice –*be wise, be calm, be merciful." ]
+							}
+, 							{
+								"key" : [ "335", 335 ],
+								"value" : [ "Take his hair in your fist – says the third –*pull back his head for a kiss." ]
+							}
+, 							{
+								"key" : [ "336", 336 ],
+								"value" : [ "And as you are cutting one long clean incision*through the bone, examine your own portrait . . ." ]
+							}
+, 							{
+								"key" : [ "337", 337 ],
+								"value" : [ ". . . in the glass-black mirror of his eyes." ]
+							}
+, 							{
+								"key" : [ "338", 338 ],
+								"value" : [ "Woman and her Protector . . ." ]
+							}
+, 							{
+								"key" : [ "339", 339 ],
+								"value" : [ "Night. A room." ]
+							}
+, 							{
+								"key" : [ "340", 340 ],
+								"value" : [ "A balcony. A long white table." ]
+							}
+, 							{
+								"key" : [ "341", 341 ],
+								"value" : [ "What has he placed in front of her?" ]
+							}
+, 							{
+								"key" : [ "342", 342 ],
+								"value" : [ "A silver dish." ]
+							}
+, 							{
+								"key" : [ "343", 343 ],
+								"value" : [ "What does she lift from the silver dish?*I said, what does she lift from the silver dish?" ]
+							}
+, 							{
+								"key" : [ "344", 344 ],
+								"value" : [ "The warm round silver lid." ]
+							}
+, 							{
+								"key" : [ "345", 345 ],
+								"value" : [ "What does the woman do now?" ]
+							}
+, 							{
+								"key" : [ "346", 346 ],
+								"value" : [ "- I said, what does the woman do now?*- I’m not that woman. I’m Agnès." ]
+							}
+, 							{
+								"key" : [ "347", 347 ],
+								"value" : [ "- Eats. The woman eats.*- Good. Say it." ]
+							}
+, 							{
+								"key" : [ "348", 348 ],
+								"value" : [ "What makes the woman eat?" ]
+							}
+, 							{
+								"key" : [ "349", 349 ],
+								"value" : [ "- I said, what makes the woman eat?*- Hunger. Appetite. Her curiosity." ]
+							}
+, 							{
+								"key" : [ "350", 350 ],
+								"value" : [ "No: her obedience. Her obedience.*Say it. I need you to say it." ]
+							}
+, 							{
+								"key" : [ "351", 351 ],
+								"value" : [ "- Her obedience now makes her eat.*- Her obedience to her husband. That is correct." ]
+							}
+, 							{
+								"key" : [ "352", 352 ],
+								"value" : [ "How does it taste – says the man." ]
+							}
+, 							{
+								"key" : [ "353", 353 ],
+								"value" : [ "Good, she says – salt and sweet." ]
+							}
+, 							{
+								"key" : [ "354", 354 ],
+								"value" : [ "Why?" ]
+							}
+, 							{
+								"key" : [ "355", 355 ],
+								"value" : [ "- Good?*- Yes, she says – good, she says – salt, strange and sweet." ]
+							}
+, 							{
+								"key" : [ "356", 356 ],
+								"value" : [ "Why?" ]
+							}
+, 							{
+								"key" : [ "357", 357 ],
+								"value" : [ "- Good? How is it good?*- Sweet as my own milk, yes, good . . ." ]
+							}
+, 							{
+								"key" : [ "358", 358 ],
+								"value" : [ "- But salt as my own tears. Why?*- Good? How is it good?" ]
+							}
+, 							{
+								"key" : [ "359", 359 ],
+								"value" : [ "- What has my husband, my Protector, given me to eat?*- His heart, Agnès." ]
+							}
+, 							{
+								"key" : [ "360", 360 ],
+								"value" : [ "- What heart?*- His heart – the Boy – " ]
+							}
+, 							{
+								"key" : [ "361", 361 ],
+								"value" : [ "- No.*- His heart – the Boy – " ]
+							}
+, 							{
+								"key" : [ "362", 362 ],
+								"value" : [ "- No, nothing, nothing you can do . . .*- His heart, his heart, the Boy, his heart . . ." ]
+							}
+, 							{
+								"key" : [ "363", 363 ],
+								"value" : [ "Nothing I ever eat, nothing I drink,*will ever take the taste of that Boy’s heart out of this body." ]
+							}
+, 							{
+								"key" : [ "364", 364 ],
+								"value" : [ "No force you use, nothing you forbid, can take away*the pictures that Boy’s hands draw on this skin." ]
+							}
+, 							{
+								"key" : [ "365", 365 ],
+								"value" : [ "He can unfold the tight green bud, unwrap the tree,*darken the wood, lighten the sky, blacken the dust with rain." ]
+							}
+, 							{
+								"key" : [ "366", 366 ],
+								"value" : [ "Each mark he makes on me is good,*each color clear." ]
+							}
+, 							{
+								"key" : [ "367", 367 ],
+								"value" : [ "Crush. Burn. Break. Tear." ]
+							}
+, 							{
+								"key" : [ "368", 368 ],
+								"value" : [ "Put out my eyes. Hang. Drown. Stone. Stab.*Cut out my tongue." ]
+							}
+, 							{
+								"key" : [ "369", 369 ],
+								"value" : [ "Nothing, not if you strip me to the bone with acid,*will ever take the taste of that Boy’s heart out of this mouth." ]
+							}
+, 							{
+								"key" : [ "370", 370 ],
+								"value" : [ "This – says the Angel –*shows the Woman Falling." ]
+							}
+, 							{
+								"key" : [ "371", 371 ],
+								"value" : [ "Here, look, the man takes a knife . . ." ]
+							}
+, 							{
+								"key" : [ "372", 372 ],
+								"value" : [ "But the woman’s quicker, and jumps." ]
+							}
+, 							{
+								"key" : [ "373", 373 ],
+								"value" : [ "See how her body has dropped from the balcony,*how I pause her mid-fall at the exact center of the page." ]
+							}
+, 							{
+								"key" : [ "374", 374 ],
+								"value" : [ "Here in the night sky, see them, stars*hold in a bright web her black silhouette on blue." ]
+							}
+, 							{
+								"key" : [ "375", 375 ],
+								"value" : [ "As she drops from the house, three small angels, look,*are watching her calmly from the margin." ]
+							}
+, 							{
+								"key" : [ "376", 376 ],
+								"value" : [ "In their face, in their eyes, see their cold fascination*with human disaster . . ." ]
+							}
+, 							{
+								"key" : [ "377", 377 ],
+								"value" : [ ". . . as they turn from the fallen woman . . ." ]
+							}
+, 							{
+								"key" : [ "378", 378 ],
+								"value" : [ ". . . to where the white lines of the Saturday carpark*cover the heaped-up dead." ]
+							}
+ ]
 					}
 ,
 					"id" : "obj-35",
@@ -7335,6 +28767,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-58", 0 ],
 					"source" : [ "obj-12", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-2", 0 ],
+					"source" : [ "obj-13", 0 ]
 				}
 
 			}

@@ -2,8 +2,8 @@
 	"name" : "operaTitlesTest",
 	"version" : 1,
 	"creationdate" : -688916151,
-	"modificationdate" : -682786234,
-	"viewrect" : [ 1199.0, 185.0, 300.0, 500.0 ],
+	"modificationdate" : -682633439,
+	"viewrect" : [ 1140.0, 185.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -20,7 +20,7 @@
 				"local" : 1
 			}
 ,
-			"Scenestorage.maxpat" : 			{
+			"SceneStorage.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -46,15 +46,11 @@
 		}
 ,
 		"data" : 		{
-			"testText.txt" : 			{
-				"kind" : "textfile",
-				"local" : 1
-			}
 
 		}
 ,
 		"externals" : 		{
-			"jit.gl.syphonclient.mxo" : 			{
+			"changelist.mxo" : 			{
 				"kind" : "object",
 				"local" : 1
 			}
@@ -64,10 +60,24 @@
 				"local" : 1
 			}
 ,
+			"jit.mo.time.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.gl.syphonclient.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
 			"Lmult.mxo" : 			{
 				"kind" : "object",
 				"local" : 1
 			}
+
+		}
+,
+		"other" : 		{
 
 		}
 
