@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 514.0, 79.0, 892.0, 787.0 ],
+		"rect" : [ 754.0, 79.0, 652.0, 787.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,14 +38,14 @@
 		"subpatcher_template" : "Default Max 7",
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-51",
+					"id" : "obj-43",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "jit_gl_texture", "", "" ],
-					"patching_rect" : [ 317.0, 666.667358, 127.0, 22.0 ],
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 357.5, 28.0, 99.0, 22.0 ],
 					"style" : "",
-					"text" : "jit.gl.node @capture 1"
+					"text" : "udpreceive 7879"
 				}
 
 			}
@@ -70,7 +70,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 237.5, 444.0, 57.0, 24.0 ],
-					"presentation_rect" : [ 299.5, 410.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "on/off"
 				}
@@ -85,7 +84,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 243.0, 500.5, 113.0, 22.0 ],
-					"presentation_rect" : [ 305.0, 466.5, 0.0, 0.0 ],
 					"style" : "",
 					"text_width" : 63.0
 				}
@@ -100,7 +98,6 @@
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 208.5, 444.0, 24.0, 24.0 ],
-					"presentation_rect" : [ 270.5, 410.0, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -114,7 +111,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 243.0, 473.0, 113.0, 22.0 ],
-					"presentation_rect" : [ 305.0, 439.0, 0.0, 0.0 ],
 					"style" : "",
 					"text_width" : 63.0
 				}
@@ -129,7 +125,6 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 208.5, 595.0, 194.0, 22.0 ],
-					"presentation_rect" : [ 270.5, 561.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "jit.time.sin @speed 0.2 @enable 0"
 				}
@@ -143,7 +138,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 262.0, 556.5, 53.0, 22.0 ],
-					"presentation_rect" : [ 324.0, 522.5, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "phase 0"
 				}
@@ -158,7 +152,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 243.0, 529.5, 150.0, 22.0 ],
-					"presentation_rect" : [ 305.0, 495.5, 0.0, 0.0 ],
 					"style" : "",
 					"text_width" : 82.0
 				}
@@ -1181,28 +1174,28 @@
 , 											{
 												"box" : 												{
 													"id" : "obj-14",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 846.349915, 1100.850098, 51.0, 49.0 ],
 													"style" : "",
-													"text" : "moveto 0 596"
+													"text" : "moveto 343 100"
 												}
 
 											}
 , 											{
 												"box" : 												{
 													"id" : "obj-7",
-													"linecount" : 8,
+													"linecount" : 5,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 695.0, 1112.0, 24.0, 102.0 ],
 													"style" : "",
-													"text" : "font Rockwell 117"
+													"text" : "font Arial 39"
 												}
 
 											}
@@ -1767,7 +1760,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 101.0, 461.666626, 50.0, 22.0 ],
 													"style" : "",
-													"text" : "9"
+													"text" : "4"
 												}
 
 											}
@@ -2130,8 +2123,11 @@
 														"styles" : [ 															{
 																"name" : "Johnstyle",
 																"default" : 																{
-																	"fontname" : [ "Monaco" ],
+																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
+																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
 																	"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
+																	"fontface" : [ 0 ],
+																	"fontsize" : [ 12.0 ],
 																	"bgfillcolor" : 																	{
 																		"type" : "gradient",
 																		"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -2142,16 +2138,13 @@
 																		"autogradient" : 0
 																	}
 ,
-																	"fontface" : [ 0 ],
 																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
-																	"fontsize" : [ 12.0 ],
-																	"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
 																	"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
 																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"fontname" : [ "Monaco" ],
 																	"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
 																	"textjustification" : [ 1 ],
-																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ]
+																	"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -3718,8 +3711,11 @@
 						"styles" : [ 							{
 								"name" : "Johnstyle",
 								"default" : 								{
-									"fontname" : [ "Monaco" ],
+									"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
+									"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
 									"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"fontface" : [ 0 ],
+									"fontsize" : [ 12.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -3730,16 +3726,13 @@
 										"autogradient" : 0
 									}
 ,
-									"fontface" : [ 0 ],
 									"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
-									"fontsize" : [ 12.0 ],
-									"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
 									"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
 									"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-									"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+									"fontname" : [ "Monaco" ],
 									"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
 									"textjustification" : [ 1 ],
-									"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ]
+									"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11607,6 +11600,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-84", 0 ],
+					"source" : [ "obj-43", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
 					"source" : [ "obj-47", 0 ]
 				}
@@ -11637,20 +11637,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-12", 0 ],
 					"source" : [ "obj-50", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-10", 0 ],
-					"source" : [ "obj-51", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-12", 0 ],
-					"source" : [ "obj-51", 1 ]
 				}
 
 			}
@@ -11982,9 +11968,9 @@
 		"styles" : [ 			{
 				"name" : "helpfile_label-1",
 				"default" : 				{
-					"fontname" : [ "Arial" ],
+					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 					"fontsize" : [ 13.0 ],
-					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
+					"fontname" : [ "Arial" ]
 				}
 ,
 				"parentstyle" : "",
