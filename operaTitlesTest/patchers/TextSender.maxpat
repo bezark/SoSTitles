@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 505.0, 395.0, 791.0, 738.0 ],
+		"rect" : [ 162.0, 143.0, 791.0, 738.0 ],
 		"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"bglocked" : 0,
@@ -5228,7 +5228,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 464.0, 301.0, 53.0, 49.0 ],
 									"style" : "",
-									"text" : "sync select 1 44"
+									"text" : "sync select 0 0"
 								}
 
 							}
@@ -22235,7 +22235,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "Chesterfield",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-69",
@@ -22285,7 +22284,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 811.500122, 46.0, 97.0, 22.0 ],
-									"presentation_rect" : [ 811.500122, 46.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "value IPaddress"
 								}
@@ -22299,7 +22297,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 811.500122, 18.0, 66.0, 22.0 ],
-									"presentation_rect" : [ 811.500122, 18.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "r ipUpdate"
 								}
@@ -22313,7 +22310,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1697.500122, 575.0, 50.0, 22.0 ],
-									"presentation_rect" : [ 1699.0, 575.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "host $1"
 								}
@@ -22327,7 +22323,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1697.500122, 546.0, 97.0, 22.0 ],
-									"presentation_rect" : [ 1699.0, 546.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "value IPaddress"
 								}
@@ -22341,7 +22336,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1697.500122, 518.0, 66.0, 22.0 ],
-									"presentation_rect" : [ 1699.0, 518.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "r ipUpdate"
 								}
@@ -22778,7 +22772,6 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 147.0, 54.0, 97.0, 22.0 ],
-													"presentation_rect" : [ 144.5, 51.0, 0.0, 0.0 ],
 													"style" : "",
 													"text" : "value IPaddress"
 												}
@@ -22835,7 +22828,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 292.0, 397.0, 30.0, 30.0 ],
-													"presentation_rect" : [ 298.0, 379.0, 0.0, 0.0 ],
 													"style" : ""
 												}
 
@@ -22907,7 +22899,7 @@
 													"maxclass" : "inlet",
 													"numinlets" : 0,
 													"numoutlets" : 1,
-													"outlettype" : [ "bang" ],
+													"outlettype" : [ "" ],
 													"patching_rect" : [ 147.0, 9.0, 30.0, 30.0 ],
 													"style" : ""
 												}
@@ -29886,7 +29878,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "testTextReader.js",
-				"bootpath" : "~/Desktop/SoSTitles/operaTitlesTest/code",
+				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
