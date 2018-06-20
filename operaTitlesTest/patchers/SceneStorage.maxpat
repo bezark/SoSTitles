@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 40.0, 79.0, 1852.0, 861.0 ],
+		"rect" : [ 34.0, 79.0, 918.0, 787.0 ],
 		"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"bglocked" : 0,
@@ -40,6 +40,18 @@
 		"subpatcher_template" : "Chesterfield",
 		"showontab" : 1,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-9",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 474.0, 361.0, 34.0, 22.0 ],
+					"style" : "",
+					"text" : "print"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-12",
 					"maxclass" : "comment",
@@ -570,7 +582,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 1852.0, 835.0 ],
+						"rect" : [ 0.0, 26.0, 918.0, 761.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
@@ -4942,7 +4954,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 1852.0, 835.0 ],
+						"rect" : [ 0.0, 26.0, 918.0, 761.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
@@ -8145,7 +8157,6 @@
 			}
 , 			{
 				"box" : 				{
-					"autorestore" : "pop.json",
 					"id" : "obj-8",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -8211,6 +8222,15 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-119", 0 ],
+					"order" : 0,
+					"source" : [ "obj-118", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-9", 0 ],
+					"order" : 1,
 					"source" : [ "obj-118", 0 ]
 				}
 
@@ -8489,13 +8509,6 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "pop.json",
-				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/data",
-				"patcherrelativepath" : "../data",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "LtoUmenu.maxpat",
 				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/patchers",
 				"patcherrelativepath" : ".",
