@@ -2,7 +2,7 @@
 	"name" : "operaTitlesTest",
 	"version" : 1,
 	"creationdate" : -688916151,
-	"modificationdate" : -682540918,
+	"modificationdate" : -681386237,
 	"viewrect" : [ 1140.0, 225.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -31,6 +31,11 @@
 			}
 ,
 			"jit.gl.slab.gauss6x.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"texttexture.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
