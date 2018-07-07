@@ -5,7 +5,7 @@
 			"major" : 7,
 			"minor" : 3,
 			"revision" : 5,
-			"architecture" : "x64",
+			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
@@ -321,7 +321,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -4788,7 +4788,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-1", 1 ],
-									"midpoints" : [ 360.566691, 601.349976, 381.650024, 601.349976 ],
+									"midpoints" : [ 360.566681, 601.349976, 381.650024, 601.349976 ],
 									"order" : 2,
 									"source" : [ "obj-5", 1 ]
 								}
@@ -4805,7 +4805,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-35", 1 ],
-									"midpoints" : [ 360.566691, 613.099976, 509.500031, 613.099976 ],
+									"midpoints" : [ 360.566681, 613.099976, 509.500031, 613.099976 ],
 									"order" : 0,
 									"source" : [ "obj-5", 1 ]
 								}
@@ -4814,7 +4814,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-6", 0 ],
-									"midpoints" : [ 360.566691, 601.900024, 434.649994, 601.900024 ],
+									"midpoints" : [ 360.566681, 601.900024, 434.649994, 601.900024 ],
 									"order" : 1,
 									"source" : [ "obj-5", 1 ]
 								}
@@ -5146,7 +5146,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -5242,7 +5242,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 464.0, 301.0, 53.0, 49.0 ],
 									"style" : "",
-									"text" : "sync select 1 91"
+									"text" : "sync select 1 19"
 								}
 
 							}
@@ -6818,7 +6818,7 @@
 											"major" : 7,
 											"minor" : 3,
 											"revision" : 5,
-											"architecture" : "x64",
+											"architecture" : "x86",
 											"modernui" : 1
 										}
 ,
@@ -11870,7 +11870,7 @@
 									"destination" : [ "obj-4", 0 ],
 									"source" : [ "obj-1", 0 ],
 									"watchpoint_flags" : 2,
-									"watchpoint_id" : 1
+									"watchpoint_id" : 3
 								}
 
 							}
@@ -13990,7 +13990,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -17996,7 +17996,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -18070,14 +18070,14 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-10",
-									"linecount" : 3,
+									"linecount" : 5,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 712.0, 222.0, 127.0, 76.0 ],
 									"style" : "",
-									"text" : "set \"92\" \"Invent her.*Invent the woman you want.\""
+									"text" : "set \"6\" \"- Make each new book a precious object, written on skin.*- Rub out the white lines.\""
 								}
 
 							}
@@ -18150,7 +18150,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 16.833313, 62.0, 106.0, 25.0 ],
 									"style" : "",
-									"text" : "92",
+									"text" : "6",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -20060,7 +20060,7 @@
 									"bordercolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"id" : "obj-24",
 									"keymode" : 1,
-									"linecount" : 2,
+									"linecount" : 3,
 									"maxclass" : "textedit",
 									"numinlets" : 1,
 									"numoutlets" : 4,
@@ -20069,9 +20069,10 @@
 									"parameter_enable" : 0,
 									"patching_rect" : [ 544.0, 345.0, 189.0, 103.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 131.0, 62.0, 407.0, 103.0 ],
+									"presentation_linecount" : 2,
+									"presentation_rect" : [ 131.0, 62.0, 408.0, 103.0 ],
 									"style" : "",
-									"text" : "Invent her.*Invent the woman you want.",
+									"text" : "- Make each new book a precious object, written on skin.*- Rub out the white lines.",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -22217,11 +22218,11 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 750.0, 454.0, 750.0, 174.0 ],
+						"rect" : [ 124.0, 836.0, 750.0, 174.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
@@ -22277,15 +22278,16 @@
 									"gradient" : 1,
 									"id" : "obj-66",
 									"ignoreclick" : 1,
+									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 467.500122, 148.0, 50.0, 22.0 ],
+									"patching_rect" : [ 467.500122, 148.0, 50.0, 35.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 507.500122, 106.0, 88.0, 22.0 ],
 									"style" : "",
-									"text" : "2.2.2.2",
+									"text" : "127.0.0.1",
 									"textjustification" : 2
 								}
 
@@ -22659,7 +22661,7 @@
 											"major" : 7,
 											"minor" : 3,
 											"revision" : 5,
-											"architecture" : "x64",
+											"architecture" : "x86",
 											"modernui" : 1
 										}
 ,
@@ -22759,13 +22761,14 @@
 , 											{
 												"box" : 												{
 													"id" : "obj-17",
+													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 116.0, 195.0, 50.0, 35.0 ],
 													"style" : "",
-													"text" : "2.2.2.2"
+													"text" : "127.0.0.1"
 												}
 
 											}
@@ -22852,7 +22855,7 @@
 													"presentation" : 1,
 													"presentation_rect" : [ 14.0, 38.0, 189.0, 29.0 ],
 													"style" : "",
-													"text" : "2.2.2.2"
+													"text" : "127.0.0.1"
 												}
 
 											}
@@ -29105,7 +29108,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-164", 1 ],
-					"midpoints" : [ 873.50005, 664.466614, 1121.333374, 664.466614, 1121.333374, 514.06665, 1197.166626, 514.06665 ],
+					"midpoints" : [ 873.500061, 664.466614, 1121.333374, 664.466614, 1121.333374, 514.06665, 1197.166626, 514.06665 ],
 					"order" : 0,
 					"source" : [ "obj-2", 2 ]
 				}
@@ -29114,7 +29117,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-26", 1 ],
-					"midpoints" : [ 646.50001, 841.466675, 884.100037, 841.466675 ],
+					"midpoints" : [ 646.5, 841.466675, 884.100037, 841.466675 ],
 					"order" : 1,
 					"source" : [ "obj-2", 1 ]
 				}
@@ -29131,7 +29134,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-50", 0 ],
-					"midpoints" : [ 646.50001, 671.983276, 1113.300049, 671.983276 ],
+					"midpoints" : [ 646.5, 671.983276, 1113.300049, 671.983276 ],
 					"order" : 0,
 					"source" : [ "obj-2", 1 ]
 				}
@@ -29147,7 +29150,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-82", 1 ],
-					"midpoints" : [ 873.50005, 683.333374, 814.700012, 683.333374 ],
+					"midpoints" : [ 873.500061, 683.333374, 814.700012, 683.333374 ],
 					"order" : 1,
 					"source" : [ "obj-2", 2 ]
 				}
@@ -29223,7 +29226,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-54", 1 ],
-					"midpoints" : [ 530.833344, 764.766602, 340.899933, 764.766602 ],
+					"midpoints" : [ 530.833374, 764.766602, 340.899933, 764.766602 ],
 					"source" : [ "obj-25", 1 ]
 				}
 
@@ -29516,7 +29519,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-33", 2 ],
-					"midpoints" : [ 107.000034, 266.56665, 36.500034, 266.56665 ],
+					"midpoints" : [ 107.000031, 266.56665, 36.500034, 266.56665 ],
 					"source" : [ "obj-57", 1 ]
 				}
 
@@ -29524,7 +29527,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-35", 0 ],
-					"midpoints" : [ 201.500034, 532.56665, 12.500034, 532.56665 ],
+					"midpoints" : [ 201.500031, 532.56665, 12.500034, 532.56665 ],
 					"source" : [ "obj-57", 2 ]
 				}
 
