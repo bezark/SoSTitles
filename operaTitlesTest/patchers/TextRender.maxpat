@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ -1406.0, 516.0, 1372.0, 787.0 ],
+		"rect" : [ 34.0, 79.0, 1852.0, 963.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -71,7 +71,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 1372.0, 761.0 ],
+						"rect" : [ 0.0, 26.0, 1852.0, 937.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
@@ -359,7 +359,7 @@
 									"range" : 100,
 									"size" : 128,
 									"style" : "",
-									"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 51, 51, 52, 53, 53, 53, 53, 53, 53, 53, 53, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 53, 53, 53, 53, 53, 53, 52, 52, 51, 51, 50, 48, 48, 48, 47, 46, 45, 44, 44, 43, 42, 42, 40, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+									"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 61, 61, 61, 62, 63, 63, 64, 64, 65, 65, 66, 66, 66, 67, 67, 67, 68, 68, 68, 69, 69, 70, 70, 71, 71, 72, 72, 73, 73, 73, 74, 74, 74, 74, 75, 75, 75, 75, 76, 76, 76, 76, 77, 77, 77, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 80, 80, 81, 81, 82, 82, 82, 82, 83, 83, 83, 84, 84, 84, 84, 84, 85, 85, 85, 85, 86, 87, 87, 88, 89, 95 ]
 								}
 
 							}
@@ -390,7 +390,7 @@
 									"range" : 128,
 									"size" : 5,
 									"style" : "",
-									"table_data" : [ 0, 0, 0, 0, 0, 127 ],
+									"table_data" : [ 0, 97, 105, 83, 18, 52 ],
 									"varname" : "itable"
 								}
 
@@ -2437,9 +2437,9 @@
 										"styles" : [ 											{
 												"name" : "helpfile_label-1",
 												"default" : 												{
-													"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 													"fontsize" : [ 13.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3754,9 +3754,9 @@
 														"styles" : [ 															{
 																"name" : "helpfile_label-1",
 																"default" : 																{
-																	"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 																	"fontsize" : [ 13.0 ],
-																	"fontname" : [ "Arial" ]
+																	"fontname" : [ "Arial" ],
+																	"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -3967,7 +3967,7 @@
 													"range" : 100,
 													"size" : 128,
 													"style" : "",
-													"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 51, 51, 52, 53, 53, 53, 53, 53, 53, 53, 53, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 53, 53, 53, 53, 53, 53, 52, 52, 51, 51, 50, 48, 48, 48, 47, 46, 45, 44, 44, 43, 42, 42, 40, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+													"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 61, 61, 61, 62, 63, 63, 64, 64, 65, 65, 66, 66, 66, 67, 67, 67, 68, 68, 68, 69, 69, 70, 70, 71, 71, 72, 72, 73, 73, 73, 74, 74, 74, 74, 75, 75, 75, 75, 76, 76, 76, 76, 77, 77, 77, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 80, 80, 81, 81, 82, 82, 82, 82, 83, 83, 83, 84, 84, 84, 84, 84, 85, 85, 85, 85, 86, 87, 87, 88, 89, 95 ]
 												}
 
 											}
@@ -4000,7 +4000,7 @@
 													"range" : 128,
 													"size" : 5,
 													"style" : "",
-													"table_data" : [ 0, 0, 0, 0, 0, 127 ]
+													"table_data" : [ 0, 97, 105, 83, 18, 52 ]
 												}
 
 											}
@@ -4617,7 +4617,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 1372.0, 761.0 ],
+						"rect" : [ 0.0, 26.0, 1852.0, 937.0 ],
 						"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
@@ -5205,7 +5205,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-116",
-									"items" : [ ".SF Compact Display Heavy", ",", ".SF Compact Text Medium", ",", ".SF Compact Rounded Bold", ",", ".SF NS Text Condensed Bold", ",", "Apple SD Gothic Neo Regular", ",", ".Apple SD Gothic NeoI Regular", ",", "Apple SD Gothic Neo Medium", ",", ".Apple SD Gothic NeoI Medium", ",", "Apple SD Gothic Neo SemiBold", ",", ".Apple SD Gothic NeoI SemiBold", ",", "Apple SD Gothic Neo Bold", ",", ".Apple SD Gothic NeoI Bold", ",", "Apple SD Gothic Neo Light", ",", ".Apple SD Gothic NeoI Light", ",", "Apple SD Gothic Neo Thin", ",", ".Apple SD Gothic NeoI Thin", ",", "Apple SD Gothic Neo UltraLight", ",", ".Apple SD Gothic NeoI UltraLight", ",", "Apple SD GothicNeo ExtraBold", ",", "Apple SD GothicNeo ExtraBold", ",", "Apple SD Gothic Neo Heavy", ",", ".Apple SD Gothic NeoI Heavy", ",", "System Font", ",", "Menlo Regular", ",", "Menlo Bold", ",", "Menlo Italic", ",", "Heiti TC Medium", ",", "Heiti SC Medium", ",", ".SF Compact Rounded Medium", ",", ".SF NS Text Condensed Medium", ",", "Symbol", ",", "Hiragino Sans GB W3", ",", ".Hiragino Sans GB Interface W3", ",", "Hiragino Sans GB W6", ",", ".Hiragino Sans GB Interface W6", ",", ".LastResort", ",", "Helvetica Neue", ",", "Helvetica Neue Condensed Bold", ",", "Helvetica Neue UltraLight", ",", "Helvetica Neue Light", ",", "Helvetica Neue Condensed Black", ",", "Helvetica Neue Medium", ",", "Helvetica Neue Thin", ",", "Hiragino Sans W8", ",", ".Hiragino Kaku Gothic Interface W8", ",", "Hiragino Kaku Gothic Std W8", ",", "Hiragino Kaku Gothic StdN W8", ",", ".SF NS Display Condensed Semibold", ",", "PingFang HK Regular", ",", "PingFang TC Regular", ",", "PingFang SC Regular", ",", "PingFang HK Medium", ",", "PingFang TC Medium", ",", "PingFang SC Medium", ",", "PingFang HK Semibold", ",", "PingFang TC Semibold", ",", "PingFang SC Semibold", ",", "PingFang HK Light", ",", "PingFang TC Light", ",", "PingFang SC Light", ",", "PingFang HK Thin", ",", "PingFang TC Thin", ",", "PingFang SC Thin", ",", "PingFang HK Ultralight", ",", "PingFang TC Ultralight", ",", "PingFang SC Ultralight", ",", ".PingFang HK Regular", ",", ".PingFang TC Regular", ",", ".PingFang SC Regular", ",", ".PingFang HK Medium", ",", ".PingFang TC Medium", ",", ".PingFang SC Medium", ",", ".PingFang HK Semibold", ",", ".PingFang TC Semibold", ",", ".PingFang SC Semibold", ",", ".PingFang HK Light", ",", ".PingFang TC Light", ",", ".PingFang SC Light", ",", ".PingFang HK Thin", ",", ".PingFang TC Thin", ",", ".PingFang SC Thin", ",", ".PingFang HK Ultralight", ",", ".PingFang TC Ultralight", ",", ".PingFang SC Ultralight", ",", "Noteworthy Light", ",", "Noteworthy Bold", ",", ".SF Compact Rounded Black", ",", "Hiragino Sans W9", ",", ".Hiragino Kaku Gothic Interface W9", ",", ".SF NS Display Condensed Black", ",", ".SF Compact Rounded Semibold", ",", "Optima Regular", ",", "Optima Bold", ",", "Optima Italic", ",", "Optima ExtraBlack", ",", ".SF Compact Rounded Thin", ",", "Zapf Dingbats", ",", ".SF NS Display Condensed Thin", ",", "Monaco", ",", "Apple Braille", ",", ".Helvetica Neue DeskInterface Regular", ",", ".Helvetica Neue DeskInterface Bold", ",", ".Helvetica Neue DeskInterface Italic", ",", ".Helvetica Neue DeskInterface Medium P4", ",", ".Helvetica Neue DeskInterface Medium Italic P4", ",", ".Helvetica Neue DeskInterface Light", ",", ".Helvetica Neue DeskInterface Thin", ",", ".Helvetica Neue DeskInterface UltraLight", ",", ".Helvetica Neue DeskInterface Heavy", ",", "Avenir Next Condensed Bold", ",", "Avenir Next Condensed Demi Bold", ",", "Avenir Next Condensed Italic", ",", "Avenir Next Condensed Medium", ",", "Avenir Next Condensed Regular", ",", "Avenir Next Condensed Heavy", ",", "Avenir Next Condensed Ultra Light", ",", "Lucida Grande", ",", ".Lucida Grande UI Regular", ",", ".Lucida Grande UI Bold", ",", ".SF NS Text Condensed Semibold", ",", "System Font", ",", "Thonburi", ",", "Thonburi Light", ",", "Apple Braille Outline 6 Dot", ",", "Kohinoor Telugu", ",", "Kohinoor Telugu Semibold", ",", "Kohinoor Telugu Medium", ",", "Kohinoor Telugu Light", ",", ".SF Compact Display Light", ",", ".SF Compact Text Regular", ",", "Apple Braille Pinpoint 6 Dot", ",", ".SF NS Display Condensed Bold", ",", "System Font Medium Italic", ",", "Avenir Book", ",", "Avenir Book Oblique", ",", "Avenir Black", ",", "Avenir Black Oblique", ",", "Avenir Heavy", ",", "Avenir Heavy Oblique", ",", "Avenir Light", ",", "Avenir Light Oblique", ",", "Avenir Medium", ",", "Avenir Medium Oblique", ",", "Avenir Oblique", ",", "Avenir Roman", ",", ".SF Compact Display Semibold", ",", "Kohinoor Devanagari Regular", ",", "Kohinoor Devanagari Medium", ",", "Kohinoor Devanagari Semibold", ",", "Kohinoor Devanagari Bold", ",", "Kohinoor Devanagari Light", ",", ".SF NS Display Condensed Regular", ",", ".SF NS Text Condensed Heavy", ",", "Hiragino Mincho ProN W3", ",", "Hiragino Mincho Pro W3", ",", "Hiragino Mincho ProN W6", ",", "Hiragino Mincho Pro W6", ",", "System Font Semibold Italic", ",", ".SF Compact Display Medium", ",", ".SF Compact Rounded Ultralight", ",", "Avenir Next Bold", ",", "Avenir Next Demi Bold", ",", "Avenir Next Italic", ",", "Avenir Next Medium", ",", "Avenir Next Regular", ",", "Avenir Next Heavy", ",", "Avenir Next Ultra Light", ",", ".SF Compact Display Black", ",", ".SF Compact Rounded Regular", ",", ".Aqua Kana", ",", "Palatino", ",", ".SF Compact Display Regular", ",", "Apple Symbols", ",", "System Font Black Italic", ",", "Noto Nastaliq Urdu", ",", ".Noto Nastaliq Urdu UI", ",", "Heiti TC Light", ",", "Heiti SC Light", ",", ".SF Compact Rounded Heavy", ",", ".SF NS Display Condensed Medium", ",", "System Font Ultralight Italic", ",", "System Font", ",", ".SF Compact Text Semibold", ",", ".SF Compact Text Italic", ",", ".SF Compact Text Light", ",", ".SF NS Text Condensed Regular", ",", ".SF NS Display Condensed Heavy", ",", "Hiragino Sans W7", ",", ".Hiragino Kaku Gothic Interface W7", ",", "Courier", ",", "Courier Oblique", ",", ".SF Compact Display Bold", ",", ".SF Compact Text Bold", ",", ".SF Compact Rounded Light", ",", "Times Roman", ",", "Times Bold", ",", "Times Italic", ",", ".SF NS Display Condensed Ultralight", ",", "Hiragino Maru Gothic Pro W4", ",", "Hiragino Maru Gothic ProN W4", ",", "Hiragino Sans W6", ",", ".Hiragino Kaku Gothic Interface W6", ",", "Hiragino Kaku Gothic ProN W6", ",", "Hiragino Kaku Gothic Pro W6", ",", "Hiragino Sans W4", ",", ".Hiragino Kaku Gothic Interface W4", ",", ".SF Compact Display Ultralight", ",", ".SF Compact Text Heavy", ",", ".SF NS Display Condensed Light", ",", "Hiragino Sans W5", ",", ".Hiragino Kaku Gothic Interface W5", ",", "Marker Felt Thin", ",", "Marker Felt Wide", ",", "Apple Braille Pinpoint 8 Dot", ",", ".Keyboard", ",", "Hiragino Sans W1", ",", ".Hiragino Kaku Gothic Interface W1", ",", "Geneva", ",", ".SF NS Text Condensed Light", ",", "System Font Thin Italic", ",", "Arial Hebrew", ",", "Arial Hebrew Light", ",", ".Arial Hebrew Desk Interface", ",", ".Arial Hebrew Desk Interface Light", ",", "Arial Hebrew Scholar", ",", "Arial Hebrew Scholar Light", ",", "Apple Braille Outline 8 Dot", ",", "Hiragino Sans W0", ",", ".Hiragino Kaku Gothic Interface W0", ",", "Hiragino Sans W2", ",", ".Hiragino Kaku Gothic Interface W2", ",", "System Font Heavy Italic", ",", "Helvetica", ",", "Helvetica Oblique", ",", "Helvetica Light", ",", "Helvetica Light Oblique", ",", "System Font Light Italic", ",", "Kohinoor Bangla", ",", "Kohinoor Bangla Semibold", ",", "Kohinoor Bangla Medium", ",", "Kohinoor Bangla Light", ",", ".SF Compact Display Thin", ",", "Hiragino Sans W3", ",", ".Hiragino Kaku Gothic Interface W3", ",", "Hiragino Kaku Gothic ProN W3", ",", "Hiragino Kaku Gothic Pro W3", ",", "Al Bayan Plain", ",", ".Al Bayan PUA Plain", ",", "Webdings", ",", "Source Sans Pro Light", ",", "Kozuka Gothic Pr6N EL", ",", "Nueva Std Italic", ",", "Rockwell", ",", "Zapfino", ",", "Adobe Fan Heiti Std B", ",", "Georgia", ",", "Savoye LET Plain:1.0", ",", "Savoye LET Plain CC.:1.0", ",", "PT Sans", ",", "PT Sans Narrow", ",", "PT Sans Caption", ",", "Bodoni 72 Smallcaps Book", ",", "Myriad Arabic", ",", "Sukhumvit Set Thin", ",", "Sukhumvit Set Light", ",", "Sukhumvit Set Text", ",", "Sukhumvit Set Medium", ",", "Sukhumvit Set Semi Bold", ",", "Sukhumvit Set Bold", ",", "Silom", ",", "Prestige Elite Std Bold", ",", "Kozuka Mincho Pro R", ",", "Kefa Regular", ",", "Kefa Bold", ",", "Nadeem Regular", ",", ".Nadeem PUA", ",", "KufiStandardGK Regular", ",", ".KufiStandardGK PUA", ",", "OCR A Std", ",", "Bradley Hand Bold", ",", "Lithos Pro", ",", "Kozuka Gothic Pr6N M", ",", "Kozuka Mincho Pro H", ",", "STIXGeneral-Italic", ",", "Kozuka Gothic Pro R", ",", "Kannada Sangam MN", ",", "Papyrus Condensed", ",", "Papyrus", ",", "Seravek", ",", "Seravek Medium", ",", "Seravek Light", ",", "Seravek ExtraLight", ",", "AppleGothic Regular", ",", "Iowan Old Style Roman", ",", "Iowan Old Style Bold", ",", "Iowan Old Style Italic", ",", "Iowan Old Style Black", ",", "Iowan Old Style Titling", ",", "Adobe Myungjo Std M", ",", "Kozuka Mincho Pr6N M", ",", "Kailasa Regular", ",", "Kailasa Bold", ",", "Charter Roman", ",", "Charter Italic", ",", "Charter Bold", ",", "Charter Black", ",", "Farisi Regular", ",", "Kozuka Mincho Pr6N H", ",", "Chaparral Pro", ",", "Trebuchet MS", ",", "Mishafi Regular", ",", "Letter Gothic Std Bold", ",", "Kozuka Mincho Pro EL", ",", "Marion Regular", ",", "Marion Italic", ",", "Marion Bold", ",", "Kozuka Gothic Pro B", ",", "Trattatello", ",", "Sinhala MN", ",", "Corsiva Hebrew", ",", "Big Caslon Medium", ",", "GB18030 Bitmap", ",", "Letter Gothic Std Medium", ",", "Adobe Garamond Pro", ",", "Al Nile", ",", ".Al Nile PUA", ",", "STIXIntegralsUpSm-Regular", ",", "Superclarendon Regular", ",", "Superclarendon Italic", ",", "Superclarendon Light", ",", "Superclarendon Bold", ",", "Superclarendon Black", ",", "Baghdad Regular", ",", ".Baghdad PUA", ",", "STIXGeneral-Regular", ",", "Kozuka Mincho Pro L", ",", "Athelas Regular", ",", "Athelas Italic", ",", "Athelas Bold", ",", "STIXIntegralsUpD-Bold", ",", "American Typewriter", ",", "American Typewriter Light", ",", "American Typewriter Semibold", ",", "American Typewriter Condensed", ",", "American Typewriter Condensed Light", ",", "Kozuka Mincho Pr6N B", ",", "Kozuka Mincho Pr6N L", ",", "Lao Sangam MN", ",", "Brush Script Std Medium", ",", "Luminari", ",", "STIXVariants-Regular", ",", "Malayalam MN", ",", "STIXSizeOneSym-Bold", ",", "Muna Regular", ",", ".Muna PUA", ",", "Muna Bold", ",", "Muna Black", ",", ".Muna PUA Black", ",", "Times New Roman", ",", "Brush Script MT Italic", ",", "Bodoni 72 Oldstyle Book", ",", "Bodoni 72 Oldstyle Bold", ",", "Charlemagne Std Bold", ",", "Myanmar MN", ",", "Source Sans Pro", ",", "Arial Unicode MS", ",", "Telugu MN", ",", "Myanmar Sangam MN", ",", "Chalkduster", ",", "STIXIntegralsUpSm-Bold", ",", "STIXIntegralsUpD-Regular", ",", "Devanagari Sangam MN", ",", "Phosphate Inline", ",", "Phosphate Solid", ",", "Apple Chancery", ",", "Kozuka Mincho Pro B", ",", "Tekton Pro Bold Extended", ",", "AppleMyungjo Regular", ",", "STIXSizeOneSym-Regular", ",", "Myriad Pro Semibold", ",", "Futura Medium", ",", "Futura Bold", ",", "Futura Condensed Medium", ",", "Futura Condensed ExtraBold", ",", "Copperplate", ",", "Copperplate Light", ",", "PT Mono", ",", "Farah Regular", ",", ".Farah PUA", ",", "Malayalam Sangam MN", ",", "Chalkboard SE Light", ",", "Chalkboard SE Regular", ",", "Chalkboard SE Bold", ",", "Lithos Pro Black", ",", "ITF Devanagari Book", ",", "ITF Devanagari Bold", ",", "ITF Devanagari Demi", ",", "ITF Devanagari Light", ",", "ITF Devanagari Medium", ",", "ITF Devanagari Marathi Book", ",", "ITF Devanagari Marathi Bold", ",", "ITF Devanagari Marathi Demi", ",", "ITF Devanagari Marathi Light", ",", "ITF Devanagari Marathi Medium", ",", "Orator Std Medium", ",", "Bangla MN", ",", "Kozuka Mincho Pro M", ",", "STIXNonUnicode-Bold", ",", "Arial Narrow", ",", "Birch Std", ",", "Myriad Pro", ",", "Bangla Sangam MN", ",", "Tamil MN", ",", "Gurmukhi Sangam MN", ",", "Gujarati MT", ",", "Diwan Kufi Regular", ",", ".Diwan Kufi PUA", ",", "Chaparral Pro Light Italic", ",", "Courier New", ",", "Wingdings 3", ",", "Wingdings 2", ",", "Adobe Song Std L", ",", "Hoefler Text Ornaments", ",", "Minion Pro Bold Cond", ",", "Tamil Sangam MN", ",", "Bodoni Ornaments", ",", "Trajan Pro 3", ",", "Myriad Hebrew", ",", "Cochin", ",", "Skia", ",", "Devanagari MT", ",", "Kannada MN", ",", "Impact", ",", "Kokonor Regular", ",", "Kozuka Gothic Pro H", ",", "Nueva Std Bold Condensed", ",", "New Peninim MT", ",", "New Peninim MT Inclined", ",", "New Peninim MT Bold Inclined", ",", "STIXIntegralsUp-Bold", ",", "Gurmukhi MN", ",", "STIXSizeThreeSym-Bold", ",", "Tekton Pro Bold Oblique", ",", "Blackoak Std", ",", "Adobe Hebrew Bold", ",", "Adobe Fangsong Std R", ",", "Arial", ",", "Diwan Thuluth Regular", ",", "Ayuthaya", ",", "STIXIntegralsUp-Regular", ",", "Sinhala Sangam MN", ",", "Khmer Sangam MN", ",", "PT Serif", ",", "STIXSizeThreeSym-Regular", ",", "Snell Roundhand", ",", "Snell Roundhand Black", ",", "Adobe Caslon Pro", ",", "Minion Pro", ",", "Source Sans Pro ExtraLight", ",", "Chalkboard", ",", "Adobe Arabic Bold", ",", "Adobe Devanagari", ",", "Minion Pro Semibold", ",", "Kozuka Gothic Pr6N H", ",", "STIXNonUnicode-Regular", ",", "Mshtakan", ",", "Mshtakan Oblique", ",", "Letter Gothic Std Bold Slanted", ",", "Adobe Arabic Regular", ",", "Tekton Pro Bold", ",", "Letter Gothic Std Slanted", ",", "Lao MN", ",", "Sana Regular", ",", ".Sana PUA", ",", "Arial Black", ",", "Adobe Arabic Italic", ",", "Nueva Std Condensed", ",", "Adobe Heiti Std R", ",", "Comic Sans MS", ",", "InaiMathi", ",", "Adobe Hebrew Italic", ",", "Source Sans Pro Semibold", ",", "Telugu Sangam MN", ",", "Hoefler Text", ",", "Hoefler Text Black", ",", "Adobe Kaiti Std R", ",", "Adobe Gurmukhi", ",", "DIN Alternate Bold", ",", "Wingdings", ",", "Sathu", ",", "Gujarati Sangam MN", ",", "STIXSizeTwoSym-Bold", ",", "Tahoma", ",", "Euphemia UCAS", ",", "Plantagenet Cherokee", ",", "Didot", ",", "Kozuka Gothic Pr6N R", ",", "Adobe Gothic Std B", ",", "STIXIntegralsSm-Regular", ",", "STIXNonUnicode-Italic", ",", "STIXSizeFourSym-Regular", ",", "Tekton Pro Bold Condensed", ",", "Kozuka Gothic Pr6N L", ",", "Arial Rounded MT Bold", ",", "Hobo Std Medium", ",", "STIXSizeTwoSym-Regular", ",", "Minion Pro Medium", ",", "Khmer MN", ",", "Kozuka Mincho Pr6N EL", ",", "STIXGeneral-BoldItalic", ",", "Krungthep", ",", "Kozuka Gothic Pro EL", ",", "Adobe Ming Std L", ",", "Oriya MN", ",", "STIXSizeFourSym-Bold", ",", "STIXIntegralsSm-Bold", ",", "Adobe Hebrew Regular", ",", "Gurmukhi MT", ",", "Al Tarikh Regular", ",", ".Al Tarikh PUA", ",", "STIXNonUnicode-BoldItalic", ",", "Raanana", ",", "Andale Mono", ",", "Kozuka Mincho Pr6N R", ",", "Gill Sans", ",", "Gill Sans SemiBold", ",", "Gill Sans UltraBold", ",", "Gill Sans Light", ",", "Nueva Std Bold", ",", "Kozuka Gothic Pr6N B", ",", "Mishafi Gold Regular", ",", "Adobe Naskh Medium", ",", "Herculanum", ",", "Waseem Regular", ",", "Waseem Light", ",", "Source Sans Pro Black", ",", "Kozuka Gothic Pro L", ",", "PT Serif Caption", ",", "STIXVariants-Bold", ",", "STIXSizeFiveSym-Regular", ",", "Kozuka Gothic Pro M", ",", "Adobe Caslon Pro Semibold", ",", "SignPainter-HouseScript", ",", "SignPainter-HouseScript Semibold", ",", "Poplar Std Black", ",", "Oriya Sangam MN", ",", "STIXGeneral-Bold", ",", "Verdana", ",", "Myriad Pro Bold Condensed", ",", "STIXIntegralsD-Bold", ",", "Songti SC Black", ",", "Songti SC Bold", ",", "Songti TC Bold", ",", "Songti SC Light", ",", "STSong", ",", "Songti TC Light", ",", "Songti SC Regular", ",", "Songti TC Regular", ",", "DecoType Naskh Regular", ",", ".DecoType Naskh PUA", ",", "Myriad Pro Condensed", ",", "GhostmeatBack-Regular", ",", "AmarilloUSAF", ",", "Ghostmeat-Regular", ",", "Captain Howdy", ",", "VT220", ",", "GhostmeatFront-Regular", ",", "Blok Heavy", ",", "Bienetresocial", ",", "Easily amused", ",", "PirulenRg-Regular", ",", "GoodTimesRg-Regular", ",", "Kraut-type-a-fuck", ",", "Senor Saturno", ",", "Cavorting", ",", ".Arabic UI Display Black", ",", ".Arabic UI Display Bold", ",", ".Arabic UI Display Heavy", ",", ".Arabic UI Display Light", ",", ".Arabic UI Display Medium", ",", ".Arabic UI Display Regular", ",", ".Arabic UI Display Semibold", ",", ".Arabic UI Display Thin", ",", ".Arabic UI Display Ultralight", ",", "Geeza Pro Regular", ",", "Geeza Pro Bold", ",", ".Geeza Pro Interface Regular", ",", ".Geeza Pro Interface Bold", ",", ".Geeza Pro Interface Light", ",", ".Geeza Pro PUA", ",", ".Arabic UI Text Regular", ",", ".Arabic UI Text Medium", ",", ".Arabic UI Text Semibold", ",", ".Arabic UI Text Bold", ",", ".Arabic UI Text Heavy", ",", ".Arabic UI Text Light", ",", "Apple Color Emoji", ",", ".Apple Color Emoji UI", ",", "DIN Condensed Bold", ",", "Beirut Regular", ",", ".Beirut PUA", ",", "Bodoni 72 Book", ",", "Bodoni 72 Bold", ",", "Baskerville", ",", "Baskerville SemiBold", ",", "Microsoft Sans Serif", ",", "Damascus Regular", ",", ".Damascus PUA", ",", "Damascus Light", ",", ".Damascus PUA Light", ",", "Damascus Medium", ",", ".Damascus PUA Medium", ",", "Damascus Bold", ",", "Damascus Semi Bold", ",", ".Damascus PUA Semi Bold", ",", "STIXIntegralsD-Regular", ",", "Shree Devanagari 714" ],
+									"items" : [ "Apple Braille Outline 6 Dot", ",", "Apple Braille Outline 8 Dot", ",", "Apple Braille Pinpoint 6 Dot", ",", "Apple Braille Pinpoint 8 Dot", ",", "Apple Braille", ",", "Apple Color Emoji", ",", "Apple Symbols", ",", "Apple SD Gothic Neo Regular", ",", ".Apple SD Gothic NeoI Regular", ",", "Apple SD Gothic Neo Medium", ",", ".Apple SD Gothic NeoI Medium", ",", "Apple SD Gothic Neo SemiBold", ",", ".Apple SD Gothic NeoI SemiBold", ",", "Apple SD Gothic Neo Bold", ",", ".Apple SD Gothic NeoI Bold", ",", "Apple SD Gothic Neo Light", ",", ".Apple SD Gothic NeoI Light", ",", "Apple SD Gothic Neo Thin", ",", ".Apple SD Gothic NeoI Thin", ",", "Apple SD Gothic Neo UltraLight", ",", ".Apple SD Gothic NeoI UltraLight", ",", "Apple SD GothicNeo ExtraBold", ",", "Apple SD GothicNeo ExtraBold", ",", "Apple SD Gothic Neo Heavy", ",", ".Apple SD Gothic NeoI Heavy", ",", ".Aqua Kana", ",", "Arial Hebrew", ",", "Arial Hebrew Light", ",", ".Arial Hebrew Desk Interface", ",", ".Arial Hebrew Desk Interface Light", ",", "Arial Hebrew Scholar", ",", "Arial Hebrew Scholar Light", ",", "Avenir Next Condensed Bold", ",", "Avenir Next Condensed Demi Bold", ",", "Avenir Next Condensed Italic", ",", "Avenir Next Condensed Medium", ",", "Avenir Next Condensed Regular", ",", "Avenir Next Condensed Heavy", ",", "Avenir Next Condensed Ultra Light", ",", "Avenir Next Bold", ",", "Avenir Next Demi Bold", ",", "Avenir Next Italic", ",", "Avenir Next Medium", ",", "Avenir Next Regular", ",", "Avenir Next Heavy", ",", "Avenir Next Ultra Light", ",", "Avenir Book", ",", "Avenir Book Oblique", ",", "Avenir Black", ",", "Avenir Black Oblique", ",", "Avenir Heavy", ",", "Avenir Heavy Oblique", ",", "Avenir Light", ",", "Avenir Light Oblique", ",", "Avenir Medium", ",", "Avenir Medium Oblique", ",", "Avenir Oblique", ",", "Avenir Roman", ",", "Courier", ",", "Courier Oblique", ",", "Geeza Pro Regular", ",", "Geeza Pro Bold", ",", ".Geeza Pro Interface Regular", ",", ".Geeza Pro Interface Bold", ",", ".Geeza Pro Interface Light", ",", ".Geeza PUA", ",", "Geneva", ",", "Helvetica", ",", "Helvetica Oblique", ",", "Helvetica Light", ",", "Helvetica Light Oblique", ",", "Helvetica Neue", ",", "Helvetica Neue Condensed Bold", ",", "Helvetica Neue UltraLight", ",", "Helvetica Neue Light", ",", "Helvetica Neue Condensed Black", ",", "Helvetica Neue Medium", ",", "Helvetica Neue Thin", ",", ".Helvetica Neue DeskInterface Regular", ",", ".Helvetica Neue DeskInterface Bold", ",", ".Helvetica Neue DeskInterface Italic", ",", ".Helvetica Neue DeskInterface Medium P4", ",", ".Helvetica Neue DeskInterface Medium Italic P4", ",", ".Helvetica Neue DeskInterface Light", ",", ".Helvetica Neue DeskInterface Thin", ",", ".Helvetica Neue DeskInterface UltraLight", ",", ".Helvetica Neue DeskInterface Heavy", ",", "Hiragino Sans GB W3", ",", ".Hiragino Sans GB Interface W3", ",", "Hiragino Sans GB W6", ",", ".Hiragino Sans GB Interface W6", ",", ".Keyboard", ",", "Kohinoor Devanagari Regular", ",", "Kohinoor Devanagari Medium", ",", "Kohinoor Devanagari Semibold", ",", "Kohinoor Devanagari Bold", ",", "Kohinoor Devanagari Light", ",", "Kohinoor Bangla", ",", "Kohinoor Bangla Semibold", ",", "Kohinoor Bangla Medium", ",", "Kohinoor Bangla Light", ",", "Kohinoor Telugu", ",", "Kohinoor Telugu Semibold", ",", "Kohinoor Telugu Medium", ",", "Kohinoor Telugu Light", ",", ".LastResort", ",", "Lucida Grande", ",", ".Lucida Grande UI Regular", ",", ".Lucida Grande UI Bold", ",", "Marker Felt Thin", ",", "Marker Felt Wide", ",", "Menlo Regular", ",", "Menlo Bold", ",", "Menlo Italic", ",", "Monaco", ",", "Noteworthy Light", ",", "Noteworthy Bold", ",", "Optima Regular", ",", "Optima Bold", ",", "Optima Italic", ",", "Optima ExtraBlack", ",", "Palatino", ",", "PingFang HK Regular", ",", "PingFang TC Regular", ",", "PingFang SC Regular", ",", "PingFang HK Medium", ",", "PingFang TC Medium", ",", "PingFang SC Medium", ",", "PingFang HK Semibold", ",", "PingFang TC Semibold", ",", "PingFang SC Semibold", ",", "PingFang HK Light", ",", "PingFang TC Light", ",", "PingFang SC Light", ",", "PingFang HK Thin", ",", "PingFang TC Thin", ",", "PingFang SC Thin", ",", "PingFang HK Ultralight", ",", "PingFang TC Ultralight", ",", "PingFang SC Ultralight", ",", ".PingFang HK Regular", ",", ".PingFang TC Regular", ",", ".PingFang SC Regular", ",", ".PingFang HK Medium", ",", ".PingFang TC Medium", ",", ".PingFang SC Medium", ",", ".PingFang HK Semibold", ",", ".PingFang TC Semibold", ",", ".PingFang SC Semibold", ",", ".PingFang HK Light", ",", ".PingFang TC Light", ",", ".PingFang SC Light", ",", ".PingFang HK Thin", ",", ".PingFang TC Thin", ",", ".PingFang SC Thin", ",", ".PingFang HK Ultralight", ",", ".PingFang TC Ultralight", ",", ".PingFang SC Ultralight", ",", "System Font Black", ",", "System Font Bold", ",", "System Font Heavy", ",", "System Font Light", ",", "System Font Medium", ",", "System Font Regular", ",", "System Font Semibold", ",", "System Font Thin", ",", "System Font Ultralight", ",", "System Font Bold", ",", "System Font Bold G1", ",", "System Font Bold G2", ",", "System Font Bold G3", ",", "System Font Bold Italic G1", ",", "System Font Bold Italic G2", ",", "System Font Bold Italic G3", ",", "System Font Heavy", ",", "System Font Light", ",", "System Font Medium", ",", "System Font Regular", ",", "System Font Regular G1", ",", "System Font Regular G2", ",", "System Font Regular G3", ",", "System Font Italic", ",", "System Font Italic G1", ",", "System Font Italic G2", ",", "System Font Italic G3", ",", "System Font Semibold", ",", "Heiti TC Light", ",", "Heiti SC Light", ",", "Heiti TC Medium", ",", "Heiti SC Medium", ",", ".HeitiUI TC Thin", ",", ".HeitiUI SC Thin", ",", ".HeitiUI GB18030PUA Thin", ",", ".HeitiUI K Thin", ",", ".HeitiUI J Thin", ",", ".HeitiUI TC Ultra Light", ",", ".HeitiUI SC Ultra Light", ",", ".HeitiUI GB18030PUA Ultra Light", ",", ".HeitiUI K Ultra Light", ",", ".HeitiUI J Ultra Light", ",", "Symbol", ",", "Thonburi", ",", "Thonburi Light", ",", "Times Roman", ",", "Times Bold", ",", "Times Italic", ",", "Zapf Dingbats", ",", "Hiragino Mincho ProN W3", ",", "Hiragino Mincho Pro W3", ",", "Hiragino Mincho ProN W6", ",", "Hiragino Mincho Pro W6", ",", "Hiragino Sans W0", ",", ".Hiragino Kaku Gothic Interface W0", ",", "Hiragino Sans W1", ",", ".Hiragino Kaku Gothic Interface W1", ",", "Hiragino Sans W2", ",", ".Hiragino Kaku Gothic Interface W2", ",", "Hiragino Sans W3", ",", ".Hiragino Kaku Gothic Interface W3", ",", "Hiragino Kaku Gothic ProN W3", ",", "Hiragino Kaku Gothic Pro W3", ",", "Hiragino Sans W4", ",", ".Hiragino Kaku Gothic Interface W4", ",", "Hiragino Sans W5", ",", ".Hiragino Kaku Gothic Interface W5", ",", "Hiragino Sans W6", ",", ".Hiragino Kaku Gothic Interface W6", ",", "Hiragino Kaku Gothic ProN W6", ",", "Hiragino Kaku Gothic Pro W6", ",", "Hiragino Sans W7", ",", ".Hiragino Kaku Gothic Interface W7", ",", "Hiragino Sans W8", ",", ".Hiragino Kaku Gothic Interface W8", ",", "Hiragino Kaku Gothic Std W8", ",", "Hiragino Kaku Gothic StdN W8", ",", "Hiragino Sans W9", ",", ".Hiragino Kaku Gothic Interface W9", ",", "Al Nile", ",", ".Al Nile PUA", ",", "Al Tarikh Regular", ",", ".Al Tarikh PUA", ",", "Al Bayan Plain", ",", ".Al Bayan PUA Plain", ",", "American Typewriter", ",", "American Typewriter Light", ",", "American Typewriter Condensed", ",", "American Typewriter Condensed Light", ",", "Andale Mono", ",", "Apple Chancery", ",", "AppleGothic Regular", ",", "AppleMyungjo Regular", ",", "Arial Black", ",", "Arial Narrow", ",", "Arial Rounded MT Bold", ",", "Arial Unicode MS", ",", "Arial", ",", "Athelas Regular", ",", "Athelas Italic", ",", "Athelas Bold", ",", "Ayuthaya", ",", "Baghdad Regular", ",", ".Baghdad PUA", ",", "Bangla MN", ",", "Bangla Sangam MN", ",", "Baoli SC Regular", ",", "Baskerville", ",", "Baskerville SemiBold", ",", "Beirut Regular", ",", ".Beirut PUA", ",", "Big Caslon Medium", ",", "Bodoni 72 Oldstyle Book", ",", "Bodoni 72 Oldstyle Bold", ",", "Bodoni 72 Smallcaps Book", ",", "Bodoni 72 Book", ",", "Bodoni 72 Bold", ",", "Bodoni Ornaments", ",", "Bradley Hand Bold", ",", "Brush Script MT Italic", ",", "Chalkboard", ",", "Chalkboard SE Light", ",", "Chalkboard SE Regular", ",", "Chalkboard SE Bold", ",", "Chalkduster", ",", "Charter Roman", ",", "Charter Italic", ",", "Charter Bold", ",", "Charter Black", ",", "Cochin", ",", "Comic Sans MS", ",", "Copperplate", ",", "Copperplate Light", ",", "Corsiva Hebrew", ",", "Courier New", ",", "Damascus Regular", ",", ".Damascus PUA", ",", "Damascus Light", ",", ".Damascus PUA Light", ",", "Damascus Medium", ",", ".Damascus PUA Medium", ",", "Damascus Bold", ",", "Damascus Semi Bold", ",", ".Damascus PUA Semi Bold", ",", "DecoType Naskh Regular", ",", ".DecoType Naskh PUA", ",", "Devanagari Sangam MN", ",", "Devanagari MT", ",", "Didot", ",", "DIN Alternate Bold", ",", "DIN Condensed Bold", ",", "Diwan Kufi Regular", ",", ".Diwan Kufi PUA", ",", "Diwan Thuluth Regular", ",", "Euphemia UCAS", ",", "Farah Regular", ",", ".Farah PUA", ",", "Farisi Regular", ",", "Futura Medium", ",", "Futura Condensed Medium", ",", "Futura Condensed ExtraBold", ",", "Georgia", ",", "Gill Sans", ",", "Gill Sans SemiBold", ",", "Gill Sans UltraBold", ",", "Gill Sans Light", ",", "Gujarati Sangam MN", ",", "Gujarati MT", ",", "GungSeo Regular", ",", "Gurmukhi MN", ",", "Gurmukhi Sangam MN", ",", "Gurmukhi MT", ",", "Hannotate SC Regular", ",", "Hannotate TC Regular", ",", "Hannotate SC Bold", ",", "Hannotate TC Bold", ",", "HanziPen SC Regular", ",", "HanziPen TC Regular", ",", "HanziPen SC Bold", ",", "HanziPen TC Bold", ",", "HeadLineA Regular", ",", "Herculanum", ",", "Hoefler Text Ornaments", ",", "Hoefler Text", ",", "Hoefler Text Black", ",", "Impact", ",", "InaiMathi", ",", "Iowan Old Style Roman", ",", "Iowan Old Style Bold", ",", "Iowan Old Style Italic", ",", "Iowan Old Style Black", ",", "Iowan Old Style Titling", ",", "ITF Devanagari Book", ",", "ITF Devanagari Bold", ",", "ITF Devanagari Demi", ",", "ITF Devanagari Light", ",", "ITF Devanagari Medium", ",", "ITF Devanagari Marathi Book", ",", "ITF Devanagari Marathi Bold", ",", "ITF Devanagari Marathi Demi", ",", "ITF Devanagari Marathi Light", ",", "ITF Devanagari Marathi Medium", ",", "Kailasa Regular", ",", "Kailasa Bold", ",", "Kaiti SC Black", ",", "Kaiti SC Bold", ",", "Kaiti TC Bold", ",", "Kaiti SC Regular", ",", "STKaiti", ",", "Kaiti TC Regular", ",", "Kannada MN", ",", "Kannada Sangam MN", ",", "Kefa Regular", ",", "Kefa Bold", ",", "Khmer MN", ",", "Khmer Sangam MN", ",", "Klee Demibold", ",", "Klee Medium", ",", "Kokonor Regular", ",", "Krungthep", ",", "KufiStandardGK Regular", ",", ".KufiStandardGK PUA", ",", "Lantinghei SC Demibold", ",", "Lantinghei SC Extralight", ",", "Lantinghei SC Heavy", ",", "Lantinghei TC Demibold", ",", "Lantinghei TC Extralight", ",", "Lantinghei TC Heavy", ",", "Lao MN", ",", "Lao Sangam MN", ",", "Libian SC Regular", ",", "Luminari", ",", "Malayalam MN", ",", "Malayalam Sangam MN", ",", "Marion Regular", ",", "Marion Italic", ",", "Marion Bold", ",", "Microsoft Sans Serif", ",", "Mishafi Gold Regular", ",", "Mishafi Regular", ",", "Mshtakan", ",", "Mshtakan Oblique", ",", "Muna Regular", ",", ".Muna PUA", ",", "Muna Bold", ",", "Muna Black", ",", ".Muna PUA Black", ",", "Myanmar MN", ",", "Myanmar Sangam MN", ",", "Nadeem Regular", ",", ".Nadeem PUA", ",", "NanumGothic", ",", "NanumGothic ExtraBold", ",", "NanumMyeongjo", ",", "NanumMyeongjo ExtraBold", ",", "Nanum Brush Script", ",", "Nanum Pen Script", ",", "New Peninim MT", ",", "New Peninim MT Inclined", ",", "New Peninim MT Bold Inclined", ",", "GB18030 Bitmap", ",", "Oriya MN", ",", "Oriya Sangam MN", ",", "Osaka", ",", "Osaka-Mono", ",", "Papyrus Condensed", ",", "Papyrus", ",", "PCMyungjo Regular", ",", "Phosphate Inline", ",", "Phosphate Solid", ",", "PilGi Regular", ",", "Plantagenet Cherokee", ",", "PT Mono", ",", "PT Sans", ",", "PT Sans Narrow", ",", "PT Sans Caption", ",", "PT Serif", ",", "PT Serif Caption", ",", "Raanana", ",", "Sana Regular", ",", ".Sana PUA", ",", "Sathu", ",", "Savoye LET Plain:1.0", ",", "Savoye LET Plain CC.:1.0", ",", "Seravek", ",", "Seravek Medium", ",", "Seravek Light", ",", "Seravek ExtraLight", ",", "Shree Devanagari 714", ",", "SignPainter-HouseScript", ",", "Silom", ",", "Sinhala MN", ",", "Sinhala Sangam MN", ",", "Skia", ",", "Snell Roundhand", ",", "Snell Roundhand Black", ",", "STIXGeneral-Regular", ",", "STIXGeneral-Bold", ",", "STIXGeneral-BoldItalic", ",", "STIXGeneral-Italic", ",", "STIXIntegralsD-Bold", ",", "STIXIntegralsD-Regular", ",", "STIXIntegralsSm-Bold", ",", "STIXIntegralsSm-Regular", ",", "STIXIntegralsUp-Bold", ",", "STIXIntegralsUpD-Bold", ",", "STIXIntegralsUpD-Regular", ",", "STIXIntegralsUp-Regular", ",", "STIXIntegralsUpSm-Bold", ",", "STIXIntegralsUpSm-Regular", ",", "STIXNonUnicode-Regular", ",", "STIXNonUnicode-Bold", ",", "STIXNonUnicode-BoldItalic", ",", "STIXNonUnicode-Italic", ",", "STIXSizeFiveSym-Regular", ",", "STIXSizeFourSym-Bold", ",", "STIXSizeFourSym-Regular", ",", "STIXSizeOneSym-Bold", ",", "STIXSizeOneSym-Regular", ",", "STIXSizeThreeSym-Bold", ",", "STIXSizeThreeSym-Regular", ",", "STIXSizeTwoSym-Bold", ",", "STIXSizeTwoSym-Regular", ",", "STIXVariants-Regular", ",", "STIXVariants-Bold", ",", "Sukhumvit Set Thin", ",", "Sukhumvit Set Light", ",", "Sukhumvit Set Text", ",", "Sukhumvit Set Medium", ",", "Sukhumvit Set Semi Bold", ",", "Sukhumvit Set Bold", ",", "Superclarendon Regular", ",", "Superclarendon Italic", ",", "Superclarendon Light", ",", "Superclarendon Bold", ",", "Superclarendon Black", ",", "Tahoma", ",", "Tamil MN", ",", "Tamil Sangam MN", ",", "Telugu MN", ",", "Telugu Sangam MN", ",", "Times New Roman", ",", "Trattatello", ",", "Trebuchet MS", ",", "Tsukushi A Round Gothic Regular", ",", "Tsukushi A Round Gothic Bold", ",", "Tsukushi B Round Gothic Regular", ",", "Tsukushi B Round Gothic Bold", ",", "Verdana", ",", "Waseem Regular", ",", "Waseem Light", ",", "Wawati SC Regular", ",", "Wawati TC Regular", ",", "Webdings", ",", "Weibei SC Bold", ",", "Weibei TC Bold", ",", "Wingdings 2", ",", "Wingdings 3", ",", "Wingdings", ",", "Xingkai SC Bold", ",", "Xingkai SC Light", ",", "YuGothic Bold", ",", "YuGothic Medium", ",", "Yuanti SC Bold", ",", "Yuanti TC Bold", ",", "Yuanti SC Light", ",", "Yuanti TC Light", ",", "Yuanti SC Regular", ",", "Yuanti TC Regular", ",", "YuMincho Medium", ",", "YuMincho Demibold", ",", "YuMincho +36p Kana Medium", ",", "YuMincho +36p Kana Demibold", ",", "Yuppy SC Regular", ",", "Yuppy TC Regular", ",", "Zapfino", ",", "Hiragino Maru Gothic Pro W4", ",", "Hiragino Maru Gothic ProN W4", ",", "LiSong Pro", ",", "LiHei Pro", ",", "STFangsong", ",", "STXihei", ",", "STHeiti", ",", "Songti SC Black", ",", "Songti SC Bold", ",", "Songti TC Bold", ",", "Songti SC Light", ",", "STSong", ",", "Songti TC Light", ",", "Songti SC Regular", ",", "Songti TC Regular" ],
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
@@ -6221,9 +6221,9 @@
 										"styles" : [ 											{
 												"name" : "helpfile_label-1",
 												"default" : 												{
-													"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 													"fontsize" : [ 13.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7321,9 +7321,9 @@
 						"styles" : [ 							{
 								"name" : "helpfile_label-1",
 								"default" : 								{
-									"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 									"fontsize" : [ 13.0 ],
-									"fontname" : [ "Arial" ]
+									"fontname" : [ "Arial" ],
+									"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -7370,7 +7370,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ -1406.0, 542.0, 1372.0, 761.0 ],
+						"rect" : [ 34.0, 105.0, 1852.0, 937.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -7400,6 +7400,170 @@
 						"showontab" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
+									"id" : "obj-67",
+									"maxclass" : "comment",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 373.0, 24.0, 150.0, 20.0 ],
+									"style" : "",
+									"text" : "dantheWizzArd!?]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-62",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "bang" ],
+									"patching_rect" : [ 519.666443, 1262.333984, 60.0, 22.0 ],
+									"presentation_rect" : [ 519.666443, 1263.333984, 0.0, 0.0 ],
+									"style" : "",
+									"text" : "loadbang"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-63",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 519.666443, 1292.333984, 113.0, 22.0 ],
+									"presentation_rect" : [ 519.666443, 1293.333984, 0.0, 0.0 ],
+									"style" : "",
+									"text" : "servername chorus"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-64",
+									"maxclass" : "newobj",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 398.166473, 1296.333984, 107.0, 22.0 ],
+									"presentation_rect" : [ 398.166473, 1297.333984, 0.0, 0.0 ],
+									"style" : "",
+									"text" : "jit.gl.syphonserver"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"format" : 6,
+									"id" : "obj-48",
+									"maxclass" : "flonum",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "", "bang" ],
+									"parameter_enable" : 0,
+									"patching_rect" : [ 229.5, 15.0, 50.0, 22.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"format" : 6,
+									"id" : "obj-49",
+									"maxclass" : "flonum",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "", "bang" ],
+									"parameter_enable" : 0,
+									"patching_rect" : [ 112.0, 15.0, 50.0, 22.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"format" : 6,
+									"id" : "obj-53",
+									"maxclass" : "flonum",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "", "bang" ],
+									"parameter_enable" : 0,
+									"patching_rect" : [ 52.0, 15.0, 50.0, 22.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"format" : 6,
+									"id" : "obj-56",
+									"maxclass" : "flonum",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "", "bang" ],
+									"parameter_enable" : 0,
+									"patching_rect" : [ 170.5, 15.0, 50.0, 22.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"id" : "obj-61",
+									"maxclass" : "newobj",
+									"numinlets" : 5,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 15.0, 48.0, 149.0, 22.0 ],
+									"style" : "",
+									"text" : "pak erase_color 0. 0. 0. 0."
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"attr" : "blend_enable",
+									"id" : "obj-42",
+									"maxclass" : "attrui",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 381.0, 983.55249, 150.0, 22.0 ],
+									"presentation_rect" : [ 381.0, 983.55249, 0.0, 0.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"attr" : "blend",
+									"id" : "obj-23",
+									"maxclass" : "attrui",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 237.0, 727.400513, 177.0, 22.0 ],
+									"presentation_rect" : [ 237.0, 727.55249, 0.0, 0.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"attr" : "blend_enable",
+									"id" : "obj-18",
+									"maxclass" : "attrui",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 204.0, 808.55249, 150.0, 22.0 ],
+									"style" : ""
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"id" : "obj-2",
 									"maxclass" : "dict.view",
 									"numinlets" : 1,
@@ -7411,26 +7575,12 @@
 							}
 , 							{
 								"box" : 								{
-									"id" : "obj-133",
-									"linecount" : 8,
-									"maxclass" : "message",
-									"numinlets" : 2,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
-									"patching_rect" : [ 790.666626, 200.0, 54.0, 116.0 ],
-									"style" : "",
-									"text" : "Calm. Powerful.*Addicted to purity and violence."
-								}
-
-							}
-, 							{
-								"box" : 								{
 									"id" : "obj-131",
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 593.333374, 305.333344, 133.0, 22.0 ],
+									"patching_rect" : [ 597.000061, 305.333344, 133.0, 22.0 ],
 									"style" : "",
 									"text" : "hello i am a big ol baby"
 								}
@@ -7662,7 +7812,7 @@
  ]
 									}
 ,
-									"patching_rect" : [ 616.166626, 1000.715332, 51.0, 22.0 ],
+									"patching_rect" : [ 659.666626, 1024.715332, 51.0, 22.0 ],
 									"style" : "",
 									"text" : "jit.gl.pix"
 								}
@@ -7675,7 +7825,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 492.0, 859.384277, 43.0, 22.0 ],
+									"patching_rect" : [ 696.166626, 952.553345, 43.0, 22.0 ],
 									"style" : "",
 									"text" : "r theB"
 								}
@@ -7701,7 +7851,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 753.166626, 783.55249, 125.0, 22.0 ],
+									"patching_rect" : [ 753.166626, 799.55249, 125.0, 22.0 ],
 									"style" : "",
 									"text" : "prepend param alpha"
 								}
@@ -7966,7 +8116,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 715.166626, 755.829224, 57.0, 22.0 ],
+									"patching_rect" : [ 715.166626, 771.829224, 57.0, 22.0 ],
 									"style" : "",
 									"text" : "zl.ecils 1"
 								}
@@ -7979,7 +8129,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 696.166626, 703.557129, 113.0, 22.0 ],
+									"patching_rect" : [ 696.166626, 719.557129, 113.0, 22.0 ],
 									"style" : "",
 									"text" : "sprintf get %i::opac"
 								}
@@ -7992,7 +8142,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 4,
 									"outlettype" : [ "dictionary", "", "", "" ],
-									"patching_rect" : [ 696.166626, 727.400513, 76.0, 22.0 ],
+									"patching_rect" : [ 696.166626, 743.400513, 76.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"embed" : 0,
 										"parameter_enable" : 0
@@ -8010,7 +8160,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 715.166626, 636.611938, 57.0, 22.0 ],
+									"patching_rect" : [ 715.166626, 641.611938, 57.0, 22.0 ],
 									"style" : "",
 									"text" : "zl.ecils 1"
 								}
@@ -8023,7 +8173,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 696.166626, 584.339722, 107.0, 22.0 ],
+									"patching_rect" : [ 696.166626, 589.339722, 107.0, 22.0 ],
 									"style" : "",
 									"text" : "sprintf get %i::blur"
 								}
@@ -8036,7 +8186,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 4,
 									"outlettype" : [ "dictionary", "", "", "" ],
-									"patching_rect" : [ 696.166626, 608.183228, 76.0, 22.0 ],
+									"patching_rect" : [ 696.166626, 613.183228, 76.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"embed" : 0,
 										"parameter_enable" : 0
@@ -8116,7 +8266,6 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-1",
@@ -8663,7 +8812,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 108.0, 461.666626, 50.0, 22.0 ],
 													"style" : "",
-													"text" : "5"
+													"text" : "14"
 												}
 
 											}
@@ -9026,6 +9175,7 @@
 														"styles" : [ 															{
 																"name" : "Johnstyle",
 																"default" : 																{
+																	"fontface" : [ 0 ],
 																	"bgfillcolor" : 																	{
 																		"type" : "gradient",
 																		"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -9036,18 +9186,17 @@
 																		"autogradient" : 0
 																	}
 ,
-																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"fontsize" : [ 12.0 ],
+																	"fontname" : [ "Monaco" ],
 																	"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
-																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textjustification" : [ 1 ],
+																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-																	"fontface" : [ 0 ],
-																	"fontsize" : [ 12.0 ],
+																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
 																	"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
-																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-																	"fontname" : [ "Monaco" ]
+																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -9722,7 +9871,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "jit_gl_texture" ],
-									"patching_rect" : [ 616.166626, 670.201904, 156.0, 22.0 ],
+									"patching_rect" : [ 616.166626, 675.201904, 156.0, 22.0 ],
 									"style" : "",
 									"text" : "jit.gl.slab.gauss6x.maxpat"
 								}
@@ -9989,7 +10138,7 @@
 							}
 , 							{
 								"box" : 								{
-									"embedstate" : [ [ "drawto", "gausText" ], [ "dim", 1000, 1000, 0 ], [ "adapt", 1 ], [ "texturecount", 30 ] ],
+									"embedstate" : [ [ "dim", 1000, 1000, 0 ], [ "adapt", 1 ], [ "texturecount", 30 ], [ "drawto", "gausText" ] ],
 									"id" : "obj-128",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
@@ -10023,7 +10172,7 @@
 											"modernui" : 1
 										}
 ,
-										"rect" : [ -1406.0, 516.0, 1372.0, 787.0 ],
+										"rect" : [ 34.0, 79.0, 1446.0, 963.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -10052,12 +10201,61 @@
 										"subpatcher_template" : "",
 										"boxes" : [ 											{
 												"box" : 												{
+													"id" : "obj-32",
+													"maxclass" : "button",
+													"numinlets" : 1,
+													"numoutlets" : 1,
+													"outlettype" : [ "bang" ],
+													"patching_rect" : [ 597.0, 829.0, 24.0, 24.0 ],
+													"style" : ""
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-26",
+													"maxclass" : "newobj",
+													"numinlets" : 1,
+													"numoutlets" : 2,
+													"outlettype" : [ "jit_matrix", "" ],
+													"patching_rect" : [ 449.999939, 936.0, 101.0, 22.0 ],
+													"style" : "",
+													"text" : "jit.matrix @thru 0"
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-3",
+													"maxclass" : "newobj",
+													"numinlets" : 1,
+													"numoutlets" : 0,
+													"patching_rect" : [ 614.333191, 957.0, 73.0, 22.0 ],
+													"style" : "",
+													"text" : "print penloc"
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-1",
+													"maxclass" : "newobj",
+													"numinlets" : 1,
+													"numoutlets" : 0,
+													"patching_rect" : [ 403.0, 883.0, 34.0, 22.0 ],
+													"style" : "",
+													"text" : "print"
+												}
+
+											}
+, 											{
+												"box" : 												{
 													"id" : "obj-6",
 													"maxclass" : "button",
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "bang" ],
-													"patching_rect" : [ 161.499939, 431.999969, 24.0, 24.0 ],
+													"patching_rect" : [ 98.499939, 459.66803, 24.0, 24.0 ],
 													"style" : ""
 												}
 
@@ -10105,7 +10303,6 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "Default Max 7",
-														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"id" : "obj-34",
@@ -10482,6 +10679,7 @@
 														"styles" : [ 															{
 																"name" : "Johnstyle",
 																"default" : 																{
+																	"fontface" : [ 0 ],
 																	"bgfillcolor" : 																	{
 																		"type" : "gradient",
 																		"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -10492,18 +10690,17 @@
 																		"autogradient" : 0
 																	}
 ,
-																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"fontsize" : [ 12.0 ],
+																	"fontname" : [ "Monaco" ],
 																	"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
-																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textjustification" : [ 1 ],
+																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-																	"fontface" : [ 0 ],
-																	"fontsize" : [ 12.0 ],
+																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
 																	"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
-																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-																	"fontname" : [ "Monaco" ]
+																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -10554,7 +10751,7 @@
 															"modernui" : 1
 														}
 ,
-														"rect" : [ -1406.0, 516.0, 1372.0, 787.0 ],
+														"rect" : [ 34.0, 516.0, 1372.0, 787.0 ],
 														"bglocked" : 0,
 														"openinpresentation" : 0,
 														"default_fontsize" : 12.0,
@@ -11012,7 +11209,7 @@
  ]
 													}
 ,
-													"patching_rect" : [ 161.499939, 475.499969, 59.0, 22.0 ],
+													"patching_rect" : [ 98.499939, 503.16803, 59.0, 22.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -11045,7 +11242,7 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 313.0, 684.171265, 83.0, 22.0 ],
+													"patching_rect" : [ 313.0, 682.171265, 83.0, 22.0 ],
 													"style" : "",
 													"text" : "print linemath"
 												}
@@ -11392,6 +11589,7 @@
 														"styles" : [ 															{
 																"name" : "Johnstyle",
 																"default" : 																{
+																	"fontface" : [ 0 ],
 																	"bgfillcolor" : 																	{
 																		"type" : "gradient",
 																		"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -11402,18 +11600,17 @@
 																		"autogradient" : 0
 																	}
 ,
-																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"fontsize" : [ 12.0 ],
+																	"fontname" : [ "Monaco" ],
 																	"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
-																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textjustification" : [ 1 ],
+																	"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 																	"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-																	"fontface" : [ 0 ],
-																	"fontsize" : [ 12.0 ],
+																	"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
 																	"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
-																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-																	"fontname" : [ "Monaco" ]
+																	"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+																	"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -11753,9 +11950,9 @@
 														"styles" : [ 															{
 																"name" : "helpfile_label-1",
 																"default" : 																{
-																	"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 																	"fontsize" : [ 13.0 ],
-																	"fontname" : [ "Arial" ]
+																	"fontname" : [ "Arial" ],
+																	"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -12378,7 +12575,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 2,
 													"outlettype" : [ "", "" ],
-													"patching_rect" : [ 299.0, 162.666656, 49.0, 22.0 ],
+													"patching_rect" : [ 295.0, 137.666656, 49.0, 22.0 ],
 													"style" : "",
 													"text" : "zl.iter 1"
 												}
@@ -12390,11 +12587,11 @@
 													"id" : "obj-81",
 													"maxclass" : "newobj",
 													"numinlets" : 1,
-													"numoutlets" : 4,
-													"outlettype" : [ "", "", "bang", "bang" ],
-													"patching_rect" : [ 299.0, 388.499969, 574.0, 22.0 ],
+													"numoutlets" : 5,
+													"outlettype" : [ "", "bang", "", "bang", "bang" ],
+													"patching_rect" : [ 299.0, 388.499969, 545.0, 22.0 ],
 													"style" : "",
-													"text" : "t s getpenloc b b"
+													"text" : "t s b getpenloc b b"
 												}
 
 											}
@@ -12587,11 +12784,11 @@
 													"id" : "obj-13",
 													"maxclass" : "newobj",
 													"numinlets" : 1,
-													"numoutlets" : 2,
-													"outlettype" : [ "bang", "" ],
-													"patching_rect" : [ 299.0, 740.337891, 30.0, 22.0 ],
+													"numoutlets" : 3,
+													"outlettype" : [ "bang", "bang", "" ],
+													"patching_rect" : [ 299.0, 740.337891, 40.0, 22.0 ],
 													"style" : "",
-													"text" : "t b l"
+													"text" : "t b b l"
 												}
 
 											}
@@ -12667,7 +12864,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "int" ],
-													"patching_rect" : [ 313.0, 656.171265, 54.0, 22.0 ],
+													"patching_rect" : [ 327.0, 649.171265, 54.0, 22.0 ],
 													"style" : "",
 													"text" : ">= 1100"
 												}
@@ -12693,7 +12890,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "int" ],
-													"patching_rect" : [ 313.0, 616.171265, 148.0, 22.0 ],
+													"patching_rect" : [ 312.999939, 610.171265, 148.0, 22.0 ],
 													"style" : "",
 													"text" : "+"
 												}
@@ -12706,7 +12903,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "int" ],
-													"patching_rect" : [ 313.0, 584.671265, 32.0, 22.0 ],
+													"patching_rect" : [ 313.0, 575.671265, 32.0, 22.0 ],
 													"style" : "",
 													"text" : "* 32"
 												}
@@ -12758,7 +12955,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 2,
 													"outlettype" : [ "int", "int" ],
-													"patching_rect" : [ 441.999939, 584.671265, 61.0, 22.0 ],
+													"patching_rect" : [ 441.999939, 575.671265, 61.0, 22.0 ],
 													"style" : "",
 													"text" : "unpack i i"
 												}
@@ -12786,7 +12983,7 @@
 													"maxclass" : "outlet",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 552.333191, 1009.830566, 30.0, 30.0 ],
+													"patching_rect" : [ 449.999939, 976.830566, 30.0, 30.0 ],
 													"style" : ""
 												}
 
@@ -12834,10 +13031,26 @@
 											}
 , 											{
 												"patchline" : 												{
-													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
-													"destination" : [ "obj-98", 0 ],
-													"midpoints" : [ 319.5, 767.584717, 561.833191, 767.584717 ],
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
+													"source" : [ "obj-13", 2 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
 													"source" : [ "obj-13", 1 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-26", 0 ],
+													"source" : [ "obj-13", 0 ]
 												}
 
 											}
@@ -12845,8 +13058,19 @@
 												"patchline" : 												{
 													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
 													"destination" : [ "obj-98", 0 ],
-													"midpoints" : [ 308.5, 779.584717, 561.833191, 779.584717 ],
-													"source" : [ "obj-13", 0 ]
+													"midpoints" : [ 329.5, 767.584717, 561.833191, 767.584717 ],
+													"order" : 0,
+													"source" : [ "obj-13", 2 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
+													"destination" : [ "obj-98", 0 ],
+													"midpoints" : [ 319.0, 779.584717, 561.833191, 779.584717 ],
+													"order" : 0,
+													"source" : [ "obj-13", 1 ]
 												}
 
 											}
@@ -12867,12 +13091,22 @@
 											}
 , 											{
 												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
+													"source" : [ "obj-18", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
 													"destination" : [ "obj-98", 0 ],
 													"midpoints" : [ 397.0, 747.334717, 561.833191, 747.334717 ],
+													"order" : 0,
 													"source" : [ "obj-18", 0 ],
 													"watchpoint_flags" : 2,
-													"watchpoint_id" : 7
+													"watchpoint_id" : 8
 												}
 
 											}
@@ -12913,10 +13147,22 @@
 											}
 , 											{
 												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
+													"source" : [ "obj-23", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
 													"destination" : [ "obj-98", 0 ],
 													"midpoints" : [ 623.833191, 783.668091, 561.833191, 783.668091 ],
-													"source" : [ "obj-23", 0 ]
+													"order" : 0,
+													"source" : [ "obj-23", 0 ],
+													"watchpoint_flags" : 2,
+													"watchpoint_id" : 1
 												}
 
 											}
@@ -12929,19 +13175,33 @@
 											}
 , 											{
 												"patchline" : 												{
+													"destination" : [ "obj-126", 0 ],
+													"source" : [ "obj-26", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-22", 0 ],
-													"order" : 1,
+													"order" : 0,
 													"source" : [ "obj-28", 0 ],
 													"watchpoint_flags" : 2,
-													"watchpoint_id" : 6
+													"watchpoint_id" : 7
 												}
 
 											}
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-5", 0 ],
-													"order" : 0,
+													"order" : 1,
 													"source" : [ "obj-28", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-98", 0 ],
+													"source" : [ "obj-32", 0 ]
 												}
 
 											}
@@ -12989,10 +13249,21 @@
 											}
 , 											{
 												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
+													"source" : [ "obj-49", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-24", 0 ],
 													"midpoints" : [ 1106.833313, 577.002563, 520.499939, 577.002563 ],
 													"order" : 0,
-													"source" : [ "obj-49", 1 ]
+													"source" : [ "obj-49", 1 ],
+													"watchpoint_flags" : 1,
+													"watchpoint_id" : 3
 												}
 
 											}
@@ -13001,7 +13272,9 @@
 													"destination" : [ "obj-60", 1 ],
 													"midpoints" : [ 1106.833313, 566.252563, 335.5, 566.252563 ],
 													"order" : 1,
-													"source" : [ "obj-49", 1 ]
+													"source" : [ "obj-49", 1 ],
+													"watchpoint_flags" : 1,
+													"watchpoint_id" : 4
 												}
 
 											}
@@ -13009,6 +13282,7 @@
 												"patchline" : 												{
 													"destination" : [ "obj-98", 0 ],
 													"midpoints" : [ 947.833313, 804.750366, 561.833191, 804.750366 ],
+													"order" : 0,
 													"source" : [ "obj-49", 0 ]
 												}
 
@@ -13022,8 +13296,18 @@
 											}
 , 											{
 												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
+													"source" : [ "obj-53", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-98", 0 ],
 													"midpoints" : [ 1157.333252, 772.750366, 561.833191, 772.750366 ],
+													"order" : 0,
 													"source" : [ "obj-53", 0 ]
 												}
 
@@ -13046,9 +13330,20 @@
 											}
 , 											{
 												"patchline" : 												{
+													"destination" : [ "obj-3", 0 ],
+													"order" : 0,
+													"source" : [ "obj-57", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-37", 0 ],
 													"midpoints" : [ 687.833191, 994.830566, 770.916565, 994.830566, 770.916565, 552.671265, 451.499939, 552.671265 ],
-													"source" : [ "obj-57", 0 ]
+													"order" : 1,
+													"source" : [ "obj-57", 0 ],
+													"watchpoint_flags" : 2,
+													"watchpoint_id" : 6
 												}
 
 											}
@@ -13076,14 +13371,25 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-81", 0 ],
-													"source" : [ "obj-68", 0 ]
+													"source" : [ "obj-68", 0 ],
+													"watchpoint_flags" : 1,
+													"watchpoint_id" : 2
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 2,
+													"source" : [ "obj-71", 2 ]
 												}
 
 											}
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-23", 0 ],
-													"midpoints" : [ 351.833333, 144.168121, 623.833191, 144.168121 ],
+													"midpoints" : [ 351.833333, 146.168121, 623.833191, 146.168121 ],
 													"source" : [ "obj-71", 1 ]
 												}
 
@@ -13091,7 +13397,7 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-24", 1 ],
-													"midpoints" : [ 446.5, 520.085693, 541.499939, 520.085693 ],
+													"midpoints" : [ 446.5, 471.085693, 541.499939, 471.085693 ],
 													"order" : 0,
 													"source" : [ "obj-71", 3 ]
 												}
@@ -13142,8 +13448,8 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-11", 0 ],
-													"midpoints" : [ 678.5, 434.583984, 947.833313, 434.583984 ],
-													"source" : [ "obj-81", 2 ]
+													"midpoints" : [ 703.0, 436.583984, 947.833313, 436.583984 ],
+													"source" : [ "obj-81", 3 ]
 												}
 
 											}
@@ -13166,7 +13472,18 @@
 , 											{
 												"patchline" : 												{
 													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
-													"destination" : [ "obj-9", 0 ],
+													"destination" : [ "obj-98", 0 ],
+													"midpoints" : [ 571.5, 437.583359, 561.833191, 437.583359 ],
+													"source" : [ "obj-81", 2 ],
+													"watchpoint_flags" : 2,
+													"watchpoint_id" : 5
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-98", 0 ],
+													"midpoints" : [ 440.0, 437.583359, 561.833191, 437.583359 ],
 													"source" : [ "obj-81", 1 ]
 												}
 
@@ -13174,22 +13491,14 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-99", 0 ],
-													"midpoints" : [ 863.5, 465.666626, 863.5, 465.666626 ],
-													"source" : [ "obj-81", 3 ]
+													"midpoints" : [ 834.5, 465.666626, 863.5, 465.666626 ],
+													"source" : [ "obj-81", 4 ]
 												}
 
 											}
 , 											{
 												"patchline" : 												{
-													"color" : [ 0.65098, 0.666667, 0.662745, 0.9 ],
-													"destination" : [ "obj-98", 0 ],
-													"source" : [ "obj-9", 0 ]
-												}
-
-											}
-, 											{
-												"patchline" : 												{
-													"destination" : [ "obj-126", 0 ],
+													"destination" : [ "obj-26", 0 ],
 													"source" : [ "obj-98", 0 ]
 												}
 
@@ -13197,7 +13506,18 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-57", 0 ],
-													"source" : [ "obj-98", 1 ]
+													"source" : [ "obj-98", 1 ],
+													"watchpoint_flags" : 2,
+													"watchpoint_id" : 9
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"color" : [ 0.65, 0.65, 0.65, 0.0 ],
+													"destination" : [ "obj-1", 0 ],
+													"order" : 1,
+													"source" : [ "obj-99", 0 ]
 												}
 
 											}
@@ -13205,6 +13525,7 @@
 												"patchline" : 												{
 													"destination" : [ "obj-98", 0 ],
 													"midpoints" : [ 863.5, 750.25, 561.833191, 750.25 ],
+													"order" : 0,
 													"source" : [ "obj-99", 0 ]
 												}
 
@@ -13213,6 +13534,7 @@
 										"styles" : [ 											{
 												"name" : "Johnstyle",
 												"default" : 												{
+													"fontface" : [ 0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -13223,18 +13545,17 @@
 														"autogradient" : 0
 													}
 ,
-													"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-													"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+													"fontsize" : [ 12.0 ],
+													"fontname" : [ "Monaco" ],
 													"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
-													"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 													"textjustification" : [ 1 ],
+													"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 													"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-													"fontface" : [ 0 ],
-													"fontsize" : [ 12.0 ],
+													"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
 													"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
-													"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-													"fontname" : [ "Monaco" ]
+													"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+													"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -13289,7 +13610,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1218.0, 261.0, 156.0, 74.0 ],
+									"patching_rect" : [ 1306.0, 190.0, 156.0, 74.0 ],
 									"style" : "",
 									"text" : "Need to make:\n- Chorus filter and channel\n-a \"preload\" so the generating of titles doesn't take forever."
 								}
@@ -13301,9 +13622,9 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 464.0, 181.0, 34.0, 22.0 ],
+									"patching_rect" : [ 407.0, 152.0, 89.0, 22.0 ],
 									"style" : "",
-									"text" : "print"
+									"text" : "print UDP7878"
 								}
 
 							}
@@ -13782,7 +14103,7 @@
 											"modernui" : 1
 										}
 ,
-										"rect" : [ -1179.0, 606.0, 640.0, 480.0 ],
+										"rect" : [ 34.0, 606.0, 640.0, 480.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -14023,9 +14344,7 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-68", 0 ],
-													"source" : [ "obj-56", 0 ],
-													"watchpoint_flags" : 2,
-													"watchpoint_id" : 1
+													"source" : [ "obj-56", 0 ]
 												}
 
 											}
@@ -14096,6 +14415,7 @@
 										"styles" : [ 											{
 												"name" : "Johnstyle",
 												"default" : 												{
+													"fontface" : [ 0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -14106,18 +14426,17 @@
 														"autogradient" : 0
 													}
 ,
-													"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-													"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+													"fontsize" : [ 12.0 ],
+													"fontname" : [ "Monaco" ],
 													"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
-													"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 													"textjustification" : [ 1 ],
+													"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 													"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-													"fontface" : [ 0 ],
-													"fontsize" : [ 12.0 ],
+													"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
 													"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
-													"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-													"fontname" : [ "Monaco" ]
+													"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+													"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -14783,13 +15102,13 @@
 							}
 , 							{
 								"box" : 								{
-									"attr" : "blend_enable",
+									"attr" : "blend",
 									"id" : "obj-28",
 									"maxclass" : "attrui",
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 397.833099, 1216.00061, 150.0, 22.0 ],
+									"patching_rect" : [ 450.5, 1048.00061, 150.0, 22.0 ],
 									"style" : ""
 								}
 
@@ -14811,7 +15130,7 @@
 											"modernui" : 1
 										}
 ,
-										"rect" : [ -967.0, 685.0, 456.0, 349.0 ],
+										"rect" : [ 1256.0, 508.0, 456.0, 349.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -14838,6 +15157,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "Default Max 7",
+										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-58",
@@ -15587,6 +15907,13 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-102", 0 ],
+									"source" : [ "obj-100", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-84", 0 ],
 									"source" : [ "obj-101", 0 ]
 								}
@@ -15709,7 +16036,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-106", 0 ],
-									"midpoints" : [ 705.666626, 575.592285, 816.313354, 575.592285, 816.313354, 693.892578, 705.666626, 693.892578 ],
+									"midpoints" : [ 705.666626, 575.592285, 816.313354, 575.592285, 816.313354, 711.892578, 705.666626, 711.892578 ],
 									"order" : 0,
 									"source" : [ "obj-128", 1 ]
 								}
@@ -15746,13 +16073,6 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-38", 0 ],
-									"source" : [ "obj-133", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
 									"destination" : [ "obj-11", 0 ],
 									"source" : [ "obj-14", 0 ]
 								}
@@ -15781,6 +16101,30 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-104", 0 ],
+									"order" : 2,
+									"source" : [ "obj-18", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-113", 0 ],
+									"order" : 1,
+									"source" : [ "obj-18", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-99", 0 ],
+									"order" : 0,
+									"source" : [ "obj-18", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-14", 0 ],
 									"source" : [ "obj-19", 0 ]
 								}
@@ -15797,6 +16141,30 @@
 								"patchline" : 								{
 									"destination" : [ "obj-9", 0 ],
 									"source" : [ "obj-22", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-104", 0 ],
+									"order" : 2,
+									"source" : [ "obj-23", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-113", 0 ],
+									"order" : 1,
+									"source" : [ "obj-23", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-99", 0 ],
+									"order" : 0,
+									"source" : [ "obj-23", 0 ]
 								}
 
 							}
@@ -15833,6 +16201,14 @@
 								"patchline" : 								{
 									"destination" : [ "obj-12", 0 ],
 									"order" : 0,
+									"source" : [ "obj-28", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-44", 0 ],
+									"order" : 2,
 									"source" : [ "obj-28", 0 ]
 								}
 
@@ -15919,6 +16295,13 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-44", 0 ],
+									"source" : [ "obj-42", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-84", 0 ],
 									"source" : [ "obj-43", 0 ]
 								}
@@ -15979,6 +16362,20 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-61", 4 ],
+									"source" : [ "obj-48", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-61", 2 ],
+									"source" : [ "obj-49", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-12", 0 ],
 									"source" : [ "obj-50", 0 ]
 								}
@@ -16000,6 +16397,13 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-61", 1 ],
+									"source" : [ "obj-53", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-10", 0 ],
 									"source" : [ "obj-54", 0 ]
 								}
@@ -16009,6 +16413,13 @@
 								"patchline" : 								{
 									"destination" : [ "obj-7", 0 ],
 									"source" : [ "obj-55", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-61", 3 ],
+									"source" : [ "obj-56", 0 ]
 								}
 
 							}
@@ -16037,6 +16448,27 @@
 								"patchline" : 								{
 									"destination" : [ "obj-1", 0 ],
 									"source" : [ "obj-6", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-7", 0 ],
+									"source" : [ "obj-61", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-63", 0 ],
+									"source" : [ "obj-62", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-64", 0 ],
+									"source" : [ "obj-63", 0 ]
 								}
 
 							}
@@ -16112,9 +16544,7 @@
 								"patchline" : 								{
 									"destination" : [ "obj-19", 0 ],
 									"order" : 1,
-									"source" : [ "obj-83", 0 ],
-									"watchpoint_flags" : 2,
-									"watchpoint_id" : 2
+									"source" : [ "obj-83", 0 ]
 								}
 
 							}
@@ -16143,16 +16573,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-133", 1 ],
-									"order" : 0,
-									"source" : [ "obj-85", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
 									"destination" : [ "obj-38", 0 ],
-									"order" : 1,
 									"source" : [ "obj-85", 0 ]
 								}
 
@@ -16238,6 +16659,7 @@
 						"styles" : [ 							{
 								"name" : "Johnstyle",
 								"default" : 								{
+									"fontface" : [ 0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -16248,18 +16670,17 @@
 										"autogradient" : 0
 									}
 ,
-									"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
-									"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+									"fontsize" : [ 12.0 ],
+									"fontname" : [ "Monaco" ],
 									"selectioncolor" : [ 0.870588, 0.415686, 0.062745, 1.0 ],
-									"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 									"textjustification" : [ 1 ],
+									"bgcolor" : [ 0.374196, 0.439327, 0.446685, 0.8 ],
 									"textcolor_inverse" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"patchlinecolor" : [ 0.702269, 0.811747, 0.303388, 0.9 ],
-									"fontface" : [ 0 ],
-									"fontsize" : [ 12.0 ],
+									"clearcolor" : [ 0.952941, 0.564706, 0.098039, 0.0 ],
 									"accentcolor" : [ 0.702269, 0.811747, 0.303388, 1.0 ],
-									"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ],
-									"fontname" : [ "Monaco" ]
+									"color" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
+									"elementcolor" : [ 0.45098, 0.513725, 0.521569, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -16596,7 +17017,7 @@
 					"range" : 100,
 					"size" : 128,
 					"style" : "",
-					"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 51, 51, 52, 53, 53, 53, 53, 53, 53, 53, 53, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 53, 53, 53, 53, 53, 53, 52, 52, 51, 51, 50, 48, 48, 48, 47, 46, 45, 44, 44, 43, 42, 42, 40, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+					"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 61, 61, 61, 62, 63, 63, 64, 64, 65, 65, 66, 66, 66, 67, 67, 67, 68, 68, 68, 69, 69, 70, 70, 71, 71, 72, 72, 73, 73, 73, 74, 74, 74, 74, 75, 75, 75, 75, 76, 76, 76, 76, 77, 77, 77, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 80, 80, 81, 81, 82, 82, 82, 82, 83, 83, 83, 84, 84, 84, 84, 84, 85, 85, 85, 85, 86, 87, 87, 88, 89, 95 ]
 				}
 
 			}
@@ -16627,7 +17048,7 @@
 					"range" : 128,
 					"size" : 5,
 					"style" : "",
-					"table_data" : [ 0, 0, 0, 0, 0, 127 ],
+					"table_data" : [ 0, 97, 105, 83, 18, 52 ],
 					"varname" : "itable"
 				}
 
@@ -17034,11 +17455,11 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 885.249878, 630.999878, 183.0, 22.0 ],
 					"restore" : 					{
-						"colorWeights" : [ 0, 0, 0, 0, 127 ],
+						"colorWeights" : [ 97, 105, 83, 18, 52 ],
 						"fadeDown" : [ 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 18, 19, 20, 24, 25, 26, 28, 99, 99, 99, 99, 99, 99, 99, 98, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99 ],
 						"fadeUp" : [ 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 98, 98, 98, 98, 98, 98, 98, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 34, 36, 37, 38, 39, 40, 42, 43, 43, 44, 45, 46, 47, 48, 50, 50, 51, 51, 53, 53, 53, 54, 54, 57, 57, 59, 60, 62, 62, 64, 65, 68, 73, 78, 84, 85 ],
-						"fontsizes" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 51, 51, 52, 53, 53, 53, 53, 53, 53, 53, 53, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 53, 53, 53, 53, 53, 53, 52, 52, 51, 51, 50, 48, 48, 48, 47, 46, 45, 44, 44, 43, 42, 42, 40, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-						"itable" : [ 0, 0, 0, 0, 127 ],
+						"fontsizes" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 47, 48, 49, 49, 50, 61, 61, 61, 62, 63, 63, 64, 64, 65, 65, 66, 66, 66, 67, 67, 67, 68, 68, 68, 69, 69, 70, 70, 71, 71, 72, 72, 73, 73, 73, 74, 74, 74, 74, 75, 75, 75, 75, 76, 76, 76, 76, 77, 77, 77, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 80, 80, 81, 81, 82, 82, 82, 82, 83, 83, 83, 84, 84, 84, 84, 84, 85, 85, 85, 85, 86, 87, 87, 88, 89, 95 ],
+						"itable" : [ 97, 105, 83, 18, 52 ],
 						"thefonts" : [ 67, 67, 70, 70, 70, 70, 67 ]
 					}
 ,
@@ -17584,21 +18005,21 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "LtoUmenu.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/patchers",
+				"bootpath" : "~/Desktop/SoS Testing/SoSTitles/operaTitlesTest/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "textureDraw.js",
-				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/code",
+				"bootpath" : "~/Desktop/SoS Testing/SoSTitles/operaTitlesTest/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jit.gl.slab.gauss6x.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoSTitles/operaTitlesTest/patchers",
+				"bootpath" : "~/Desktop/SoS Testing/SoSTitles/operaTitlesTest/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -17624,9 +18045,9 @@
 		"styles" : [ 			{
 				"name" : "helpfile_label-1",
 				"default" : 				{
-					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
 					"fontsize" : [ 13.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
